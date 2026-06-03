@@ -1,0 +1,871 @@
+***
+***
+**[◄◄ 查看FMHY官方英文站](https://fmhy.net/)**
+***
+***
+
+# ► Linux 指南
+
+* **Note** - 请注意，安装指南通常可以在每个发行版的文档页面上找到。你可以通过每个发行版的网站或 [DistroWatch](https://distrowatch.com/dwres.php?resource=popularity) 页面找到文档页面。
+
+***
+
+* ⭐ **[ArchWiki](https://wiki.archlinux.org/)** - Linux 指南 / [Manuals](https://man.archlinux.org/) / [TUI](https://codeberg.org/theooo/mantra.py)
+* [Gentoo Wiki](https://wiki.gentoo.org/wiki/Main_Page) - Gentoo Wikis / 指南s
+* [Debian Wiki](https://wiki.debian.org/) - Debian Wiki / 指南s
+* [Linux Journey](https://labex.io/linuxjourney) - Interactive Linux 指南
+* [HowToLinux](https://howtolinux.vercel.app) - Linux 桌面 指南
+* [Sindresorhus 指南](https://github.com/sindresorhus/guides) - Linux 指南 for Node.js Developers
+* [Erik Dubois](https://www.youtube.com/c/ErikDubois) - Arch-centric Linux Video Tutorials
+* [Linuxtopia](https://www.linuxtopia.org/) - Linux 指南
+* [Linux Roadmap](https://roadmap.sh/linux) - Linux Learning Roadmap
+* [Vim Tutorials](https://www.youtube.com/playlist?list=PL3cu45aM3C2DJVGfCjSBB1yD9YkC7q27-) - Vim Tutorial Playlist by Mental Outlaw
+* [Boot-Repair](https://help.ubuntu.com/community/Boot-Repair) - Grub Repair Guide for Linux Systems
+* [⁠Wikiman](https://github.com/filiparag/wikiman) - Offline Linux Documentation 搜索
+
+***
+
+## ▷ 命令行速查表
+
+* ⭐ **[Linux Command Library](https://linuxcommandlibrary.com/)** - 搜索able Linux Command 索引 / [GitHub](https://github.com/SimonSchubert/LinuxCommandLibrary)
+* [Awesome for One Liner](https://github.com/sheepla/awesome-for-oneliner) - Curated One-Liner 命令行 工具
+* [You Don't Need GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - 命令行 Alts for GUI Tasks
+* [CommandlineFU](https://www.commandlinefu.com/) - 社区-Driven Command Snippets
+* [cheat.sh](https://github.com/chubin/cheat.sh) or [Commands.dev](https://www.commands.dev/) - Terminal Commands
+* [Bash Academy](https://guide.bash.academy/) - Bash Scripting Guide
+* [ss64 Bash](https://ss64.com/bash/) - Alphabetical Command Reference
+* [Bash Oneliner](https://onceupon.github.io/Bash-Oneliner/) - Bash One-Liner 合集
+* [navi](https://github.com/denisidoro/navi) - Interactive Cheatsheet 工具
+
+***
+
+# ► Linux 社区
+
+* **Note** - 请注意，如果需要帮助，通常最好寻找针对你所用发行版的具体论坛。
+
+***
+
+* [LinuxQuestions](https://www.linuxquestions.org/questions/) - Linux Q&A 论坛
+* [Linux.Chat](https://discord.gg/linuxchat) - Linux Discord 服务器
+* [Linux x Technology](https://linuxdiscord.com/) - Linux Discord 服务器
+* [Arch Linux 社区](https://discord.gg/3m6dbPR) - Linux Discord 服务器
+* [Discord-Linux](https://discord.gg/discord-linux) - Linux Discord 服务器
+* [Linux.org](https://linux.org/) - Linux 论坛 / Invite Required for Account
+* [Arch 论坛s](https://bbs.archlinux.org/) - Linux 论坛
+* [Gentoo 论坛s](https://forums.gentoo.org/) - Linux 论坛
+* [⁠phoronix](https://www.phoronix.com/forums/) - Linux 论坛
+
+***
+
+# ► Linux 发行版
+
+* **Note** - 我们不会自行策展单个发行版，因为列出的索引已经足够完善。安装指南通常可以在每个发行版的文档页面上找到。你可以通过每个发行版的网站或 [DistroWatch](https://distrowatch.com/dwres.php?resource=popularity) 页面找到文档页面。
+
+***
+
+* 🌐 **[DistroWatch](https://distrowatch.com/dwres.php?resource=popularity)** - Distro 索引 w/ 新闻 + 排名 / [Advanced 搜索](https://distrowatch.com/search.php#advanced)
+* ⭐ **[DistroChooser](https://distrochooser.de/)** / [Beta](https://beta.distrochooser.de/) - Quiz-Based Distro Selector / [Discord](https://discord.com/invite/aDkCutfqak) / [GitHub](https://github.com/distrochooser/distrochooser)
+* [distro.moe](https://distro.moe/) - Random Distro 查找工具
+* [Linux Live Kit](https://www.linux-live.org/) - Create Live Distros from Installed Systems
+* [OpenSourceFeed](https://www.opensourcefeed.org/) - 开源 Distros
+* [OS.click](https://os.click/en) - Fast Distro Downloads
+* [Linux追踪器](https://linuxtracker.org/) - BitTorrent Distro Repo
+* [Linux 对比](https://eylenburg.github.io/linux_comparison.htm) - Detailed Distro 对比 Charts
+* [存档OS](https://archiveos.org/) - Inactive / 开源 OS Projects
+
+***
+
+# ► Linux 应用
+
+* 🌐 **[GNOME Shell 扩展](https://extensions.gnome.org/)**
+* ↪️ **[多平台 Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading/#wiki_.25B7_ebook_readers)** - Ebook Reader 索引
+* ↪️ **[Office Suites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_office_suites)**
+* ⭐ **[Bottles](https://usebottles.com/)** - Manage Wine containers / [Discord](https://discord.com/invite/wF4JAdYrTR) / [GitHub](https://github.com/bottlesdevs)
+* ⭐ **[WineHQ](https://appdb.winehq.org/)** - Wine Compatibility 数据库
+* ⭐ **[Q4Wine](https://sourceforge.net/projects/q4wine/)** - Wine GUI
+* ⭐ **[应用Image启动器](https://github.com/TheAssassin/应用Image启动器)** or [GearLever](https://github.com/mijorus/gearlever) - Integrate 应用Images to 应用 启动器s
+* ⭐ **[winetricks](https://github.com/Winetricks/winetricks)** - Wine Fixes
+* ⭐ **[rofi](https://davatorium.github.io/rofi/)** / [Emoji Selector](https://github.com/Mange/rofi-emoji), [vicinae](https://github.com/vicinaehq/vicinae), [Fuzzel](https://codeberg.org/dnkl/fuzzel), [Ulauncher](https://ulauncher.io/) or [wofi](https://hg.sr.ht/~scoopta/wofi) - 应用 启动器s / Keystroke 启动器s
+* ⭐ **[免费RDP](https://www.freerdp.com/)** / [GitHub](https://github.com/免费RDP/免费RDP), [⁠Remmina](https://remmina.org/) or [⁠Apache Guacamole](https://guacamole.apache.org/) - Remote 桌面 客户端 
+* ⭐ **[shell_gpt](https://github.com/TheR1D/shell_gpt)** or [shellgpt](https://github.com/jiacai2050/my-works/tree/main/shellgpt) - AI Terminal Chatbot / GPT
+* [Darling](https://www.darlinghq.org/) - Run macOS 应用s on Linux / [Discord](https://discord.com/invite/XRD3mQA) / [GitHub](https://github.com/darlinghq/darling)
+* [innoextract](https://constexpr.org/innoextract/) - Windows Installer Unpacker / [GitHub](https://github.com/dscharrer/innoextract)
+* [web2app](https://github.com/hamza72x/web2app) - Turn Webpages into 桌面 应用s
+* [Autokey](https://autokey.github.io/index.html) - Linux 自动化 Utility / [GitHub](https://github.com/autokey/autokey)
+* [ProtonTricks](https://github.com/Matoking/protontricks) - Run Winetricks Commands for Steam Play / Proton Games
+* [Touchégg](https://github.com/JoseExposito/touchegg) - Multi-Touch Gesture Recognizer
+* [Ghostwriter](https://ghostwriter.kde.org/) or [Remarkable](https://remarkableapp.github.io/) - Markdown 编辑器
+* [taskbook](https://github.com/klaudiosinani/taskbook) or [nb](https://xwmx.github.io/nb) / [GitHub](https://github.com/xwmx/nb) - Note 应用s
+* [Featherpad](https://github.com/tsujan/FeatherPad) or [gedit](https://gedit-text-editor.org/) - Text 编辑器
+* [Kate 编辑器](https://kate-editor.org/) - Source Code 编辑器
+* [TextPieces](https://gitlab.com/liferooter/textpieces) - Quick Text Transformations
+* [Durdraw](https://durdraw.org/) - ASCII 编辑器
+* [ly](https://github.com/fairyglade/ly) - Display 管理器 with Console UI
+* [GammaStep](https://gitlab.com/chinstrap/gammastep) - Adjust Screen Temperature
+* [Weylus](https://github.com/H-M-H/Weylus) - Use 手机 Device as Trackpad
+* [AudioSource](https://github.com/gdzx/audiosource) - Use 手机 Device as Microphone
+* [Alpaca](https://jeffser.com/alpaca/) - Run LLMs on Linux
+* [nyrna](https://nyrna.merritt.codes) - Suspend 应用s / Games
+* [Solaar](https://github.com/pwr-Solaar/Solaar) - Logitech Device 管理器
+* [bluetuith](https://github.com/darkhz/bluetuith) - Bluetooth 管理器
+* [libimobiledevice](https://libimobiledevice.org) - Communicate with iOS Devices
+* [Linux-PowerToys](https://github.com/domferr/Linux-PowerToys) - PowerToys for Linux
+* [Railway](https://flathub.org/apps/de.schmidhuberj.DieBahn) - Travel Info 管理器
+* [Wike](https://github.com/hugolabe/Wike) - Wikipedia 应用
+* [Komikku](https://flathub.org/en/apps/info.febvre.Komikku), [Suwayomi-VaadinUI](https://github.com/Suwayomi/Suwayomi-VaadinUI) or [Manga Reader](https://flathub.org/apps/com.georgefb.mangareader) - Manga Readers
+* [Mako](https://github.com/emersion/mako) or [dunst](https://dunst-project.org/) / [GitHub](https://github.com/dunst-project/dunst) - Customizable Notification Daemon
+* [Eloquent](https://github.com/sonnyp/Eloquent) or [DidYouMean](https://github.com/hisbaan/didyoumean) - Grammar Check 应用s
+* [KTouch](https://apps.kde.org/ktouch/) or [typer](https://github.com/maaslalani/typer) - Typing Practice
+
+***
+
+## ▷ 软件站点
+
+* 🌐 **[ArchWiki 应用 站点](https://wiki.archlinux.org/title/列表_of_applications)** or **[Ultimate Cheatsheet](https://gist.github.com/bgoonz/be5c5be77169ef333b431bc37d331176)** - Linux 软件 / 站点 索引
+* 🌐 **[Awesome Linux 软件](https://luong-komorebi.github.io/Awesome-Linux-软件/)** - 开源 Linux 软件
+* 🌐 **[Awesome KDE](https://github.com/francoism90/awesome-kde)** - 开源 KDE 软件
+* 🌐 **[Awesome GNOME](https://github.com/Kazhnuz/awesome-gnome)** - 开源 GNOME 软件
+* 🌐 **[开源 软件 Packages](https://wikipedia.org/wiki/列表_of_free_and_open-source_software_packages)** - 开源 软件 Packages 索引
+* ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=5.0)** - Linux 软件 / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+* ⭐ **[The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)**
+* ⭐ **[Linux 软件 CSE](https://cse.google.com/cse?cx=81bd91729fe2a412b)** - Multi-站点 软件 搜索
+* [⁠TuxMate](https://tuxmate.com/) - Bulk 应用 Installer / [GitHub](https://github.com/abusoww/tuxmate)
+* [Awesome Linux Minimalism](https://github.com/MindPatch/awesome-linux-minimalism) - 开源 软件
+* [开源 Torrents](https://fosstorrents.com/) - 开源 软件 Torrents
+* [开源 Linux Programs](https://files.catbox.moe/o99qyz.jpg) - 开源 软件 Chart
+* [RU追踪器 Linux](https://rutracker.org/forum/viewforum.php?f=1376) - Linux 软件
+* [Rim's Linux Wiki](https://rlw.pages.dev/), [2](https://rimswiki.xyz/) - Linux 软件 / 工具 索引 / [Discord](https://discord.gg/pQVYgjzM3w)
+* [KDE 应用lications](https://apps.kde.org/) or [KDE Store](https://store.kde.org/browse/) - KDE 应用s & 主题
+* [Flatpak](https://flatpak.org/) - Sandboxed Package 管理器 / [应用 仓库itory](https://flathub.org) / [Manage Permissions](https://github.com/tchx84/flatseal)
+* [SnapCraft](https://snapcraft.io/store) - Snap 仓库itory
+* [Nix](https://nixos.org/) / [资源](https://github.com/nix-community/awesome-nix), [pkgx](https://pkgx.sh/) / [GitHub](https://github.com/pkgxdev/pkgx) or [Homebrew](https://brew.sh/) - Package 管理器
+* [Nala](https://gitlab.com/volian/nala), [apt-fast](https://github.com/ilikenwf/apt-fast) or [APTUI](https://github.com/mexirica/aptui) - TUI 前端s for APT Package 管理器
+* [Zap](https://zap.srev.in) / [GitHub](https://github.com/srevinsaju/zap) or [AM](https://github.com/ivan-hc/AM) - 应用 Image 管理器
+* [Pkgs](https://pkgs.org/) or [Repology](https://repology.org/) - 搜索able Linux Package 数据库
+* [应用ImageHub](https://www.appimagehub.com/) / [GUI](https://github.com/prateekmedia/appimagepool), [应用Images](https://appimage.github.io/) or [Get 应用Image](https://g.srev.in/get-appimage/) - Download 应用Images
+* [⁠应用管理器](https://github.com/kem-a/应用管理器) - 应用Image Installer / 管理器
+* [应用s for GNOME](https://apps.gnome.org/) - GNOME 应用s
+* [emplace](https://codeberg.org/fosk/emplace) - System Package 同步
+* [Pacstall](https://pacstall.dev/) - AUR-Inspired Package 管理器 for Ubuntu
+
+***
+
+## ▷ Linux 系统
+
+* 🌐 **[Hardware for Linux](https://linux-hardware.org/)** - Linux Hardware Compatibility 数据库 / [GitHub](https://github.com/linuxhw/)
+* ⭐ **[Btop](https://github.com/aristocratos/btop)** or [s-tui](https://github.com/amanusk/s-tui) - System Resource 监控s
+* ⭐ **[MangoHud](https://github.com/flightlessmango/MangoHud)** - System Resource 监控 Overlay / [GUI](https://github.com/radiolamp/mangojuice)
+* ⭐ **[fastfetch](https://github.com/fastfetch-cli/fastfetch)**, [Archey4](https://github.com/HorlogeSkynet/archey4), [Hyfetch](https://github.com/hykilpikonna/hyfetch), [Macchina](https://github.com/Macchina-命令行/macchina) or [CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X) - System Info Displays
+* ⭐ **[TimeShift](https://github.com/linuxmint/timeshift)** - System Restore / 备份
+* [Impression](https://gitlab.com/adhami3310/Impression) or [Caligula](https://github.com/ifd3f/caligula) - Create Bootable USB Linux Drives
+* [anuraOS](https://github.com/MercuryWorkshop/anuraOS) / [Instance](https://anura.pro/) - Linux Browser Emulator
+* [SysmonForLinux](https://github.com/microsoft/SysmonForLinux) - 监控 / Log System Activity
+* [htop](https://htop.dev/) or [Zenith](https://github.com/bvaisvil/zenith) - Interactive Process 查看器
+* [⁠Tux管理器](https://github.com/benapetr/Tux管理器) - Task 管理器
+* [screenFetch](https://github.com/KittyKatt/screenFetch) - Bash Screenshot Information 工具
+* [Nanobench](https://github.com/andreas-abel/nanoBench) - CPU Microbenchmark / [Documentation](https://nanobench.ankerl.com/)
+* [ScanMem](https://github.com/scanmem/scanmem) - Memory 扫描器 / Debugger
+* [pacwall](https://github.com/Kharacternyk/pacwall) - Live Wallpaper Dependency Graph / Package Status
+* [keyd](https://github.com/rvaiya/keyd) or [xremap](https://github.com/xremap/xremap) - Keyboard Remapping
+* [LAN Mouse](https://github.com/feschber/lan-mouse) - Mouse & Keyboard Sharing
+* [Input Leap](https://github.com/input-leap/input-leap) - Multi-Computer Control
+* [auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - CPU Speed & Power Optimization 自动化
+* [Fan Control](https://github.com/wiiznokes/fan-control) - Fan Controller
+* [⁠Win应用s](https://github.com/winapps-org/winapps) - Run Windows 应用s on Linux
+* [Teleport](https://teleportsite.pages.dev/) - Windows 应用 Compatibility Analyzer
+* [NetBoot](https://netboot.xyz/) - iPXE 网络 Boot
+* [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/) - Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)
+* [zfsBootMenu](https://docs.zfsbootmenu.org/) - ZFS Bootloader
+* [Linux Heads](https://osresearch.net/) - Minimal CoreBoot / [GitHub](https://github.com/linuxboot/heads)
+* [coreboot](https://coreboot.org/), [Heads](https://osresearch.net/) / [GitHub](https://github.com/linuxboot/heads), [⁠Canoeboot](https://canoeboot.org/) or [Libreboot](https://libreboot.org/) - Replace Proprietary BIOS/UEFI Firmware
+* [GParted](https://gparted.org/) - Partition 管理器
+* [CoreELEC](https://coreelec.org) / [GitHub](https://github.com/CoreELEC/CoreELEC) or [LibreELEC](https://libreelec.tv/) / [GitHub](https://github.com/LibreELEC/LibreELEC.tv) - Kodi-Based Operating System
+* [DistroSea](https://distrosea.com/) - Cloud Virtual Machine / Allows Browsers
+* [Linux-KVM](https://www.linux-kvm.org/page/Downloads) - Virtualization Kernel module
+* [WebVM](https://webvm.io/) - Browser Virtual Machine / [Discord](https://discord.gg/yTNZgySKGa) / [GitHub](https://github.com/leaningtech/webvm)
+* [OSX-KVM](https://github.com/kholia/OSX-KVM), [OneClick-macOS-Simple-KVM](https://oneclick-macos-simple-kvm.notaperson535.is-a.dev/) or [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - macOS Virtual Machines
+* [kmon](https://kmon.cli.rs/) - Kernel 管理器 and Activity 监控
+* [Kernel Map](https://makelinux.github.io/kernel/map/) - Interactive Linux Kernel Map
+* [KernelNewbies](https://kernelnewbies.org/) - Kernel Developer 指南
+* [SystemRescue](https://www.system-rescue.org/) or [Super Grub2 Disk](https://www.supergrubdisk.org/super-grub2-disk/) - Bootable System Rescue 工具kits
+* [bt-dualboot](https://github.com/x2es/bt-dualboot) - Dual-Boot Bluetooth 同步 工具
+* [⁠LACT](https://github.com/ilya-zlobintsev/LACT/) - GPU Config + 监控
+* [open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux Open GPU Kernel Module
+* [systemctl-tui](https://github.com/rgwood/systemctl-tui) - TUI for systemd
+* [nosystemd](https://nosystemd.org/) or [⁠Init 免费dom](https://www.devuan.org/os/init-freedom) - Alternatives to systemd
+* [greetd](https://sr.ht/~kennylevinsen/greetd/) - Login 管理器 Daemon 
+
+***
+
+## ▷ Linux 视频
+
+* ↪️ **[Media 服务器s / 工具](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_media_servers)**
+* ⭐ **[mpv](https://mpv.io/)** or [VLC](https://www.videolan.org/) - Video 播放器
+* ⭐ **[Haruna](https://apps.kde.org/haruna/)** / [GitHub](https://github.com/KDE/haruna) or **[Celluloid](https://github.com/celluloid-player/celluloid)** - MPV 前端s
+* ⭐ **[Kdenlive](https://apps.kde.org/kdenlive/)** / [GitHub](https://github.com/KDE/kdenlive), [Pitivi](https://www.pitivi.org/), [⁠davincibox](https://github.com/zelikos/davincibox) or [Flowblade](https://jliljebl.github.io/flowblade/) / [GitHub](https://github.com/jliljebl/flowblade) - Video 编辑器
+* [MultiPlex](https://github.com/pojntfx/multiplex) - Torrent Watch Party / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn)
+* [MPV Shim](https://github.com/iwalton3/plex-mpv-shim) - Cast Plex to MPV
+* [Gromit MPX](https://github.com/bk138/gromit-mpx) - Screen Annotation
+* [⁠Spectacle](https://apps.kde.org/spectacle/) or [GPU Screen 录制器](https://git.dec05eba.com/gpu-screen-recorder/) / [GitHub](https://github.com/BrycensRanch/gpu-screen-recorder-git-copr) - Screen 录制器s
+* [AV Linux](https://www.bandshed.net/avlinux/) - Video / Audio 编辑器
+* [REAL Video Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) - Video Upscaling
+* [4KTUBE](https://github.com/rishabh3354/4KTUBE) or [Video 下载器](https://github.com/Unrud/video-downloader) - Video 下载器
+* [Linux-Fake-Background-Webcam](https://github.com/fangfufu/Linux-Fake-Background-Webcam/) - Fake Webcam Background
+* [AnymeX](https://anymex.vercel.app/) - Anime Streaming 应用 / [扩展 Guide](https://wotaku.wiki/guides/ext/mangayomi) / [Discord](https://discord.gg/hDwQ3heJ8V) / [GitHub](https://github.com/RyanYuuki/AnymeX)
+* [Hayase](https://hayase.watch/) - Anime Torrent Streaming 应用 / [扩展](https://rentry.co/FMHYB64#hayase)
+* [ani-cli](https://github.com/pystardust/ani-cli) - Anime Streaming Terminal
+* [Trackma](https://github.com/z411/trackma/) - Anime Tracking 应用
+* [LiveCaptions](https://github.com/abb128/LiveCaptions) - Real-Time Captions
+
+***
+
+## ▷ Linux 音频
+
+* 🌐 **[Awesome Linux Audio](https://gitlab.com/nodiscc/awesome-linuxaudio)** - Live Audio 资源
+* ⭐ **[SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash)** or [spotify-adblock](https://github.com/abba23/spotify-adblock) - Spotify Adblockers
+* ⭐ **[Spicetify](https://spicetify.app/)** - Spotify 主题 & 插件 / [Improved Lyrics](https://spicylyrics.org/) / [Discord](https://discord.gg/VnevqPp2Rr) / [GitHub](https://github.com/spicetify/cli) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/spicetify-note.md) 
+* ⭐ **[Shortwave](https://flathub.org/en/apps/de.haeckerfelix.Shortwave)** / [GitLab](https://gitlab.gnome.org/World/Shortwave) or [QMPlay2](https://github.com/zaps166/QMPlay2) - Radio 播放器
+* ⭐ **[SongRec](https://github.com/marin-m/SongRec)** or [Mousai](https://github.com/SeaDve/Mousai) - Song Identifiers
+* [puddletag](https://docs.puddletag.net/) - Metadata 整理工具 / [GitHub](https://github.com/puddletag/puddletag)
+* [Tidal Hi-Fi](https://github.com/Mastermindzh/tidal-hifi) - Hi-Fi Tidal 播放器
+* [⁠tuifi](https://git.sr.ht/~matf/tuifi) - Terminal Audio 播放器 for Hi-Fi Tidal
+* [BeatBoss](https://beatboss.thevolecitor.qzz.io/) - 插件-Based Streaming / [GitHub](https://github.com/TheVolecitor/BeatBoss)
+* [cmus](https://cmus.github.io/) - Audio 播放器
+* [Tauon Music Box](https://tauonmusicbox.rocks/) - Audio 播放器 / [Discord](https://discord.com/invite/v4EmhES) / [GitHub](https://github.com/Taiko2k/Tauon)
+* [Lollypop](https://gitlab.gnome.org/World/lollypop) - Audio 播放器
+* [Audacious](https://audacious-media-player.org/) - Audio 播放器 / [GitHub](https://github.com/audacious-media-player)
+* [Amberol](https://gitlab.gnome.org/World/amberol) - Audio 播放器
+* [Fooyin](https://www.fooyin.org/) - Audio 播放器 / [GitHub](https://github.com/fooyin/fooyin)
+* [Gapless](https://gitlab.gnome.org/neithern/g4music) - Audio 播放器
+* [dopamine](https://github.com/digimezzo/dopamine) - Audio 播放器
+* [AudioTube](https://invent.kde.org/multimedia/audiotube), [ytermusic](https://github.com/ccgauche/ytermusic/) or [Monophony](https://gitlab.com/zehkira/monophony) - YouTube Music 客户端
+* [cliamp](https://www.cliamp.stream/) / [GitHub](https://github.com/bjarneo/cliamp), [MOC](https://moc.daper.net/) or [Kew](https://github.com/ravachol/kew) - TUI Audio 播放器
+* [⁠Sonosano](https://sonosano.krshh.com/) - 自托管 P2P Lossless Music 播放器 / [GitHub](https://github.com/KRSHH/Sonosano)
+* [Deezer Linux](https://github.com/aunetx/deezer-linux) or [DZR](https://github.com/yne/dzr) - Deezer 客户端
+* [MusicPod](https://github.com/ubuntu-flutter-community/musicpod) - Podcast / Radio 播放器
+* [HeadsetControl](https://github.com/Sapd/HeadsetControl) - Headset Settings 管理器
+* [Pipewire](https://pipewire.org/) - Improved Video / Audio Handling / Multimedia API / [Effects](https://github.com/wwmm/easyeffects) / [TUI Audio Mixer](https://github.com/tsowell/wiremix)
+* [⁠LibrePods](https://github.com/kavishdevar/librepods) - Use AirPod Features on Linux
+* [Werman](https://github.com/werman/noise-suppression-for-voice) or [NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Noise Suppression 软件
+* [Qtractor](https://qtractor.org/) - Audio 编辑器
+* [Calf Studio Gear](https://calf-studio-gear.org/) - Audio Production 插件
+* [Ensembles](https://github.com/ensemblesaw/ensembles-app) - Musical Performance Arranger
+* [JDSP4Linux](https://github.com/Audio4Linux/JDSP4Linux) - Audio Processors
+* [cava](https://github.com/karlstav/cava) - Console Audio Visualizer
+* [Blanket](https://github.com/rafaelmardojai/blanket) - Ambient Sound Mixer for Linux
+
+***
+
+## ▷ Linux 图像
+
+* ↪️ **[Linux Image 编辑器](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_editing_software)**
+* ⭐ **[Flameshot](https://flameshot.org/)**, [⁠Spectacle](https://apps.kde.org/spectacle/), [Gradia](https://gradia.alexandervanhee.be/) / [GitHub](https://github.com/AlexanderVanhee/Gradia) or [Scrot](https://github.com/resurrecting-open-source-projects/scrot) - Screenshot 工具
+* [v4l2loopback](https://github.com/v4l2loopback/v4l2loopback) - Create Virtual Cameras
+* [Drawing](https://maoschanz.github.io/drawing/) - Drawing 应用
+* [Android Virtual Pen](https://github.com/androidvirtualpen/virtualpen) - Use Device as Linux Virtual Pen
+* [Feh](https://feh.finalrewind.org/) or [NSXIV](https://github.com/nsxiv/nsxiv) - Image 查看器
+* [lsix](https://github.com/hackerb9/lsix) - View Images in Terminal
+* [Upscaler](https://gitlab.gnome.org/World/Upscaler) - Image Upscaler
+* [Trimage](https://trimage.org/) or [Curtail](https://github.com/Huluti/Curtail) - Image 压缩器
+* [MkPosters](https://github.com/patrick-kidger/mkposters) - Turn Markdown Files into Posters
+* [Rapid](https://damonlynch.net/rapid/) - Quick Linux Photo 导入工具
+
+***
+
+## ▷ 生产力 / 日历
+
+* [todo](https://github.com/sioodmy/todo/) or [Planify](https://github.com/alainm23/planify) - To-Do 应用s
+* [Timestrap](https://timestrap.bythewood.me/) or [Mindfulness at the Computer](https://fswb.codeberg.page/mindfulness-at-the-computer/) - Productivity 管理器
+* [客户端 Evolution](https://help.gnome.org/users/evolution/stable/) or [dLine](https://github.com/jazz-it/dline) - Calendars
+* [dijo](https://github.com/oppiliappan/dijo) - Activity 追踪器
+
+***
+
+## ▷ Linux 游戏
+
+* ⭐ **[Linux 游戏 Wiki](https://linux-gaming.kwindu.eu/index.php?title=Main_Page)** or **[r/LinuxCrackSupport Wiki](https://www.reddit.com/r/LinuxCrackSupport/wiki/index)** - Linux 游戏 指南
+* ⭐ **[protondb](https://www.protondb.com/)** / [Steam 扩展](https://github.com/Trsnaqe/protondb-community-extension) / [Discord](https://discord.com/invite/uuwK9EV) or [Are We Anti-Cheat Yet?](https://areweanticheatyet.com/) - Game Compatibility 数据库s
+* ⭐ **[Heroic Games 启动器](https://heroicgameslauncher.com/)** / [Discord](https://discord.com/invite/rHJ2uqdquK) / [GitHub](https://github.com/Heroic-Games-启动器/HeroicGames启动器), **[Lutris](https://lutris.net/)** / [Discord](https://discord.com/invite/Pnt5CuY) / [GitHub](https://github.com/lutris), or [⁠Faugus 启动器](https://github.com/Faugus/faugus-launcher) - Game 启动器s
+* ⭐ **[Bottles](https://usebottles.com/)** - Manage Wine Containers / [Discord](https://discord.com/invite/wF4JAdYrTR) / [GitHub](https://github.com/bottlesdevs)
+* ⭐ **[ProtonPlus](https://github.com/Vysp3r/ProtonPlus)** or [ProtonUp-QT](https://davidotek.github.io/protonup-qt/) / [GitHub](https://github.com/DavidoTek/ProtonUp-Qt/) - Linux Compatibility 工具 管理器
+* ⭐ **[GE-Proton](https://github.com/GloriousEggroll/proton-ge-custom)** - Custom Proton Version / [Discord](https://discord.com/invite/6y3BdzC) 
+* ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=4.0)** - Linux Games / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+* ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Linux Games / 需注册
+* ⭐ **[johncena141](https://rentry.co/FMHYB64#johncena141)** - Linux Games / [Support](https://gitlab.com/jc141x/portal) / [启动器](https://github.com/AbdelrhmanNile/UnderTaker141)
+* [CS.RIN.RU](https://cs.rin.ru/forum), [2](https://csrin.org/) - Linux Games / Signup / PW: `cs.rin.ru / csrin.org` / [.onion](http://csrinrutkb3tshptdctl5lyei4et35itl22qvk5ktdcat6aeavy6nhid.onion/forum)
+* [Ru追踪器](https://rutracker.org/forum/viewforum.php?f=899) - Linux Games / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [工具](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)
+* [Native Linux Games](https://rentry.co/FMHYB64#native-linux-games) - Linux Games
+* [winesapOS](https://github.com/winesapOS/winesapOS) - Play Games on Storage Devices
+* [wine-wayland](https://github.com/varmd/wine-wayland) - Play DX9/DX11 / Vulkan Games
+* [⁠UMU](https://github.com/Open-Wine-Components/umu-launcher) - Run Windows Games on Linux
+* [Luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) or [Boxtron](https://github.com/dreamer/boxtron) - Run Steam Games on Linux
+* [CreamLinux](https://github.com/anticitizn/creamlinux) - Steam DLC Unlocker / [Installer](https://github.com/Novattz/creamlinux-installer)
+* [SLSsteam](https://cs.rin.ru/forum/search.php?st=0&sk=t&sd=d&sr=topics&keywords=SLSsteam) - Steamclient Mod w/ DLC Unlocker and Emulated Achievements / [Generate Achievements](https://github.com/xamionex/SLScheevo)
+* [⁠SteamTinkerLaunch](https://github.com/sonic2kk/steamtinkerlaunch) - Steam 封装器 w/ Custom 启动器 Options
+* [AdwSteamGtk](https://github.com/Foldex/AdwSteamGtk) - Steam 前端
+* [steam-tui](https://github.com/dmadisetti/steam-tui) - Rust TUI for Steam
+* [RetroDECK](https://retrodeck.net/) - Emulator for Steam Deck
+* [CryoUtilities](https://github.com/CryoByte33/steam-deck-utilities) - Steam Deck Utilities
+* [SamRewritten](https://github.com/PaulCombal/SamRewritten) - Steam Achievement 管理器
+* [Steam for Linux](https://github.com/Valve软件/steam-for-linux) - Steam Linux Beta Issue 追踪器
+* [Minigalaxy](https://sharkwouter.github.io/minigalaxy/) - GOG 客户端
+* [⁠在线-Fix Linux](https://github.com/ZzEdovec/onlinefix-linux) - Launch Games w/ ⁠在线-Fix Patches
+* [⁠LVRA Wiki](https://wiki.vronlinux.org/) / [Discord](https://discord.gg/EHAYe3tTYa) - Linux VR Gaming 指南
+* [Vice](https://viceclipper.framer.website/) - Game Clipping 应用 / [GitHub](https://github.com/eklonofficial/Vice)
+* [Sober](https://sober.vinegarhq.org/) - Roblox Linux Port / [Vinegar (Studio Only)](https://vinegarhq.org/)
+* [Limo](https://github.com/limo-app/limo) - Nexus Mods 管理器 for Linux
+* [ssprea-nvidia-control](https://github.com/ssprea/ssprea-nvidia-control) or [CoreCtrl](https://gitlab.com/corectrl/corectrl) - GPU Overclocking 工具
+* [⁠LeShade](https://github.com/Ishidawg/LeShade) - ReShade 管理器
+* [DXVK](https://github.com/doitsujin/dxvk) - Vulkan-Based Direct3D for Linux / Wine
+* [⁠D7VK](https://github.com/WinterSnowfall/d7vk) - Vulkan-Based D3D7/6/5 for Linux / Wine
+* [⁠dxvk-gplasync](https://gitlab.com/Ph42oN/dxvk-gplasync/) - DXVK Fork w/ Async / Vulkan-Based Direct3D / Stutter Reduction
+* [⁠lsfg-vk](https://github.com/PancakeTAS/lsfg-vk) - Lossless Scaling for Linux
+* [VKBasAlt](https://github.com/DadSchoorse/vkBasalt) - Game Post Processing Layer
+* [Liquorix](https://liquorix.net/), [Xanmod](https://xanmod.org/) or [Frogging](https://github.com/Frogging-Family/linux-tkg) - Linux 游戏 Kernels
+* [Gamemode](https://github.com/FeralInteractive/gamemode) - Linux System 优化器
+* [LibreGaming](https://github.com/Ahmed-Al-Balochi/LibreGaming) - Linux Game Package 下载器
+* [PortMaster](https://portmaster.games/) - Port Games to Linux Handheld Devices / [Discord](https://discord.gg/JxYBp9HTAY)
+* [Gameboy.live](https://github.com/HFO4/gameboy.live) - Terminal Game Boy Emulator
+* [QuickPassthrough](https://github.com/HikariKnight/quickpassthrough) - Simplified GPU Passthrough
+* [⁠WiVRn](https://wivrn.github.io/) - Wirelessly Stream PC VR Games from Linux to Standalone VR Headset 
+
+***
+
+# ► Linux 工具
+
+## ▷ 广告拦截 / 隐私
+
+* ↪️ **[Linux 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
+* ↪️ **[DNS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
+* ⭐ **[Arch Security Wiki](https://wiki.archlinux.org/title/Security)**, [Linux Hardening](https://vez.mrsk.me/linux-hardening.html) / [2](https://madaidans-insecurities.github.io/guides/linux-hardening.html) or [How to Secure a Linux 服务器](https://github.com/imthenachoman/How-To-Secure-A-Linux-服务器) - Linux Security 指南
+* ⭐ **[CryptSetup](https://gitlab.com/cryptsetup/cryptsetup)**, [gocryptfs](https://nuetzlich.net/gocryptfs) / [GitHub](https://github.com/rfjakob/gocryptfs) or [Tomb](https://dyne.org/software/tomb/) - File Encryption
+* [Securely Wipe Disk](https://wiki.archlinux.org/title/Securely_wipe_disk) or [SSD Memory Cell Clearing](https://wiki.archlinux.org/title/Solid_state_drive/Memory_cell_clearing) - Linux Disk Wipe 指南
+* [JShielder](https://github.com/Jsitech/JShielder) - Hardening Script for Linux 服务器s
+* [Lynis](https://github.com/CISOfy/lynis) - Linux Security Auditing 工具
+* [Lockigest](https://elma.dev/works/lockigest/) - Screen Locker / [GitHub](https://github.com/elmsec/lockigest)
+* [Mistborn](https://gitlab.com/cyber5k/mistborn) - Manage Cloud Security 应用s
+* [OpenSnitch](https://github.com/evilsocket/opensnitch) or [gufw](https://github.com/costales/gufw) - Linux Firewalls
+* [Tracee](https://aquasecurity.github.io/tracee/latest) - Runtime Security and Forensics
+* [vnStat](https://github.com/vergoh/vnstat) - 网络 监控s
+* [Howdy](https://github.com/boltgolt/howdy) - Linux Facial Authentication
+* [USBGuard](https://github.com/USBGuard/usbguard) - Implement USB Device Authorization Policies
+* [ShuffleStacks](https://shufflecake.net/) - Create Hidden Volumes
+* [Collision](https://flathub.org/apps/dev.geopjr.Collision) - Check File Hashes
+* [WhoAmI Project](https://owerdogan.github.io/whoami-project) - Privacy / Anonymity 工具 / [GitHub](https://github.com/owerdogan/whoami-project)
+* [Yubikey Full Disk Encryption](https://github.com/agherzan/yubikey-full-disk-encryption) - Use YubiKey to unlock a LUKS Partition
+* [Firejail](https://firejail.wordpress.com/) or [Bubblewrap](https://github.com/containers/bubblewrap) - Sandboxing 工具
+* [GoogleTeller](https://github.com/berthubert/googerteller) - Google Tracking Notifications
+
+***
+
+## ▷ Linux 互联网
+
+* ↪️ **[Linux Torrent 客户端](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients)**
+* ↪️ **[Linux Password 管理器](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools)**
+* ⭐ **[Nicotine+](https://nicotine-plus.org/)** or [Soulseek](https://www.slsknet.org) - File Sharing 应用
+* ⭐ **[Linux WiFi Hotspot](https://github.com/lakinduakash/linux-wifi-hotspot)** - Create WiFi Hotspots
+* [BTFS](https://github.com/johang/btfs) - Bittorrent Filesystem
+* [ElectronMail](https://github.com/vladimiry/ElectronMail), [Claws Mail](https://www.claws-mail.org/) or [dodo](https://github.com/akissinger/dodo) - Email 客户端
+* [Akregator](https://apps.kde.org/akregator/), [新闻Boat](https://newsboat.org/), [新闻Flash](https://gitlab.com/news-flash/news_flash_gtk), [Photon](https://git.sr.ht/~ghost08/photon) or [gorss](https://github.com/Lallassu/gorss) - RSS Readers
+* [KGet](https://apps.kde.org/kget/), [⁠Surge](https://github.com/SurgeDM/Surge) or [GabutDM](https://github.com/gabutakut/gabutdm) - Download 管理器
+* [GDown](https://github.com/wkentaro/gdown) - Google Drive 下载器
+* [google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - Mount Google Drive
+* [maestral](https://maestral.app/) - Dropbox 客户端
+* [aMule](https://www.amule.org/) - eMule-like P2P 客户端
+* [⁠OpenWRT](https://openwrt.org/), [DD-WRT](https://wiki.dd-wrt.com/) or [FreshTomato](https://www.freshtomato.org/) - Linux Router Firmware
+* [⁠dae](https://github.com/daeuniverse/dae) - Linux Router Performance 代理 应用 / [WebUI](https://github.com/daeuniverse/daed)
+* [Linux Router](https://github.com/garywill/linux-router) - Set Linux as Router
+* [Netcat](https://rentry.co/Netcat) - 网络ing 工具
+* [Bandwhich](https://github.com/imsnif/bandwhich) - Terminal Bandwidth Utilization 工具
+* [iperf](https://github.com/esnet/iperf) - 网络 Bandwidth Test
+* [sttr](https://github.com/abhimanyu003/sttr) - Base64 Encryption / Decryption TUI
+* [Netflix 代理](https://github.com/ab77/netflix-proxy/) - Streaming 服务 代理
+* [Teams for Linux](https://github.com/IsmaelMartinez/teams-for-linux) - Collaboration 平台
+* [Luakit](https://luakit.github.io/) - Lightweight Linux Browser
+* [browsh](https://www.brow.sh/) - Text-Based Browser
+* [mx moment](https://mx-moment.xyz/) - Encrypted Chat 客户端
+* [Adium](https://adium.im/), [Polari](https://apps.gnome.org/Polari/) / [GitLab](https://gitlab.gnome.org/GNOME/polari), [Irssi](https://github.com/irssi/irssi) or [Weechat](https://weechat.org/) - IRC 客户端
+* [Dino](https://dino.im/) - XMPP 客户端
+* [gurk-rs](https://github.com/boxdot/gurk-rs) - Signal 客户端
+* [ZapZap](https://rtosta.com/zapzap/) - Whats应用 客户端 / [GitHub](https://github.com/rafatosta/zapzap)
+* [YouTube-查看器](https://github.com/trizen/youtube-viewer), [Pipe 查看器](https://github.com/trizen/pipe-viewer) or [Pipeline](https://gitlab.com/schmiddi-on-mobile/pipeline) - YouTube 客户端
+* [GrayJay](https://grayjay.app/) - YouTube, Twitch, Rumble, etc. / Avoid Playstore / [Guide](https://youtu.be/EnZrv37u66c) / [插件](https://plugins.grayjay.app/) / [Add 平台s](https://grayjay-sources.github.io/), [2](https://github.com/grayjay-sources/grayjay-sources.github.io), [3](https://gitlab.futo.org/videostreaming/plugins) / [GitLab](https://gitlab.futo.org/videostreaming/grayjay)
+* [Discover](https://github.com/trigg/Discover) - Discord Overlay
+* [dvm](https://github.com/diced/dvm) - Discord Version 管理器
+
+***
+
+## ▷ 服务器 / 自托管
+
+* 🌐 **[Awesome Selfhosted](https://awesome-selfhosted.net/)** / [2](https://gist.github.com/kvnxiao/27c14760cbec35b4e312e34c856b51a8) or [Awesome Selfhosted UI](https://awesomeselfhosted.netlify.app/) - 自托管 软件 索引 / [GitHub](https://github.com/awesome-selfhosted/awesome-selfhosted)
+* 🌐 **[⁠Awesome Homelab](https://github.com/miantiao-me/awesome-homelab/)** - Homelab 应用 索引
+* 🌐 **[Selfh.st](https://selfh.st/apps/)** - 自托管 软件 索引
+* 🌐 **[Self-托管-Guide](https://github.com/mikeroyal/Self-托管-Guide)** - 自托管 软件 索引
+* 🌐 **[⁠RackRat](https://rackrat.net/)** - eBay Rackmount 服务器 Prices / 对比
+* ↪️ **[Media 服务器s / 工具](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_media_servers)**
+* ↪️ **[Selfhosted Image Galleries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_offline_galleries)**
+* ⭐ **[Homepage](https://gethomepage.dev/)** / [GitHub](https://github.com/gethomepage/homepage), **[Dashy](https://dashy.to/)** / [GitHub](https://github.com/Lissy93/dashy), [Flame](https://github.com/pawelmalak/flame), [Homer](https://github.com/bastienwirtz/homer), [Lab Dash](https://github.com/AnthonyGress/lab-dash), [mafl](https://mafl.hywax.space/), [Homarr](https://homarr.dev/) / [GitHub](https://github.com/homarr-labs/homarr) or [Organizr](https://github.com/causefx/Organizr) - Home 服务器 Startpages
+* [Glance](https://github.com/glanceapp/glance) - Feed 仪表盘
+* [⁠ThingsBoard](https://github.com/thingsboard/thingsboard) - IoT Device 管理器 / Visualizer / 数据 合集 
+* [Self Managed Life](https://wiki.futo.org/) - 开源 / Self-托管 Guide / [Video](https://youtu.be/Et5PPMYuOc8), [2](https://youtu.be/3fW9TV1WQi8)
+* [r/Self托管ed Wiki](https://wiki.r-selfhosted.com/) - Self-托管 指南 / 资源 / 社区 / [Subreddit](https://www.reddit.com/r/selfhosted/) / [GitHub](https://github.com/r-selfhosted/wiki)
+* [服务器 World](https://www.server-world.info/en/) - 网络 服务器 指南
+* [HowtoForge](https://www.howtoforge.com/) / [GitHub](https://github.com/lollipopkit/flutter_server_box) or [Comfy.Guide](https://comfy.guide/) - Linux 服务器 软件 指南
+* [serverbox](https://cdn.lpkt.cn/serverbox/), [⁠Termix](https://github.com/Termix-SSH/Termix) / [Discord](https://discord.gg/jVQGdvHDrf), [EasyPanel](https://easypanel.io/), [Webmin](https://webmin.com/) / [GitHub](https://github.com/webmin/webmin), [Cockpit Project](https://cockpit-project.org/), [CasaOS](https://casaos.zimaspace.com/) / [GitHub](https://github.com/IceWhaleTech/CasaOS) or [1Panel](https://1panel.pro/) / [GitHub](https://github.com/1Panel-dev/1Panel) - Linux 服务器 管理器 / Status
+* [⁠LXD UI](https://github.com/canonical/lxd-ui) - Linux Container + Virtual Machine 管理器
+* [Proxmox](https://www.proxmox.com/) - 自托管 服务器 工具 / Virtual Environment
+* [yet another bench script](https://github.com/masonr/yet-another-bench-script) - 服务器 Performance Script
+* [Docket-Jacket](https://github.com/linuxserver/docker-jackett) - Docker Jacket Container
+* [arch-delugevpn](https://github.com/binhex/arch-delugevpn) - Docker with Torrent client and VPN on Arch Linux base
+* [swizzin](https://swizzin.ltd/) - Seedbox for Ubuntu / Debian
+* [rtinst](https://github.com/arakasi72/rtinst) - Seedbox Installation Script for Ubuntu / Debian
+* [Seed同步](https://github.com/ipsingh06/seedsync) - 同步 your Seedbox
+* [openmediavault](https://www.openmediavault.org/) / [GitHub](https://github.com/openmediavault/openmediavault/), [SeaFile](https://www.seafile.com/en/home/) or [Linux 服务器](https://github.com/ZizzyDizzyMC/linx-server/) - 自托管 Cloud Storage
+* [Tube Archivist](https://www.tubearchivist.com/) - 自托管 YouTube Media 服务器 / [GitHub](https://github.com/tubearchivist/tubearchivist)
+* [⁠ConvertX](https://github.com/C4illin/ConvertX) or [Transmute](https://transmute.sh/) / [GitHub](https://github.com/transmute-app/transmute) - 自托管 File 转换器
+* [omnisearch](https://git.bwaaa.monster/omnisearch/about/), [SearXNG](https://docs.searxng.org/), [4get](https://git.lolcat.ca/lolcat/4get) or [Zinc搜索](https://zincsearch-docs.zinc.dev/) / [GitHub](https://github.com/zincsearch/zincsearch) - 自托管 搜索 Engines
+* [iRedMail](https://www.iredmail.org/), [Docker Mailserver](https://docker-mailserver.github.io/docker-mailserver/edge/), [Stalwart](https://stalw.art/) / [GitHub](https://github.com/stalwartlabs/stalwart), [UnInbox](https://github.com/un/inbox) or [Mail-in a Box](https://mailinabox.email/) - 自托管 Email 服务器s
+
+***
+
+## ▷ 文件工具
+
+* 🌐 **[Linux File 备份](https://github.com/restic/others)** - File 备份 应用 列表
+* ⭐ **[Warpinator](https://github.com/linuxmint/warpinator)**, [rQuickshare](https://github.com/Martichou/rquickshare), [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole), [syncthing](https://syncthing.net/) / [Tray Support](https://martchus.github.io/syncthingtray/), [portal](https://github.com/SpatiumPortae/portal), [Zrok](https://zrok.io/), [Celeste](https://flathub.org/apps/com.hunterwittenborn.Celeste) / [2](https://snapcraft.io/celeste) / [GitHub](https://github.com/hwittenborn/celeste), [Cattail](https://github.com/nerdyslacker/cattail) or [Sharing](https://github.com/parvardegr/sharing) - File 同步 / Transfer
+* ⭐ **[lf](https://github.com/gokcehan/lf)**, [ranger](https://ranger.fm/) / [Codeberg](https://codeberg.org/ranger/pages), [⁠broot](htttps://dystroy.org/broot) / [GitHub](https://github.com/Canop/broot), [nnn](https://github.com/jarun/nnn), [clifm](https://github.com/leo-arch/clifm), [fm](https://github.com/mistakenelf/fm), [superfile](https://github.com/yorukot/superfile), [walk](https://github.com/antonmedv/walk) or [Joshuto](https://github.com/kamiyaa/joshuto) - Terminal File 管理器
+* ⭐ **[Baobab](https://gitlab.gnome.org/GNOME/baobab)**, **[Filelight](https://apps.kde.org/en-gb/filelight/)** - Disk Usage Analyzers / GUI
+* ⭐ **[dut](https://codeberg.org/201984/dut)**, **[gdu](https://github.com/dundee/gdu)**, **[NCDU](https://dev.yorhel.nl/ncdu)** - Disk Usage Analyzers / 命令行
+* [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch), [gocatcli](https://github.com/deadc0de6/gocatcli/), [xplr](https://xplr.dev/) / [Discord](https://discord.com/invite/JmasSPCcz3) / [GitHub](https://github.com/sayanarijit/xplr), [logo-ls](https://github.com/Yash-Handa/logo-ls), [ugrep](https://ugrep.com) / [GitHub](https://github.com/Genivia/ugrep) or [Achoz](https://github.com/kcubeterm/achoz) - File Explorers / 搜索
+* [The Filesystem Hierarchy Standard](https://i.imgur.com/0vfM4dm.png), [2](https://files.catbox.moe/2390ha.png) - Linux Filesystem Chart
+* [Dolphin](https://userbase.kde.org/Dolphin) / [Source Code](https://invent.kde.org/system/dolphin) or [SpaceFM](https://ignorantguru.github.io/spacefm/) - File 管理器
+* [PeaZip](https://peazip.github.io/) / [GitHub](https://github.com/peazip/PeaZip/), [pigz](https://zlib.net/pigz/) / [GitHub](https://github.com/madler/pigz), [p7zip](https://p7zip.sourceforge.net/) or [GNU Gzip](https://www.gnu.org/software/gzip/) - File 归档工具s / Unzippers / Compression
+* [Collector](https://mijorus.it/projects/collector/) - File Drag & Drop
+* [Zoxide](https://github.com/ajeetdsouza/zoxide) - Improved CD Command
+* [lnav](https://lnav.org/) - Log File 查看器 / Analyzer / [Discord](https://discord.gg/erBPnKwz7R) / [GitHub](https://github.com/tstack/lnav)
+* [Pika 备份](https://gitlab.gnome.org/World/pika-backup/) or [RecoverPy](https://github.com/PabloLec/RecoverPy) - File 备份 / Reocovery 工具
+* [fcp](https://github.com/Svetlitski/fcp) - Improved Linux File Copy
+* [Boxxy](https://github.com/queer/boxxy) - Contain Files / Directories
+* [Junction](https://github.com/sonnyp/Junction) - Change File Associations
+* [Krename](https://apps.kde.org/en-gb/krename/) - Bulk File / Folder Renaming
+* [FSLint](https://www.pixelbeat.org/fslint/), [kdiff3](https://apps.kde.org/en-gb/kdiff3/) or [fclones](https://github.com/pkolaczk/fclones) - Duplicate File 查找工具
+* [xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - Unwanted File 查找工具
+* [rcm](https://github.com/thoughtbot/rcm) - Manage Dotfiles
+* [PDF Mix](https://scarpetta.eu/pdfmixtool/) - PDF 编辑器
+* [gscan2pdf](https://gscan2pdf.sourceforge.net/) - Turn Documents into PDFs
+
+***
+
+## ▷ Linux 上的 Android
+
+* ⭐ **[Waydroid](https://waydro.id/)** - Containerized Android on Linux / [Scripts](https://github.com/casualsnek/waydroid_script) / [Magisk Installer](https://github.com/mistrmochov/WaydroidSU) / [GitHub](https://github.com/waydroid)
+* [Redroid](https://github.com/remote-android/redroid-doc) or [Docker-Android](https://github.com/budtmo/docker-android) - Containerized Android on Linux
+* [Genymotion](https://www.genymotion.com/) - Android Emulator
+* [Android Studio](https://developer.android.com/studio) - IDE with Built-in Android Emulator
+* [Android-x86](https://www.android-x86.org/) - Android-Based OS for PC
+* [adbfs-rootless](https://github.com/spion/adbfs-rootless) - Mount Android on Linux via ADB
+
+***
+
+## ▷ 终端 / Shell
+
+* 🌐 **[Awesome Shell](https://github.com/alebcay/awesome-shell)**, [tldr](https://tldr.inbrowser.app/) / [GitHub](https://github.com/tldr-pages/tldr) or [AltBox](https://altbox.dev/) - Linux Shell 资源
+* 🌐 **[Awesome TUIs](https://github.com/rothgar/awesome-tuis)** or [TerminalTrove](https://terminaltrove.com/) - TUI 索引es
+* 🌐 **[⁠Awesome Terminal 录制器](https://github.com/orangekame3/awesome-terminal-recorder)** - Terminal 录制器 索引
+* ⭐ **[zsh](https://www.zsh.org/)**, **[bash](https://www.gnu.org/software/bash/)**, [fish](https://fishshell.com/), [Elvish](https://elv.sh/), [Es](https://wryun.github.io/es-shell/), [PowerShell](https://github.com/powershell/powershell), [Ion](https://gitlab.redox-os.org/redox-os/ion), [Xonsh](https://xon.sh/), [Nushell](https://www.nushell.sh/) or [oils](https://oils.pub/) / [GitHub](https://github.com/oils-for-unix/oils) - Command Line Shells
+* ⭐ **zsh 工具** - [插件](https://github.com/unixorn/awesome-zsh-plugins) / [自定义](https://ohmyz.sh/) / [主题](https://github.com/romkatv/powerlevel10k) / [Auto Setup](https://github.com/gustavohellwig/gh-zsh) / [Rich Framework](https://github.com/sorin-ionescu/prezto)
+* ⭐ **[Alacritty](https://alacritty.org)**, **[Kitty](https://sw.kovidgoyal.net/kitty/overview/)**, **[Wezterm](https://wezterm.org)** / [GitHub](https://github.com/wezterm/wezterm), [tabby](https://tabby.sh/), [foot](https://codeberg.org/dnkl/foot), [Simple Terminal](https://st.suckless.org/), [Wave](https://www.waveterm.dev/), [Ghostty](https://ghostty.org/), [yakuake](https://apps.kde.org/yakuake/) or [emacs-eat](https://codeberg.org/akib/emacs-eat) - Linux Terminal Emulators
+* ⭐ **[LinuxCommand](https://www.linuxcommand.org/tlcl.php)**, [Command Line Guide](https://github.com/jlevy/the-art-of-command-line) or [ManKier](https://www.mankier.com/) - Command-Line Lessons
+* [Tiny Care Terminal](https://github.com/notwaldorf/tiny-care-terminal) or [⁠WTF](https://wtfutil.com/) / [GitHub](https://github.com/wtfutil/wtf) - Terminal 仪表盘s
+* [Starship](https://starship.rs/) or [Liquidprompt](https://github.com/liquidprompt/liquidprompt) - Bash / Zsh Prompt
+* [utils](https://github.com/Loupeznik/utils) or [UsefulLinuxShellScripts](https://github.com/jackrabbit335/UsefulLinuxShellScripts) - Linux Shell 工具 Scripts
+* [Gum](https://github.com/charmbracelet/gum) - Shell Script Creator
+* [ShellCheck](https://www.shellcheck.net/) - Shell Script Bug Check
+* [⁠ShellScript](https://www.shellscript.sh/) or [shell-scripting-tutorial](https://github.com/techarkit/shell-scripting-tutorial) - Shell Scripting Tutorials
+* [Bash Crawl](https://gitlab.com/slackermedia/bashcrawl) - Linux Command Learning Game
+* [bash_loading_animations](https://github.com/Silejonu/bash_loading_animations) - Bash Loading Animations
+* [bash-it](https://github.com/Bash-it/bash-it) or [Bashly](https://bashly.dev/) - Bash Frameworks
+* [zx](https://google.github.io/zx/) or [dax](https://github.com/dsherret/dax) - Write Complex Scripts
+* [Basher](https://www.basher.it/) or [bpkg](https://bpkg.sh/) - Bash Package 管理器
+* [Distrobox](https://distrobox.it/) - Use Distros via Terminal
+* [explainshell.com](https://explainshell.com/) - Match Command-Line Arguments to Help Text
+* [Tmux](https://github.com/tmux/tmux) - Terminal Multiplexer / [Cheatsheet](https://tmuxcheatsheet.com/)
+* [Zellij](https://zellij.dev/) - Terminal Workspace
+* [atuin](https://atuin.sh/) - Shell History Management / [GitHub](https://github.com/atuinsh/atuin)
+* [cbonsai](https://gitlab.com/jallbrit/cbonsai) - Generate Bonsai Trees in Terminal
+* [pipes.sh](https://pipeseroni.github.io/) or [pipes-rs](https://github.com/lhvy/pipes-rs) - Animated Pipes in Terminal
+
+***
+
+## ▷ 树莓派
+
+* 🌐 **[Awesome Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi)** - Raspberry Pi 工具 / 资源
+* 🌐 **[Pi-应用s](https://pi-apps.io/)** - Raspberry Pi 应用 Store / [GitHub](https://github.com/Botspot/pi-apps)
+* [Pinn](https://github.com/procount/pinn) - Raspberry Pi OS Installer
+* [PiVPN](https://pivpn.io/) - Raspberry Pi VPN / [GitHub](https://github.com/pivpn/pivpn)
+* [raspberrypiwireguard](https://github.com/adrianmihalko/raspberrypiwireguard) - Install WireGuard on Raspberry Pi
+* [Raspberry Pi Connect](https://www.raspberrypi.com/software/connect/) - Raspberry Pi Remote Access
+* [CaribouLite](https://github.com/cariboulabs/cariboulite) - Raspberry Pi Tx/Rx 6GHz SDR
+* [Piper](https://github.com/OHF-Voice/piper1-gpl) - Raspberry Pi Text-To-Speech
+* [Pinout](https://pinout.xyz/) - Raspberry Pi GPIO Pins Guide
+
+***
+
+# ► 自定义
+
+* 🌐 **[Awesome Ricing](https://github.com/fosslife/awesome-ricing)**, **[⁠Awesome Linux Ricing](https://github.com/avtzis/awesome-linux-ricing)** or [Pling](https://www.pling.com/s/All-Linux/browse/) - Linux 自定义 资源
+* ⭐ **[Elkowar's Wacky Widgets](https://elkowar.github.io/eww)**, **[Aylur's GTK Shell](https://github.com/Aylur/ags)** or [⁠Quickshell](https://quickshell.org/) - Widgeting Systems
+* ⭐ **[unixporn](https://unixporn.github.io/)** - 自定义 社区 / [Subreddit](https://reddit.com/r/unixporn) / [Discord](https://discord.gg/unixporn)
+* [dotfiles](https://dotfiles.github.io/) - GitHub Dotfiles
+* [⁠Chezmoi](https://www.chezmoi.io/) - Dotfile 管理器
+
+***
+
+## ▷ 桌面环境
+
+* 🌐 **[桌面 Environment 对比](https://eylenburg.github.io/de_comparison.htm)**
+* [扩展 管理器](https://mattjakeman.com/apps/extension-manager) - GNOME Shell 扩展 管理器
+* [Material Shell](https://material-shell.com/) or [Forge](https://github.com/forge-ext/forge) - GNOME Tiling 扩展
+* [Pop!_OS Shell](https://github.com/pop-os/shell) - Pop-Shell for GNOME
+* [Guillotine](https://gitlab.com/ente76/guillotine/) - Execute Commands from a Customizable Menu / GNOME 扩展
+* [Hardcode Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - Hardcoded Tray Icon Fix
+
+***
+
+## ▷ 窗口管理器
+
+* 🌐 **[⁠Awesome Wayland](https://github.com/rcalixte/awesome-wayland)** - Wayland 资源
+* 🌐 **[⁠Wayland.fyi](https://wayland.fyi/)** - Lightweight Wayland 资源
+* 🌐 **[Window 管理器 索引](https://wiki.archlinux.org/title/Window_manager)** - 列表 of Window 管理器
+* 🌐 **[Wayland Compositor 索引](https://wiki.archlinux.org/title/Wayland#Compositors)** - 列表 of Wayland Compositors
+* 🌐 **[We Are Wayland Now](https://wearewaylandnow.com/)** - Wayland Ecosystem Components / [GitHub](https://github.com/gianklug/wearewaylandnow)
+* ⭐ **[i3wm](https://i3wm.org)** - Manual Tiling Window 管理器 / [Reference Card](https://i3wm.org/docs/refcard.html)
+* ⭐ **[awesomewm](https://awesomewm.org)** / [GitHub](https://github.com/awesomeWM/awesome), **[xmonad](https://xmonad.org)**, [Qtile](https://qtile.org/) or [dwm](https://dwm.suckless.org) - Dynamic Tiling Window 管理器
+* ⭐ **[Hyprland](https://hypr.land/)** - Dynamic Tiling Wayland Compositor / [资源](https://github.com/hyprland-community/awesome-hyprland) / [Arch Wiki](https://wiki.archlinux.org/title/Hyprland) / [Simple Config](https://github.com/mylinuxforwork/dotfiles), [2](https://ii.clsty.link/en/)
+* ⭐ **[niri](https://github.com/YaLTeR/niri)** - Scrollable-Tiling Wayland Compositor
+* ⭐ **[Sway](https://github.com/swaywm/sway)** / [Arch Wiki](https://wiki.archlinux.org/title/Sway) or [SwayFx](https://github.com/WillPower3309/swayfx) - i3-compatible Wayland Compositors
+* [Waycheck](https://gitlab.freedesktop.org/serebit/waycheck) - 列表 Protocols Implemented by a Wayland Compositor
+* [mangowm](https://mangowm.github.io/) - Dynamic Tiling Wayland Compositor / [Discord](https://discord.gg/CPjbDxesh5) / [GitHub](https://github.com/mangowm/mango)
+* [BSPWM](https://github.com/baskerville/bspwm) - Hybrid Tiling Window 管理器
+* [herbstluftwm](https://herbstluftwm.org) - Manual Tiling Window 管理器
+* [river](https://github.com/riverwm/river/) - Wayland Compositor
+* [LabWC](https://github.com/labwc/labwc) - Wayland Compositor
+* [wayfire](https://github.com/WayfireWM/wayfire/) - Wayland Compositor
+* [⁠wayscriber](https://wayscriber.com/) - Wayland Screen Annotation
+* [picom](https://github.com/yshui/picom) - Compositor for Standalone X11 Window 管理器 / [Docs](https://picom.app/) / [GitHub](https://github.com/yshui/picom)
+* [Polybar (X11)](https://github.com/polybar/polybar) / [主题](https://github.com/adi1090x/polybar-themes), [Iron Bar](https://github.com/JakeStanger/ironbar) (Wayland) or [Waybar](https://github.com/Alexays/Waybar) (Wayland) - Customizable Status Bars
+
+***
+
+## ▷ Linux 主题
+
+* 🌐 **[xfce-look](https://www.xfce-look.org/)** - XFCE Linux 主题
+* 🌐 **[Gnome-Look](https://www.gnome-look.org/)** - GNOME 主题
+* [Hellwal](https://github.com/danihek/hellwal) - Color Palette 生成器 for 自定义
+* [Themix](https://github.com/themix-project/themix-gui) - Linux 主题 / GUI
+* [Kvantum](https://github.com/tsujan/Kvantum) - Linux QT / KDE 主题 Engine
+* [⁠nwg-look](https://github.com/nwg-piotr/nwg-look) - GTK3 Settings 编辑器
+* [Arc](https://github.com/jnsh/arc-theme) - Transparent Linux 主题
+* [Ant](https://github.com/EliverLara/Ant) - Light Linux 主题
+* [Aero主题Plasma](https://github.com/WackyIdeas/aerothemeplasma) / [2](https://gitgud.io/wackyideas/aerothemeplasma) or [Vista主题Plasma](https://gitgud.io/catpswin56/vistathemeplasma/) - Windows 7 / Vista 主题 for KDE Plasma 
+* [XScreenSaver](https://www.jwz.org/xscreensaver/) - Linux Screensavers
+* [varietywalls](https://github.com/varietywalls/variety), [⁠Waywallen](https://github.com/waywallen/waywallen) or [HydraPaper](https://hydrapaper.gabmus.org/) - Wallpaper 管理器
+* [Video Wallpaper](https://github.com/ghostlexly/gpu-video-wallpaper) or [Hidamari](https://github.com/jeffshee/hidamari) - Use Videos as Animated Wallpapers
+* [⁠tint](https://github.com/ashish0kumar/tint) - Recolor Wallpapers for System Scheme / [GUI](https://github.com/lighttigerXIV/catppuccinifier)
+* [Polychromatic](https://polychromatic.app/) or [OpenRazer](https://openrazer.github.io/) - Linux System Light Control
+* [Burn My Windows](https://github.com/Schneegans/Burn-My-Windows) - Window Closing Effects
+* [theme.sh](https://github.com/lemnos/theme.sh), [NotCurses](https://github.com/dankamongmen/notcurses) / [Wiki](https://nick-black.com/dankwiki/index.php/Notcurses) or [Shell Color Scripts](https://gitlab.com/dwt1/shell-color-scripts) / [2](https://github.com/stark/Color-Scripts) - Custom Terminal 主题
+
+***
+
+# ► Mac 应用
+
+* ↪️ **[多平台 Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading/#wiki_.25B7_ebook_readers)** - Ebook Reader 索引
+* ↪️ **[Office Suites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_office_suites)**
+* ⭐ **[gibMacOS](https://github.com/corpnewt/gibMacOS)** or [Mist](https://github.com/ninxsoft/Mist) - Download macOS
+* ⭐ **[NearDrop](https://github.com/grishka/NearDrop)** or [maestral](https://maestral.app/) - File Sharing 应用s
+* ⭐ **[shottr](https://shottr.cc/)** or [⁠Better Shot](https://www.bettershot.site/) / [GitHub](https://github.com/KartikLabhshetwar/better-shot) - Screenshot 工具
+* ⭐ **[Aptonic](https://aptonic.com/)** - Drag-and-Drop Shelf / Quick File Access
+* [Ghostty](https://ghostty.org/) - GPU-Accelerated Terminal Emulator / [GitHub](https://github.com/ghostty-org/ghostty)
+* [Ice Cubes](https://apps.apple.com/us/app/ice-cubes-for-mastodon/id6444915884) - Mastodon 客户端 / [GitHub](https://github.com/Dimillian/IceCubes应用)
+* [Sky.app](https://github.com/jcsalterego/Sky.app) - Bluesky 客户端
+* [Beta Profiles](https://betaprofiles.com/) - Download Pre-Release Versions macOS
+* [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/) / [Config](https://mackie100projects.altervista.org/), [Boot Camp](https://support.apple.com/boot-camp) / [DL Script](https://github.com/timsutton/brigadier) or [OpenCore](https://github.com/acidanthera/OpenCorePkg) / [Config](https://mackie100projects.altervista.org/opencore-configurator/) / [Guide](https://dortania.github.io/OpenCore-Install-Guide/) - Bootloaders
+* [rEFind](https://www.rodsbooks.com/refind/) - Boot 管理器
+* [Tart](https://tart.run/) - Virtual Machine 管理器 / [GitHub](https://github.com/cirruslabs/tart)
+* [UTM](https://mac.getutm.app/), [LimaVM](https://lima-vm.io/) or [VMware](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion) - Virtual Machines / Run Linux or Windows on macOS
+* [VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on 应用le Silicon
+* [Docker OSX](https://github.com/sickcodes/Docker-OSX) - Mac VM in Docker
+* [Linux for T2](https://t2linux.org/) - Install Linux on 应用le T2 Devices / [GitHub](https://github.com/t2linux)
+* [CrossOver](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_software_sites2) (search) - Run Windows on Mac
+* [PortingKit](https://www.portingkit.com/) or [PlayOnMac](https://www.playonmac.com/en/) - Run Windows Games / Programs on Mac
+* [PlayCover](https://playcover.io/) - Run iOS 应用s on 应用le Silicon Macs / [GitHub](https://github.com/PlayCover/PlayCover)
+* [SwiftUI Win11](https://jinxiansen.github.io/Windows11/) - Windows 11 桌面 客户端 for macOS
+* [OrbStack](https://orbstack.dev/) - Docker 客户端
+* [Bookshelf](https://apps.apple.com/us/app/bookshelf-reading-tracker/id1469372414) - Book 追踪器
+* [Kexts](https://www.tonymacx86.com/resources/categories/kexts.11/) - UEFI Kexts
+* [Adobe 下载器](https://github.com/X1a0He/Adobe-下载器/blob/main/readme-en.md) - Adobe Product 下载器
+* [ss64 macOS](https://ss64.com/mac/) - macOS Bash Commands
+* [Left on Read](https://leftonread.me/) - iMessage 客户端
+* [MacBing](https://goodsnooze.gumroad.com/l/macbing), [LlamaChat](https://www.llamachat.app/), [⁠Atomic Chat](https://atomic.chat/) or [Mollama](https://apps.apple.com/app/mollama/id6736948278) - AI Chatbots
+* [CodexBar](https://codexbar.app/) - Menu Bar AI Limit 追踪器 / [GitHub](https://github.com/steipete/CodexBar)
+* [ViennaRSS](https://www.vienna-rss.com/) - RSS Feed Reader
+* [Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi) - Manga Reader / [扩展](https://keiyoushi.github.io/extensions/), [2](https://discord.gg/3FbCpdKbdY), [3](https://yuzono.github.io/)
+* [Dialect](https://github.com/dialect-app/dialect) - Translator
+* [Drafts](https://getdrafts.com/), [Cot编辑器](https://coteditor.com/), [TextMate](https://macromates.com/), [Nebo](https://apps.apple.com/us/app/nebo-notes-pdf-annotations/id1119601770), [Strflow](https://strflow.app/), [⁠NotesPlus](https://www.notesplus.com/), [Kyun](https://github.com/lennart-finke/kyun), [Notenik](https://notenik.app/) or [Voodoopad](https://www.voodoopad.com/) - Text 编辑器 / Notes
+* [Clearly](https://clearly.md/) - Markdown 编辑器 / [GitHub](https://github.com/Shpigford/clearly)
+* [⁠TypeWhisper](https://www.typewhisper.com/en/) - Text to Speech / [Discord](https://discord.gg/pUFR4a65SD) / [GitHub](https://github.com/TypeWhisper)
+* [Agenda](https://agenda.com/) - Date-Focused Note 整理工具 / [论坛](https://agenda.community/)
+* [Taskpaper](https://www.taskpaper.com/) - Plain Text To-Do 列表
+* [BibDesk](https://bibdesk.sourceforge.io/) - Bibliography 管理器
+* [Hammerspoon](https://www.hammerspoon.org/) or [Bunch](https://bunchapp.co/) - 桌面 自动化 via Lua Scripts
+* [MacScripter](https://www.macscripter.net/) - 自动化 论坛
+* [pongoOS](https://github.com/checkra1n/pongoOS) - Mac Pre-Boot Executor
+* [Later](https://getlater.app/) - Restore 应用 Sessions / [GitHub](https://github.com/alyssaxuu/later)
+* [MacVim](https://macvim.org/), [CodeEdit](https://www.codeedit.app/), [Aurora编辑器](https://auroraeditor.com/) or [OpenCode](https://opencode.ai/) - Code 编辑器
+* [SD Buddy](https://github.com/breadthe/sd-buddy), [CHARL-E](https://www.charl-e.com/) or [Swift Core ML Diffusers](https://github.com/huggingface/swift-coreml-diffusers) - Stable Diffusion 应用s
+* [ColorSlurp](https://colorslurp.com/) or [Material-Colors-native](https://github.com/BafS/Material-Colors-native) - Color Picker
+* [Use Contrast](https://usecontrast.com/) - Check Color Contrast Ratios
+* [Sim Daltoinism](https://michelf.ca/projects/sim-daltonism/) - Color Blindness Simulator
+* [AnimeBox](https://www.animebox.es/) - Booru 客户端
+* [Hachidori](https://malupdaterosx.moe/hachidori/) - Automatically Update MAL / Anilist / Kitsu 列表
+* [Magit!](https://magit.vc/) - Git Text-Based UI
+* [ProperTree](https://github.com/corpnewt/ProperTree) - GUI Plist 编辑器
+* [NHCalc](https://github.com/KhaosT/nhcalc) - Compute Image NeuralHash
+* [Does It Arm?](https://doesitarm.com/) - 应用le Silicon 应用 Compatibility Chart
+* [SelfControl应用](https://selfcontrolapp.com/) - 网站 Blocker
+* [Typist](https://apps.apple.com/us/app/typist/id415166115?ign-mpt=uo%3D4&mt=12) - Typing Practice
+* [Comet](https://apps.apple.com/us/app/comet-for-reddit/id1146204813) - Reddit 客户端
+* [Sink It](https://apps.apple.com/us/app/sink-it-for-reddit/id6449873635) - Improved Reddit Comment Navigation
+* [Grayscale Mode](https://github.com/rkbhochalya/grayscale-mode) - Grayscale Control
+* [macOSicons](https://macosicons.com/) - macOS 应用 Icons
+* [equinux](https://equinux.github.io/) - OS X Certificate Fix
+* [Lilu](https://github.com/acidanthera/Lilu) - Kext / Process Patcher
+* [TopNotch](https://topnotch.app/) - Hide the Notch on MacBooks
+
+***
+
+## ▷ 软件站点
+
+* 🌐 **[Awesome macOS](https://github.com/iCHAIT/awesome-macOS)**, [OpenSource应用le](https://opensource.apple.com/), [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) or [Awesome OS 应用s](https://github.com/serhii-londar/open-source-mac-os-apps) - 开源 应用 索引es
+* 🌐 **[Mac Menu Bar](https://macmenubar.com/)** - Menu Bar 应用 索引
+* ⭐ **[Homebrew](https://brew.sh/)**, [Munki](https://www.munki.org/munki/), [Mac应用s](https://macapps.link/en/) or [应用lite](https://aerolite.dev/applite) - Package 管理器 / [Homebrew GUI](https://github.com/buresdv/Cork/)
+* [应用sTorrent](https://appstorrent.ru/) - Downloads (not torrents)
+* [nMac](https://nmac.to/)
+* [MacBB](https://macbb.org/)
+* [Antibiotic's](https://t.me/AntibioticsChannel)
+* [MacKed](https://macked.app/)
+* [TorrentMac](https://www.torrentmac.net/) - Use Adblock
+* [Macintosh Garden](https://macintoshgarden.org/) - Oldschool 软件
+* [Macintosh仓库itory](https://www.macintoshrepository.org/) - Oldschool 软件
+* [⁠Old应用leStuff](https://oldapplestuff.com/) - Oldschool 软件 + 应用le II 软件
+* [ThriftMac](https://thriftmac.com/) - 免费ware
+* [Sindre Sorhus](https://sindresorhus.com/apps/free) - 免费ware
+* [Latest](https://github.com/mangerlahn/latest) - 软件 更新器
+
+***
+
+## ▷ Mac 视频
+
+* ↪️ **[Editing 软件](https://rentry.co/FMHYB64#quick-guide)**
+* [IINA](https://iina.io/) - Video 播放器
+* [Fusion](https://fusionapp.dev/) - Streaming 应用 w/ Stremio 附加组件 Support / [Discord](https://discord.gg/frkaK2B2Y9)
+* [Hayase](https://hayase.watch/) - Anime Torrent Streaming 应用 / [扩展](https://rentry.co/FMHYB64#hayase) / [Wiki](https://wiki.hayase.watch/)
+* [AnymeX](https://anymex.vercel.app/) - Anime Streaming 应用 / [扩展 Guide](https://wotaku.wiki/guides/ext/mangayomi) / [Discord](https://discord.gg/hDwQ3heJ8V) / [GitHub](https://github.com/RyanYuuki/AnymeX)
+* [⁠Unwatched](https://apps.apple.com/app/unwatched-para-youtube/id6477287463) or [Yattee](https://github.com/yattee/yattee) - YouTube 播放器
+* [REAL Video Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) - Video Upscaling
+* [Cap](https://cap.so/), [Kap](https://getkap.co) or [ScreenTimeLapse](https://github.com/wkaisertexas/ScreenTimeLapse) - Screen 录制器s / [Cap GitHub](https://github.com/Cap软件/Cap)
+* [⁠LonelyScreen](https://www.lonelyscreen.com/) - AirPlay Receiver for PC / macOS
+
+***
+
+## ▷ Mac 音频
+
+* ⭐ **[SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash)** - Spotify Adblockers
+* ⭐ **[Spicetify](https://spicetify.app/)** - Spotify 主题 & 插件 / [Improved Lyrics](https://spicylyrics.org/) / [Discord](https://discord.gg/VnevqPp2Rr) / [GitHub](https://github.com/spicetify/cli) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/spicetify-note.md)
+* [foobar2000](https://www.foobar2000.org/mac) or [VOX Mac Music 播放器](https://vox.rocks/mac-music-player) - Audio 播放器
+* [cliamp](https://www.cliamp.stream/) - TUI Audio 播放器 / [GitHub](https://github.com/bjarneo/cliamp)
+* [Silicio](https://apps.apple.com/us/app/silicio-mini-player/id933627574) - Audio Mini 播放器
+* [Alfred Spotify Mini 播放器](https://alfred-spotify-mini-player.com/) - Spotify Mini 播放器
+* [Sonosano](https://github.com/KRSHH/Sonosano) - 自托管 P2P Lossless Music 播放器
+* [SoundSeer](https://github.com/jonathangarelick/SoundSeer) - Spotify in Menu Bar
+* [TheBoringNotch](https://theboring.name/) - Turn Notch into Audio Controller / Calendar / [Discord](https://discord.gg/GvYcYpAKTu) / [GitHub](https://github.com/TheBoredTeam/boring.notch/)
+* [⁠Kaset](https://github.com/sozercan/kaset/) - YouTube Music 客户端
+* [Nuage](https://github.com/lbrndnr/nuage-macos) - Soundcloud 客户端
+* [Garageband](https://apps.apple.com/us/app/garageband/id682658836?mt=12) - Audio 编辑器
+* [EQMac](https://eqmac.app/) - Audio Equalizer
+* [The Levelator](https://archive.org/details/conversationsnetwork_org-levelator) - Automatic Audio Level Adjustments
+* [Guitarix](https://guitarix.org/) - Virtual Guitar Amplifier / [插件](https://github.com/brummer10/Gx插件.lv2)
+* [XLD](https://sourceforge.net/projects/xld/) - Lossless Audio Transcoder
+* [BlackHole](https://github.com/ExistentialAudio/BlackHole) - Pass Audio to 应用s
+* [Cuterdio](https://cuterdio.com/en) - Radio
+* [Playlisty](https://apps.apple.com/us/app/playlisty-the-playlist-tool/id1459275972) - Transfer 应用le Music Playlists to Spotify
+
+***
+
+## ▷ Mac 图像
+
+* ↪️ **[Editing 软件](https://rentry.co/FMHYB64#quick-guide)**
+* [Gifski](https://sindresorhus.com/gifski) - Image to GIF 转换器 / [GitHub](https://github.com/sindresorhus/Gifski)
+* [Darkroom](https://apps.apple.com/us/app/darkroom-photo-video-editor/id953286746) - Image / Video 编辑器
+* [SeaShore](https://sourceforge.net/projects/seashore/) - Image 编辑器
+* [ImageOptim](https://imageoptim.com/mac) - Image Optimization
+* [Perspec](https://github.com/ad-si/Perspec) - Correct Perspective of Images
+* [Draw Things](https://apps.apple.com/us/app/draw-things-ai-generation/id6444050820) - AI Image Drawing 工具
+
+***
+
+## ▷ Mac 游戏
+
+* ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Mac Games / 需注册
+* ⭐ **[应用sTorrent](https://appstorrent.ru/games/)** - Mac Games / Downloads (not torrents)
+* ⭐ **[应用leGamingWiki](https://applegamingwiki.com/)** or [Mac Gaming DB](https://macgamingdb.app/) - Mac Game Fixes / Compatibility / [Discord](https://discord.gg/28CAAr6SpB)
+* [CS.RIN.RU](https://cs.rin.ru/forum), [2](https://csrin.org/) - Mac Games / Signup / PW: `cs.rin.ru / csrin.org` / [.onion](http://csrinrutkb3tshptdctl5lyei4et35itl22qvk5ktdcat6aeavy6nhid.onion/forum)
+* [SCNLOG](https://scnlog.me/games/mac/) - Mac Games
+* [Ru追踪器](https://rutracker.org/forum/viewforum.php?f=960) - Mac Games / [工具](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)
+* [Macintosh仓库itory](https://www.macintoshrepository.org/games/) - Oldschool Mac Games
+* [Mac Source Ports](https://www.macsourceports.com/) - Run Old Mac Games
+* [PortingKit](https://www.portingkit.com/) or [PlayOnMac](https://www.playonmac.com/en/) - Run Windows Games / Programs on Mac
+* [CrossOver](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_software_sites2) (search) - Run Windows on Mac
+* [Heroic Games 启动器](https://heroicgameslauncher.com/) - Epic / GOG / Prime Games 启动器 / [Discord](https://discord.com/invite/rHJ2uqdquK) / [GitHub](https://github.com/Heroic-Games-启动器/HeroicGames启动器)
+* [Mythic](https://getmythic.app/) - Epic Games 启动器 / [Discord](https://discord.gg/58NZ7fFqPy)
+* [NASOS](https://archive.org/download/nNASOS1.8/nNASOS1.8.zip) - Gamecube iso.dec to ISO 转换器
+* [r/MacGaming](https://www.reddit.com/r/macgaming/) - Mac Gaming 社区 / [Discord](https://discord.gg/MgJsb5m)
+* [cemu.emiyl](https://cemu.emiyl.com/) - CEMU Compatibility 列表
+
+***
+
+# ► Mac 工具
+
+## ▷ Mac 广告拦截 / 隐私
+
+* 🌐 **[Awesome OSX Security](https://github.com/ashishb/osx-and-ios-security-awesome)** - Mac Security 资源
+* ↪️ **[Mac 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
+* ↪️ **[DNS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
+* ⭐ **[Malwarebytes](https://www.malwarebytes.com/mac-download)**, [ESET](https://rentry.co/FMHYB64#eset), [BlockBlock](https://objective-see.org/products/blockblock.html) or [KnockKnock](https://objective-see.org/products/knockknock.html) - Antivirus
+* [⁠uBO Lite Safari](https://apps.apple.com/app/ublock-origin-lite/id6745342698), [AdGuard Mini](https://adguard.com/en/adguard-safari/overview.html) / [Guide](https://avieshek.wordpress.com/2024/07/07/how-to-filter-ads-and-block-popups-on-iphone-and-macos/) / [2](https://justpaste.it/adguard), [1Blocker](https://1blocker.com/), [wBlock](https://apps.apple.com/app/wblock/id6746388723) / [GitHub](https://github.com/0xCUB3/wBlock) or [Stay](https://apps.apple.com/app/stay-for-safari/id1591620171) - Safari Adblockers
+* [Lockdown Privacy](https://lockdownprivacy.com/) - Block 追踪器s / Ads
+* [Gas Mask](https://github.com/2ndalpha/gasmask) - Block Ads via 托管 Files
+* [macOS Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Mac Privacy & Security 指南
+* [⁠ClashMac](https://github.com/666OS/ClashMac) - 代理 客户端
+* [DNS Party](https://encrypted-dns.party/) - Encrypted DNS Profiles
+* [LuLu](https://objective-see.org/products/lulu.html) - Mac Firewall
+* [RansomWhere?](https://objective-see.org/products/ransomwhere.html) - Ransomware Blocker
+* [OverSight](https://objective-see.org/products/oversight.html) - Webcam / Mic 监控
+* [SuspiciousPackage](https://www.mothersruin.com/software/SuspiciousPackage/get.html) - Analyze PKG Files
+* [Santa](https://github.com/northpolesec/santa) - Binary Authorization System
+* [DHS](https://objective-see.org/products/dhs.html) - Dylib Hijack 扫描器
+* [GPG Suite](https://gpgtools.org/) - Encrypt & Sign Data / Communications
+* [What's Your Sign?](https://objective-see.org/products/whatsyoursign.html) - View File Cryptographic Signatures
+* [追踪器 Zapper](https://rknight.me/apps/tracker-zapper/) - Remove URL Tracking Elements
+* [LinkLiar](https://halo.github.io/LinkLiar/) - Spoof MAC Address
+* [Kextviewr](https://objective-see.org/products/kextviewr.html) - View All Kernel Modules
+* [mac_apt](https://github.com/ydkhatri/mac_apt) - Artifact Parsing 工具
+* [OpenVPN](https://tunnelblick.net/) or [Passepartout](https://passepartoutvpn.app/) - VPN Tunnel
+* [Mail追踪器Blocker](https://apparition47.github.io/Mail追踪器Blocker/) - Privacy-Based Email 客户端
+* [Status](https://status.app/) - Encrypted Messaging 客户端
+
+***
+
+## ▷ Mac 互联网
+
+* ↪️ **[Mac Torrent 客户端](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients)**
+* ↪️ **[Mac Password 管理器](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools)**
+* [What Route](https://whatroute.net/) - 网络 Diagnostic 工具
+* [ElectronMail](https://github.com/vladimiry/ElectronMail) - Email 客户端
+* [Browserino](https://github.com/AlexStrNik/Browserino) - Browser Prompter
+* [Orion](https://kagi.com/orion/) - Browser with Chrome + Firefox 扩展 Support / [Discord](https://discord.gg/Yk8Aj8AxGw)
+
+***
+
+## ▷ 系统工具
+
+* 🌐 **[应用leDB](https://appledb.dev/)** - 应用le Device / 软件 Info 数据库
+* 🌐 **[Mac Menu Bar](https://macmenubar.com/)** - Menu Bar 应用 目录
+* ⭐ **[Alfred](https://www.alfredapp.com/)**, [Raycast](https://www.raycast.com/), [Albert](https://albertlauncher.github.io/), [Quicksilver](https://qsapp.com/), [KeyboardCowboy](https://github.com/zenangst/KeyboardCowboy) or [SOL](https://sol.ospfranco.com/) - Keystroke 启动器s / Spotlight Replacements / [Alfred Workflows / 主题](https://www.packal.org/) / [Albert GitHub](https://github.com/albertlauncher/albert)
+* ⭐ **[CustomShortcuts](https://www.houdah.com/customShortcuts/)**, [Karabiner-Elements](https://karabiner-elements.pqrs.org/) or [ShortcutKeeper](https://shortcutkeeper.com/) - Custom Keyboard Shortcuts
+* [Nox播放器](https://www.bignox.com/), [MuMu播放器](https://www.mumuplayer.com/) or [Genymotion](https://www.genymotion.com/download/) - Android on macOS
+* [Advanced macOS Commands](https://saurabhs.org/advanced-macos-commands) - Advanced Command-Line 工具
+* [Conky](https://conky.cc), [eul](https://github.com/gao-sun/eul), [Stats](https://mac-stats.com/) / [GitHub](https://github.com/exelban/stats), [Mission Center](https://gitlab.com/mission-center-devs/mission-center) or [MacFetch](https://github.com/gantoreno/macfetch) - Hardware / System 监控s / [Conky Colors](https://github.com/helmuthdu/conky_colors)
+* [Hot](https://github.com/macmade/hot) - CPU 监控
+* [TaskExplorer](https://objective-see.org/products/taskexplorer.html) - Task 管理器 / 查看器
+* [Mole](https://github.com/tw93/Mole) - System Cleanup / Optimization Multi-工具
+* [Pearcleaner](https://itsalin.com/appInfo/?id=pearcleaner) - System Cleanup / Uninstaller / [GitHub](https://github.com/alienator88/Pearcleaner)
+* [BetterDisplay](https://github.com/waydabber/BetterDisplay) - Display Controller / Custom Resolutions / HDR Control
+* [DisplayPlacer](https://github.com/jakehilborn/displayplacer) - Dual 监控 管理器
+* [KeyPad](https://apps.apple.com/in/app/keypad-bluetooth-keyboard/id1491684442) - Connect Mac Keyboard to 手机 Devices
+* [LinearMouse](https://linearmouse.app/) or [MacMouseFix](https://macmousefix.com/) - Mouse Remapping
+* [Pinch](https://github.com/danqing/Pinch) - Trackpad Pinch to Zoom Gesture
+* [MiddleClick](https://github.com/artginzburg/MiddleClick) - Middle / Scroll Click via 3 Finger Tap
+* [Scroll Reverser](https://pilotmoon.com/scrollreverser/) - Per-Device Scroll Settings
+* [KeyClu](https://sergii.tatarenkov.name/keyclu/support/) - Shortcut CheatSheet for Current 应用lication
+* [KeyCastr](https://github.com/keycastr/keycastr) - Keystroke Visualizer
+* [⁠FineTune](https://github.com/ronitsingh10/FineTune) - Volume Mixer / Per 应用 Volume Control / Routing / EQ / Booster
+* [监控Control](https://monitorcontrol.app/) - External 监控 Brightness / Volume Control
+* [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Volume Mixer / Auto-Pause
+* [MacThrottle](https://github.com/angristan/MacThrottle) - Menu Bar Thermal Throttling 追踪器
+* [AlDente](https://apphousekitchen.com/) - Charging 管理器
+* [BatteryBuddy](https://batterybuddy.app/) - Cute Battery Indicator
+* [AirBattery](https://github.com/lihaoyun6/AirBattery) or [CoconutBattery](https://www.coconut-flavour.com/coconutbattery/) - Device Battery 追踪器s
+* [Macs Fan Control](https://github.com/crystalidea/macs-fan-control) - Fan Controller
+* [WhatCable](https://whatcable.uk/) - Cable Capability Identifier / [GitHub](https://github.com/darrylmorley/whatcable)
+* [Touché](https://redsweater.com/touche/) - Touch Bar Simulator
+* [Sentinel](https://github.com/alienator88/Sentinel) - SwiftUI Gatekeeper Config GUI
+* [⁠Nigate](https://github.com/hoochanlon/免费-NTFS-for-Mac) - NTFS Drive Read-Write Access + Mounting 工具 
+* [USBMap](https://github.com/corpnewt/USBMap) - Map macOS USB Ports
+* [Actions](https://sindresorhus.com/actions) - Additional Shortcuts 应用 Actions
+* [pock](https://pock.app/) - Touch Bar Widget 管理器 / [GitHub](https://github.com/pock/pock)
+* [Übersicht](https://tracesof.net/uebersicht/) - System Command Widgets
+* [Itsycal](https://www.mowglii.com/itsycal/) - Menu Bar Calendar
+* [Clocker](https://abhishekbanthia.com/clocker/) or [MeetingBar](https://meetingbar.app/) - Menu Bar Meetings Calendars
+* [xbar](https://xbarapp.com/) - Manage Menu Bar Items / [GitHub](https://github.com/matryer/xbar)
+* [MacLaunch](https://github.com/hazcod/maclaunch) - Manage Startup Items
+* [⁠Thaw](https://github.com/stonerl/Thaw) - Menu Bar 管理器
+* [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - Menu Bar Toggle Switches
+* [Sloth](https://github.com/sveinbjornt/Sloth) - Process 管理器
+* [Amphetamine](https://apps.apple.com/app/amphetamine/id937984704) - Prevent Sleep Mode / Highly Configurable
+* [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Prevent Sleep Mode / Lightweight
+* [Yabai](https://github.com/koekeishiya/yabai), [Amethyst](https://ianyh.com/amethyst/) / [GitHub](https://github.com/ianyh/Amethyst), [AeroSpace](https://github.com/nikitabobko/AeroSpace), [1Piece](https://app1piece.com/), [Loop](https://github.com/MrKai77/Loop), [Phoenix](https://kasper.github.io/phoenix/) or [Rectangle](https://rectangleapp.com/) - Window 管理器
+* [Maccy](https://maccy.app/), [ClipBook](https://clipbook.app/), [ClipPocket](https://github.com/dhahd/ClipPocket) or [clipboard-history](https://github.com/SUPERCILEX/clipboard-history) - Clipboard 管理器
+* [Pictogram](https://pictogramapp.com/), [IconSet](https://github.com/tale/iconset), [macOSicons](https://macosicons.com/) / [Discord](https://discord.gg/f4mTRyyTkT) or [IconChamp](https://www.macenhance.com/iconchamp.html) - Custom 应用 Icons
+* [Tintd](https://www.tintd.app/) or [Manila](https://github.com/neilsardesai/Manila) - Change Folder Colors
+* [MacPaper](https://github.com/naomisphere/macpaper/) - Mac Wallpaper 管理器
+* [Dynamic Wallpaper Club](https://dynamicwallpaper.club/) - Dynamic Wallpaper 应用
+* [wallpapper](https://github.com/mczachurski/wallpapper) or [Equinox](https://equinoxmac.com/) - Dynamic Wallpaper Creators
+* [Plash](https://sindresorhus.com/plash) - Use 网站 as Wallpaper
+* [100 macOS Screensavers](https://github.com/bjdehang/100-macos-screensavers) - Minimalist Screensavers
+* [DarkModeBuddy](https://github.com/insidegui/DarkModeBuddy) or [主题Kit](https://github.com/luckymarmot/主题Kit) - System Dark Mode 应用s
+* [Magic Trace](https://github.com/janestreet/magic-trace) - Performance Analysis with Intel PT
+
+***
+
+## ▷ 文件工具
+
+* ⭐ **[PeaZip](https://peazip.github.io/peazip-macos.html)** / [GitHub](https://github.com/peazip/PeaZip/), [⁠ShichiZip](https://github.com/idawnlight/ShichiZip), [The Unarchiver](https://theunarchiver.com/), [unxip](https://github.com/saagarjha/unxip) or [Keka](https://www.keka.io/en/) - File 归档工具s
+* ⭐ **[Readdle](https://readdle.com/documents)** - Multipurpose File 工具
+* [OpenMTP](https://openmtp.ganeshrvel.com/) - Mac / Android File Transfer / [GitHub](https://github.com/ganeshrvel/openmtp)
+* [Progress](https://github.com/Xfennec/progress) - Show Copied Data Progress
+* [Bruji](https://www.bruji.com/) - Media Cataloging 软件 Suite
+* [superfile](https://superfile.netlify.app/) - Terminal File 管理器 / [GitHub](https://github.com/yorukot/superfile)
+* [macFUSE](https://macfuse.github.io/) - Mac File Integration / [GitHub](https://github.com/macfuse/macfuse)
+* [J下载器](https://jdownloader.org/jdownloader2) - File Download 管理器 / [Debloat](https://claraiscute.neocities.org/指南/jdownloader2/) / [Dark 主题](https://redd.it/q3xrgj), [2](https://github.com/moktavizen/material-darker-jdownloader/) / [Dracula 主题](https://draculatheme.com/jdownloader2) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/jdownloader-warning.md)
+* [Go Speed](https://gopeed.com/) - File Download 管理器 / [扩展](https://github.com/GopeedLab/browser-extension) / [插件](https://github.com/search?q=topic%3Agopeed-extension&type=repositories) / [GitHub](https://github.com/GopeedLab/gopeed)
+* [Progressive 下载器](https://macpsd.net/) - File Download 管理器
+* [Transnomino](https://www.transnomino.com/) or [Riffo](https://riffo.ai/rename) - Bulk File / Folder Renaming
+* [fzf](https://github.com/junegunn/fzf), [⁠Television](https://github.com/alexpasmantier/television) or [skim](https://github.com/skim-rs/skim) - Fuzzy 查找工具s
+* [FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-平台 AirDrop / [Guide](https://redd.it/vthltc)
+
+***
+
+# ► 类 Unix
+
+* 🌐 **[Awesome-ttygames](https://github.com/ligurio/awesome-ttygames)** - Unix ASCII Games
+* 🌐 **[Awesome BSD](https://github.com/DiscoverBSD/awesome-bsd)** - BSD 资源
+* 🌐 **[Hardware for BSD](https://bsd-hardware.info/)** - BSD Hardware Compatibility 数据库 / [GitHub](https://github.com/bsdhw/)
+* [UnitedBSD](https://www.unitedbsd.com/) - BSD 论坛 / 社区
+* [免费BSD Wiki](https://wiki.freebsd.org/) - 免费BSD Wiki / 指南s / [Docs](https://docs.freebsd.org/en/books/handbook/)
+* [Pkgs](https://pkgs.org/) or [Repology](https://repology.org/) - 搜索able 类 Unix Package 数据库
+* [GameShell](https://github.com/phyver/GameShell) - Unix Shell Learning Game
+* [Modern Unix](https://github.com/ibraheemdev/modern-unix) - Unix Shells
+* [wpgtk](https://deviantfero.github.io/wpgtk) - Fully Customizable Unix Color Schemer
+* [Plan9Port](https://9fans.github.io/plan9port/) - Unix Port for Plan9 Libraries + Programs / [GitHub](https://github.com/9fans/plan9port)
+* [⁠Is OpenBSD Secure?](https://isopenbsdsecu.re/) - Learn About OpenBSD Security Flaws
