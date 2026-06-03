@@ -1,6 +1,9 @@
 ---
-**[◄◄ 查看FMHY官方英文站](https://fmhy.net/)**
+title: 代理IP/环境隔离
+description: 机房ip、住宅ip，出海首选，环境隔离
 ---
+
+**[◀◀ 查看FMHY官方英文站](https://fmhy.net/)**
 ## 代理ip
 
 * [Geonix](https://geonix.com/?partner_link=hr7qyBUuqy) - 首选推荐机房ip/住宅ip/手机ip/家庭住宅ip
