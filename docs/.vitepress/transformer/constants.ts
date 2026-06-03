@@ -135,6 +135,10 @@ export const headers: Header = {
   'recently-removed.md': {
     title: '最近移除的站点',
     description: '最近从 Wiki 中移除的站点列表'
+  },
+  'networkdisks.md': {
+    title: '软件站点 / 开放目录',
+    description: '软件站点、开源软件、免费软件、开放目录'
   }
 } as const
 
