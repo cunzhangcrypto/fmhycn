@@ -6,536 +6,432 @@
 
 # ► 视频工具
 
-* 🌐 **[Digital Video Intro](https://github.com/leandromoreira/digital_video_introduction)** - 数字视频指南 / 资源
-* ↪️ **[AI Video Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_video_generation)**
-* ⭐ **[Reincubate Camo](https://camo.com/studio)** - 将任何摄像头用作网络摄像头
-* [Kast](https://kast.gg/) or [Screen Share Party](https://ba.net/screen/) - 在线屏幕分享
-* [⁠LonelyScreen](https://www.lonelyscreen.com/) - PC / macOS 的 AirPlay 接收器
-* [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam), [Rope](https://github.com/Hillobar/Rope), [SimSwap](https://github.com/neuralchen/SimSwap) or [Roop](https://github.com/s0md3v/roop) - 视频换脸工具
-* [VideoHelp Forum](https://forum.videohelp.com/) - 与媒体 / 视频相关的一切
-* [ICAT](https://www.nvidia.com/en-us/geforce/technologies/icat/) or [Video Compare](https://github.com/pixop/video-compare) - 视频质量对比与分析工具
-* [videoduplicatefinder](https://github.com/0x90d/videoduplicatefinder) - 重复视频查找器
-* [MkvDefaultTrackChanger](https://mkvdefaulttrackchanger.pages.dev/) - 轻松更改默认 MKV 字幕 / 音轨 / [GitHub](https://github.com/MikeMoolenaar/MkvDefaultTrackChanger)
-* [⁠MP4Recover](https://github.com/ActiveTK/MP4Recover) - 恢复损坏的 MP4 文件
-* [VHS Decode](https://github.com/oyvindln/vhs-decode) - VHS 解码器
-* [VidClue](https://vidclue.com/) - 短视频灵感
-
-***
-
-## ▷ 光盘工具
-
-* [ImgBurn](https://www.majorgeeks.com/files/details/imgburn.html), [DVDStyler](https://www.dvdstyler.org/en/), [DeepBurner](https://www.deepburner.com/) or [Alcohol Soft](https://www.alcohol-soft.com/) - CD / DVD 刻录
-* [VidCoder](https://vidcoder.net/) or [XReveal](https://www.xreveal.com/) - DVD / 蓝光提取
-* [MakeMKV](https://www.makemkv.com/) - 从蓝光 / DVD 创建 MKV / [Beta Version](https://forum.makemkv.com/forum/viewtopic.php?f=5&t=1053), [2](https://cable.ayra.ch/makemkv/)
-* [DGDemux](https://www.rationalqm.us/dgdemux/dgdemux.html) - 蓝光/UHD 光盘解复用器
-* [PgcDemux](https://www.videohelp.com/software/PgcDemux) - DVD 光盘解复用器
-* [BatchGuy](https://github.com/yaboy58/BatchGuy) - 蓝光提取
-* [UHD Drives Flashing Guide](https://forum.makemkv.com/forum/viewtopic.php?f=16&t=19634)
-* [Redump](http://redump.org/) - 光盘保存信息项目
-
-***
-
-## ▷ 视频文件托管
-
-* **Note** - 大多数文件托管商会在文件不活跃一段时间后将其删除，而有些托管商则会不论活跃与否直接删除文件。如果你担心文件过期，请自行查看每个托管商的具体政策。标签如下： 账户空间 / 单个文件限制 / 文件保留期。
-
-***
-
-* ↪️ **[Streaming Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_video_streaming)** - 在 YouTube 风格网站上托管视频
-* ⭐ **[DoodStream](https://doodstream.com/)** - 5GB / 60 天 / 需注册
-* ⭐ **[Litterbox](https://litterbox.catbox.moe/)** - 1GB / 3 天
-* ⭐ **[Catbox](https://catbox.moe/)** - 200MB / 永久 / Allows Hotlinking
-* ⭐ **[Gofile](https://gofile.io/)** - 每月 100GB / 10 天
-* ⭐ **[Send.now](https://send.now/)** - 无限制 / 最后观看后 30 天（有账户）
-* [VOE](https://voe.sx/) - 无限制 / 60 天 / 720p / 需注册
-* [MixDrop](https://mixdrop.ag/) - 无限制 / 60 天 / 720p / 需注册
-* [FEX.NET](https://fex.net/) - 100GB / 游客 10GB / 7 天 / [Telegram](https://t.me/FEXNETWORK)
-* [Byse](https://byse.sx/), [2](https://filemoon.sx/), [3](https://filemoon.to/) - 50GB / 每个账户 40TB / 永久 / 需注册
-* [Hexupload](https://hexload.com/) or [AnonTransfer](https://anontransfer.com/) - 15GB / 30 天
-* [Vidoza](https://vidoza.net/) - 15GB / 15 天 / 需注册
-* [⁠Streamain](https://streamain.com/) - 无限制 / 永久
-* [Vidmoly](https://vidmoly.me/) - 15TB / 1 年
-* [⁠storage.to](https://storage.to/) - 25GB / 7 天
-* [NetU](https://netu.tv/) - 7.5GB / 90 天（最后观看后）
-* [Streamplay](https://streamplay.to/) - 30TB / 20GB
-* [Luluvdoo](https://luluvdoo.com/), [2](https://lulustream.com/) - 15GB / 60 天 Since Last Download
-* [Streamtape](https://streamtape.com/), [2](https://streamtape.to/) - 15GB / 需注册
-* [Dubz](https://dubz.co/) - 100MB / 永久
-* [Streamable](https://streamable.com/) - 250MB / 2 天（有账户 90 天）
-* [uguu](https://uguu.se/) - 128MB / 3 小时
-* [webmshare](https://webmshare.com/) - WebM 和 GIF 托管 / 20MB / 永久
-* [Videy](https://videy.co/) - 100MB / 仅 MP4
-* [⁠SpectrShare](https://spectrshare.com/) - P2P 视频流 / 临时文件
-
-***
-
-## ▷ 屏幕录制
-
-* ⭐ **[OBS Studio](https://obsproject.com/)** / Windows、Mac、Linux / [Discord](https://discord.com/invite/obsproject) / [GitHub](https://github.com/obsproject/obs-studio)
-* [SteelSeries Moments](https://steelseries.com/gg/moments), [Medal](https://medal.tv/) / [Watermark Remover](https://rentry.co/FMHYB64#medel), [Segra](https://segra.tv/) / [GitHub](https://github.com/Segergren/Segra) or [RePlays](https://github.com/lulzsun/RePlays) - 游戏录制工具
-* [Shinobi](https://shinobi.video/) - 网络视频录制器 / Mac、Linux / [Discord](https://discord.com/invite/mdhmvuH) / [GitLab](https://gitlab.com/Shinobi-Systems/Shinobi)
-* [MythTV](https://www.mythtv.org/) - 数字视频录制器 (DVR) / Windows、Mac、Linux / [GitHub](https://github.com/MythTV/mythtv)
-* [FFmpeg](https://ffmpeg.org/) / Windows、Mac、Linux / [GitHub](https://github.com/FFmpeg/FFmpeg) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_ffmpeg_tools)
-* [Openscreen](https://openscreen.vercel.app/) / Windows、Mac / [GitHub](https://github.com/siddharthvaddem/openscreen)
-* [Recordly](https://recordly.dev/) / Windows、Mac、Linux / [GitHub](https://github.com/webadderall/Recordly)
-* [ShareX](https://getsharex.com/) / Windows / [Discord](https://discord.com/invite/ShareX) / [GitHub](https://github.com/ShareX/ShareX)
-* [vokoscreenNG](https://linuxecke.volkoh.de/vokoscreen/vokoscreen.html) / Windows、Linux / [GitHub](https://github.com/vkohaupt/vokoscreenNG)
-* [Cap](https://cap.so/) / Windows、Mac / [GitHub](https://github.com/CapSoftware/Cap)
-* [Shar.ec](https://shar.ec/) / Web
-* [ScreenREC](https://screen-rec.vercel.app/) / Web / [GitHub](https://github.com/heysagnik/screenREC)
-* [RecordScreen](https://recordscreen.io/) / Web
-* [Google Screen Recorder](https://toolbox.googleapps.com/apps/screen_recorder/) / Web
-* [⁠Cursorful](https://cursorful.com/) - Browser Screen Recording
-
-***
-
-## ▷ 处理 / 编码
-
-* ⭐ **[HandBrake](https://handbrake.fr/)** or [VidCoder](https://vidcoder.net/) - Video Encoding Software / Windows、Mac、Linux / [Guide](https://www.rapidseedbox.com/blog/guide-to-mastering-handbrake) / [GitHub](https://github.com/HandBrake/HandBrake)
-* ⭐ **[FFmpeg](https://ffmpeg.org/)** - Multimedia Processors / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_ffmpeg_tools) / Windows、Mac、Linux / [GitHub](https://github.com/FFmpeg/FFmpeg)
-* ⭐ **[Shutter Encoder](https://www.shutterencoder.com/)** - Video Encoding Software / Windows、Mac、Linux / [GitHub](https://github.com/paulpacifico/shutter-encoder)
-* ⭐ **[MKVToolNix](https://mkvtoolnix.download/)** - MKV Editing Tools / Windows、Mac、Linux / [Codeberg](https://codeberg.org/mbunkus/mkvtoolnix)
-* ⭐ **[Basics to the Art of Remuxing](https://claraiscute.neocities.org/Guides/remuxing/)**, [2](https://claraiscute.pages.dev/Guides/remuxing/) - Learn How to Remux Videos
-* [⁠Video Noob Guide](https://gist.github.com/arch1t3cht/b5b9552633567fa7658deee5aec60453/), [archived-things](https://sometimes-archives-things.github.io/archived-things/), [JET Guide](https://jaded-encoding-thaumaturgy.github.io/JET-guide/master/), [The Encoding Guide](https://encoding-guide.neocities.org/) or [Silentaperture](https://silentaperture.gitlab.io/mdbook-guide/) - Video Encoding Guides
-* [DDVT](https://forum.doom9.org/showthread.php?t=183479) - Dolby Vision RPU Demuxing / Injecting / Editing
-* [MKV Muxing Batch GUI](https://github.com/yaser01/mkv-muxing-batch-gui) - Mux Videos / Windows、Linux
-* [IFME](https://github.com/Anime4000/IFME) - Video Encoding / Windows、Linux
-* [Av1an](https://github.com/rust-av/Av1an) - Video Encoding / Windows、Mac、Linux
-* [FastFlix](https://fastflix.org/) - Video Conversion / Windows、Mac、Linux / [GitHub](https://github.com/cdgriffith/FastFlix)
-* [Winnydows](https://winnydows.com/) - Video Conversion Software / Windows、Mac、Linux / [Telegram](https://t.me/xvid4psp81)
-* [staxrip](https://github.com/staxrip/staxrip/) - Video Encoding / Contact Sheet + Thumbnails Creator / Windows
-* [XMedia Recode](https://www.xmedia-recode.de/en/) - Video Conversion / Windows
-* [NEAV1E](https://github.com/Alkl58/NotEnoughAV1Encodes) - AV1 Encoding / Windows
-* [sickbeard_mp4_automator](https://github.com/mdhiggins/sickbeard_mp4_automator) - Automate Video Processing / Windows、Mac、Linux
-* [selur](https://www.selur.de/) - Video Encoding / Windows、Linux
-* [vvenc](https://github.com/fraunhoferhhi/vvenc), [vvdec](https://github.com/fraunhoferhhi/vvdec) or [VVCEasy](https://github.com/MartinEesmaa/VVCEasy) - VVC Encode / Decode
-
-***
-
-## ▷ 在线处理
-
-* [Compress Video 在线](https://compress-video-online.com/) - Compress / Unlimited
-* [8mb.video](https://8mb.video/) - Compress / 2GB / [Discord](https://discord.com/invite/UzmzPfX)
-* [autocompressor](https://autocompressor.net/) - Compress / 2GB
-* [Rotato](https://tools.rotato.app/) - Compress / 2GB
-* [VideoSmaller](https://www.videosmaller.com/) - Compress / 500MB
-* [YouCompress](https://www.youcompress.com/) - Compress / 500MB
-* [MP4Compress](https://www.mp4compress.com/) - Compress / 500MB
-* [VERT](https://vert.sh/) - Converter / [Discord](https://discord.gg/8XXZ7TFFrK) / [GitHub](https://github.com/VERT-sh/VERT)
-* [Video Express Converter](https://vc.germanov.dev/)
-* [VideoConverter](https://www.movavi.com/video-converter/) - Converter
-* [Restream Tools](https://restream.io/tools) - Converter
-
-***
-
-## ▷ FFmpeg 工具
-
-* [FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds) or [media-autobuild_suite](https://github.com/m-ab-s/media-autobuild_suite) - Autobuild Tools
-* [ffmpeg-web](https://ffmpeg-web.netlify.app/) / [GitHub](https://github.com/Dinoosauro/ffmpeg-web), [FFmpeg 在线](https://ffmpeg.wide.video/) or [ffmpegwasm](https://ffmpegwasm.netlify.app/) / [2](https://ffmpeg.gcc.ac.cn/) / [GitHub](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg Web App 
-* [FFmpeg Libav](https://github.com/leandromoreira/ffmpeg-libav-tutorial) or [ffmprovisr](https://amiaopensource.github.io/ffmprovisr/) - FFmpeg Guides
-* [ASM Lessons](https://github.com/FFmpeg/asm-lessons) - FFmpeg Assembly Language Lessons / Multiple Languages
-* [FFmpeg Cheat Sheet](https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730), [FFmpeg Commander](https://alfg.github.io/ffmpeg-commander/) or [FFmpeg Buddy](https://evanhahn.github.io/ffmpeg-buddy/) - Command Lists
-* [WebMConverter](https://argorar.github.io/WebMConverter/) - WebM Converter
-* [PureMPV](https://github.com/4ndrs/PureMPV) - Info Copy Tool
-* [FFmpeg Batch](https://ffmpeg-batch.sourceforge.io/) - Bulk Conversion Tools
-
-***
-
-## ▷ 直播
-
-* 🌐 **[Awesome Streaming](https://github.com/juancarlospaco/awesome-streaming-tools)** or [StreamerFreebies](https://streamerfreebies.com/) - 直播资源
-* ⭐ **[OBS Studio](https://obsproject.com/)** - Live Stream Manager / Windows、Mac、Linux / [GitHub](https://github.com/obsproject/obs-studio)
-* ⭐ **OBS Tools** - [Tweaks](https://ctt.cx/video/obs/) / [Background Remover](https://github.com/locaal-ai/obs-backgroundremoval) / [Web App](https://github.com/Niek/obs-web) / [Phone Controller](https://github.com/Kounex/obs_blade) / [Smooth Zoom](https://github.com/JustAdumbPrsn/OBS-Smooth-Zoom) / [Plugin Updater](https://ko-fi.com/s/0b5bd4536d) / [Guide](https://www.nvidia.com/en-us/geforce/guides/broadcasting-guide/)
-* ⭐ **[Streamer.bot](https://streamer.bot/)** - Live Stream Manager / [X](https://x.com/streamerdotbot) / [Subreddit](https://www.reddit.com/r/streamerbot) / [Discord](https://discord.com/invite/hYqQGG3puC) / [GitHub](https://github.com/Streamerbot)
-* [⁠TikFinity](https://tikfinity.zerody.one/) - TikTok Live Toolkit / [Discord](https://discord.gg/uthtmVdpy8)
-* [TikTok Chat Reader](https://tiktok-chat-reader.zerody.one/) - Live TikTok Chat Reader
-* [⁠MeldStudio](https://meldstudio.co/) - Live Stream Manager / Windows、Mac
-* [StreamLabs](https://streamlabs.com/) - Live Stream Manager / Windows、Mac / [GitHub](https://github.com/streamlabs/desktop)
-* [Stream Elements](https://streamelements.com/) - 流媒体服务管理器
-* [Restream](https://restream.io/) - Multi-Platform Streams
-* [TwitchChat](https://twitchat.fr/) - Live Stream Manager / [Discord](https://discord.com/invite/fmqD2xUYvP) / [GitHub](https://github.com/Durss/Twitchat)
-* [VDO Ninja](https://vdo.ninja/) - Live Stream Colab Tool
-* [LiveStreamDVR](https://github.com/MrBrax/LiveStreamDVR) or [⁠StreamRecorder](https://streamrecorder.io/) - Live Stream Recorder
-* [NVIDIA Broadcast](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/) - Stream Audio / Video Enhancer / Windows
-* [Owncast](https://owncast.online/) / [GitHub](https://github.com/owncast/owncast), [OwnCast](https://owncast.online/) / [GitHub](https://github.com/owncast/owncast) or [Restreamer](https://github.com/datarhei/restreamer) - 自托管 Live Streaming
-* [WDFlat](https://www.wdflat.com/) - Stream Elements
-* [Strem](https://github.com/strem-app/strem) - Stream Automation
-* [ppInk](https://github.com/PubPub-zz/ppInk/), [⁠AnnotateWeb](https://annotateweb.com/), [glnk](https://github.com/geovens/gInk), [Annotate Screen](https://annotatescreen.com/) or [Live Draw](https://github.com/antfu/live-draw) - Screen Annotation
-* [⁠Overlays](https://overlays.uno/) - Live Stream Overlays
-* [Amuse](https://6klabs.com/amuse) or [Songify](https://songify.overcode.tv/) - Now Playing Overlays
-* [real-url](https://github.com/wbt5/real-url) - Copy Live Stream URLs
-* [Chat-Downloader](https://github.com/xenova/chat-downloader) - Retrieve Chat Messages from Livestreams
-
-***
-
-## ▷ VTuber 工具
-
-* 🌐 **[Runa's Archive](https://kekuwi.github.io/Runa-Archive)** - VTuber Resources / [Discord](https://discord.com/invite/GdfHVZ6Z33)
-* [Best VTuber](https://gist.github.com/emilianavt/cbf4d6de6f7fb01a42d4cce922795794) - VTuber Resources
-* [VTResources](https://vtresources.carrd.co/) - VTuber Resources
-* [VTuber Assets](https://discord.gg/acU3dFRtvC) - VTuber Resources
-* [VTuber Kit](https://kyuppin.itch.io/vtuber-kit) or [VRoid](https://vroid.com/en/studio) - VTuber Character Creators / Tracking
-* [VSeeFace](https://www.vseeface.icu/), [Kalidoface 3D](https://3d.kalidoface.com/), [⁠VNyan](https://suvidriel.itch.io/vnyan) or [Animaze](https://www.animaze.us/) - 3D Tracking & Puppeteering (VRM)
-* [Vtube Studio](https://denchisoft.com/) or [Inochi2D](https://inochi2d.com/) / [Discord](https://discord.com/invite/abnxwN6r9v) - 2D / Live2D Tracking
-* [veadotube](https://olmewe.itch.io/veadotube-mini) - PNGTuber & Reactive Software
-* [avatarify-python](https://github.com/alievk/avatarify-python) - Real-Time Photo / Video Avatars
-* [VTuberized Logos](https://vtuber-style-logos.vercel.app/) - VTuber Style Logos
-
-***
-
-## ▷ [Subtitle Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_subtitle_tools)
-
-***
-
-## ▷ [Linux Video Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_linux_video)
-
-***
-
-## ▷ [Mac Video Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_mac_video)
-
-***
-
-# ► 视频播放器
-
-* 🌐 **[Awesome Video](https://github.com/krzemienski/awesome-video)** - 视频流媒体资源
-* 🌐 **[Video Help](https://www.videohelp.com/software/sections/video-players?orderby=Rating)** - Video Player Index
-* 🌐 **[MPV Clients](https://mpv.rocks/)** - MPV Based Client Index
-* ⭐ **[MPV](https://mpv.io/)** - Video Player / [Improved UI](https://github.com/tomasklaen/uosc) / [Custom Builder](https://mpv-easy.github.io/mpv-build/) / [Frontends](https://github.com/mpv-player/mpv/wiki/Applications-using-mpv) / [GitHub](https://github.com/mpv-player/mpv)
-* ⭐ **[MPC-HC](https://github.com/clsid2/mpc-hc/)** or [MPC-BE](https://sourceforge.net/projects/mpcbe/) - Video Player / [YT-DL Support](https://www.free-codecs.com/guides/how_to_stream_videos_with_mpc-hc.htm) / [OpenSubtitles Bypass](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/mp-opensubs.md)
-* ⭐ **[MPC-QT](https://mpc-qt.github.io/)** - Video Player / MPC UI w/ MPV Internal Player / Easy Setup
-* ⭐ **[VLC](https://www.videolan.org/)** - Video Player / [GitHub](https://github.com/videolan/vlc)
-* ⭐ **[FastStream](https://faststream.online/)** - 分片流媒体扩展 / [Firefox Note](https://github.com/Andrews54757/FastStream?tab=readme-ov-file#notice-for-firefox-extension-store-users) / [GitHub](https://github.com/Andrews54757/FastStream/)
-* ⭐ **[OpenVideo](https://openvideofs.github.io)** or [Stream-Bypass](https://github.com/ByteDream/stream-bypass) - 在无广告播放器中使用流媒体站点，支持字幕、速度控制等
-* [Codec Guide](https://www.codecguide.com/), [ALF FreeWare VideoCODECs](https://codec.kyiv.ua/), or [Free-Codecs](https://www.free-codecs.com/) - Video Player Codec Collections
-* [PotPlayer](https://potplayer.tv/) - Video Player / [Twitch Addon](https://github.com/TwitchPotPlayer/TwitchPotPlayer) / [YouTube Addon](https://chromewebstore.google.com/detail/potplayer-youtube-shortcu/cfdpeaefecdlkdlgdpjjllmhlnckcodp)
-* [Screenbox](https://github.com/huynhsontung/Screenbox) - Video Player
-*[GridPlayer](https://github.com/vzhd1701/gridplayer), [AVPlayer](http://www.awesomevideoplayer.com/) or [ICAT](https://www.nvidia.com/en-us/geforce/technologies/icat/) - Multi-Video Players
-* [SPlayer](https://www.splayer.org/) - Video Player with Smart Translation
-* [ImPlay](https://github.com/tsl0922/ImPlay) - Video Player
-* [SMPlayer](https://www.smplayer.info/), [2](https://sourceforge.net/projects/smplayer/) - Video Player / [SMTube](https://www.smtube.org/) / [GitHub](https://github.com/smplayer-dev/smplayer)
-* [uView](https://www.idruf.com/) - Video Player
-* [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player) - Video Player
-* [Flyleaf](https://github.com/SuRGeoNix/Flyleaf) - Video Player
-* [MoonPlayer](https://github.com/coslyk/moonplayer) - Video Player
-* [KikoPlay](https://kikoplay.fun/) - Video Player
-* [Plyr](https://plyr.io/) - 在线 HTML5, YouTube and Vimeo Player / [GitHub](https://github.com/sampotts/plyr)
-* [⁠panoptic](https://panoptic.live/) - Watch Multiple Live Streams At Once
-* [MotionMonkey](https://omega.gg/MotionMonkey/) - Stream 在线 Videos in Player
-* [⁠Private Video Sharing](https://privatevideosharing.com/) - P2P 视频流 / 临时文件
-* [StreamLink](https://streamlink.github.io/) - Extract Videos from Sites to Players / [Twitch Adblock](https://github.com/2bc4/streamlink-ttvlol) / [GitHub](https://github.com/streamlink/streamlink)
-* [polsy.org.uk](https://polsy.org.uk/) - Alt Players for Video Sites
-
-***
-
-## ▷ 同步观看
-
-* ⭐ **[Syncplay](https://syncplay.pl/)** - App / [GitHub](https://github.com/Syncplay/syncplay)
-* ⭐ **[Watch2Gether](https://w2g.tv/)** - 在线 Player
-* ⭐ **[SyncWatch](https://github.com/Semro/syncwatch)** - 在线 Extension
-* ⭐ **[Kosmi](https://kosmi.io/)** - 在线 Player
-* ⭐ **[WatchParty](https://www.watchparty.me/)** - 在线 / Virtual Browser
-* ⭐ **[neko](https://neko.m1k1o.net/)** - Docker Virtual Browser / [GitHub](https://github.com/m1k1o/neko)
-* [HyperBeam](https://hyperbeam.com/) / [VIP](https://greasyfork.org/en/scripts/457795) - Virtual Computer Embed
-* [OpenTogetherTube](https://opentogethertube.com/) or [TurtleTV](https://turtletv.app/) - 在线 Player
-* [Metastream](https://getmetastream.com/) - 在线 Extension / [X](https://x.com/getmetastream) / [Discord](https://discord.com/invite/nfwPRb9) / [GitHub](https://github.com/samuelmaddock/metastream)
-* [Caracal Club](https://caracal.club/) - 在线 Player
-* [CyTube](https://cytu.be/) - 在线 Player
-* [⁠CinevoSync](https://sync.cinevo.site/) - 在线 Player
-* [VideoTogether](https://2gether.video/en-us/) - App
-* [baked.live](https://baked.live/) - 在线 Player
-* [Rave.io](https://rave.io/) - 在线 Extension
-* [MovieNight](https://github.com/zorchenhimer/MovieNight) - Docker / [Discord](https://discord.gg/F2VSgjJ)
-
-***
-
-## ▷ MPV 工具
-
-* 🌐 **[⁠Awesome-MPV](https://github.com/stax76/awesome-mpv)** - MPV Tools / Resources
-* 🌐 **[igv's shaders](https://gist.github.com/igv)** - Various Shaders
-* [MPV Config Guide](https://thewiki.moe/tutorials/mpv/), [2](https://iamscum.wordpress.com/guides/videoplayback-guide/mpv-conf/), [3](https://hooke007-github-io.translate.goog/unofficial/index.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)
-* [ModernZ](https://github.com/Samillion/ModernZ), [tethys](https://github.com/Zren/mpv-osc-tethys) or [uosc](https://github.com/tomasklaen/uosc) - Alt User Interfaces
-* [Simple MPV WebUI](https://github.com/open-dynaMIX/simple-mpv-webui) - WebUI Controller
-* [MPV Context Menu](https://gitlab.com/carmanaught/mpvcontextmenu)
-* [MPV Scripts](https://github.com/mpv-player/mpv/wiki/User-Scripts) - Userscripts
-* [VideoClip](https://github.com/Ajatt-Tools/videoclip), [2](https://github.com/f0e/mpv-lossless-cut) - Clip Tool
-* [MPV WebM](https://github.com/ekisu/mpv-webm) - WebM Tool
-* [Play With MPV](https://greasyfork.org/en/scripts/416271) or [ff2mpv](https://github.com/woodruffw/ff2mpv) - Open Videos with MPV
-* [MPV WebTorrent Hook](https://github.com/noctuid/mpv-webtorrent-hook) - BT 流媒体
-* [AutoSubSync MPV](https://github.com/joaquintorres/autosubsync-mpv) - Sub Sync
-* [MPV SponsorBlock](https://github.com/po5/mpv_sponsorblock), [2](https://codeberg.org/jouni/mpv_sponsorblock_minimal) - SponsorBlock for MPV
-* [ThumbFast](https://github.com/po5/thumbfast) - MPV Thumbnails
-* [ArtCNN](https://github.com/Artoriuz/ArtCNN), [AniSD](https://github.com/Sirosky/Upscale-Hub/releases/tag/AniSD-ArtCNN) or [Ani4k](https://github.com/Sirosky/Upscale-Hub/releases/tag/Ani4k-v2-ArtCNN) - Anime Upscaling
-* [FSR](https://gist.github.com/agyild/82219c545228d70c5604f865ce0b0ce5) or [CAS](https://gist.github.com/agyild/bbb4e58298b2f86aa24da3032a0d2ee6) - AMD FidelityFX port
-* [MPV Prescalers](https://github.com/bjin/mpv-prescalers/) - NNEDI / RAVU Upscaling
-* [GLSL CFL Prediction](https://github.com/Artoriuz/glsl-chroma-from-luma-prediction) - Chroma Upscaling
-
-***
-
-## ▷ VLC 工具
-
-* 🌐 **[Awesome VLC](https://github.com/mfkl/awesome-vlc)** - VLC Resources
-* [VLSub](https://github.com/exebetche/vlsub) - Sub Downloader
-* [VLC Slow Seek Fix](https://redd.it/os6f1q)
-
-***
-
-# ► 媒体服务器
-
-* ↪️ **[Torrent Automation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_torrent_apps)**
-* ⭐ **[Jellyfin](https://jellyfin.org/)** - 媒体服务器 / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_plex_tools) / [Matrix](https://matrix.to/#/#jellyfinorg:matrix.org) / [Discord](https://discord.gg/zHBxVSXdBV) / [GitHub](https://github.com/jellyfin/jellyfin)
-* ⭐ **[Kodi](https://kodi.tv/)** or [Xbox Kodi](https://apps.microsoft.com/detail/9nblggh4t892) - 媒体服务器 / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_plex_tools)
-* [TRaSH Guides](https://trash-guides.info/) / [Discord](https://discord.com/invite/4K2kdvwzFh), [⁠Duck Guides](https://duckkota.gitlab.io/guides/) or [The Complete Guide](https://redd.it/pqsomd) - Server Setup Guides
-* [Simkl](https://simkl.com/), [MDBList](https://mdblist.com/) or [Trakt](https://trakt.tv/) - Media Trackers / List Creators
-* [自托管 Anime](https://github.com/shyonae/selfhosted-anime/wiki) - 动漫服务器搭建指南
-* [Prowlarr](https://prowlarr.com/) / [GitHub](https://github.com/Prowlarr/Prowlarr), [FlexGet](https://flexget.com/) or [r/softwarr](https://reddit.com/r/softwarr) - Autodownload Tools
-* [Reiverr](https://github.com/aleksilassila/reiverr) - 媒体服务器 Manager
-* [Fixarr](https://github.com/sachinsenal0x64/fixarr) - 媒体服务器 File Renamer / [Discord](https://discord.com/invite/EbfftZ5Dd4)
-* [HTPC Download Box](https://github.com/sebgl/htpc-download-box) - 媒体服务器 Automation
-* [Seanime](https://seanime.app/) - Anime Server / [Discord](https://discord.com/invite/3AuhRGqUqh)
-* [Plex](https://www.plex.tv/) or [Plezy](https://plezy.app/) / [GitHub](https://github.com/edde746/plezy) - 媒体服务器 / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_plex_tools)
-* [DMS](https://github.com/anacrolix/dms) - 媒体服务器
+* ↪️ **[视频流媒体](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video)**
+* ↪️ **[图像 / 视频编辑](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_video_editing)**
+* ⭐ **[OBS Studio](https://obsproject.com/)** - 录屏 / 直播 / [虚拟摄像头](https://github.com/CatxFish/obs-virtual-cam) / [优化](https://obsproject.com/wiki/Performance-Troubleshooting)
+* ⭐ **[FFmpeg](https://ffmpeg.org/)** / [自动构建](https://www.gyan.dev/ffmpeg/builds/) / [指南](https://github.com/transitive-bullshit/ffmpeg-cli) / [FFmpeg Explorer](https://ffmpeg.lav.io/) - 视频编码器 / 转换器
+* ⭐ **[MPV](https://mpv.io/)** - 视频播放器 / [指南](https://rentry.co/mpv_guide) / [配置](https://github.com/mpv-player/mpv/wiki) / [脚本](https://github.com/mpv-player/mpv/wiki/User-Scripts) / [网页版](https://github.com/nickprotte/mpv-web)
+* [VLC](https://www.videolan.org/vlc/) - 视频播放器
+* [PotPlayer](https://potplayer.daum.net/) - 视频播放器
+* [MPC-HC](https://github.com/clsid2/mpc-hc) - 轻量级播放器
+* [Kodi](https://kodi.tv/) - 家庭影院
+* [Plex](https://www.plex.tv/) - 媒体服务器
+* [Jellyfin](https://jellyfin.org/) - 开源媒体服务器
 * [Emby](https://emby.media/) - 媒体服务器
-* [Universal 媒体服务器](https://www.universalmediaserver.com/) - 媒体服务器
-* [OSMC](https://osmc.tv/) - 媒体服务器
-* [Kawaii-Player](https://github.com/kanishka-linux/kawaii-player) - 媒体服务器
-* [Streama](https://github.com/streamaserver/streama) - 媒体服务器
-* [Gerbera](https://gerbera.io/) - 媒体服务器
-* [Homehost](https://github.com/ridhwaans/homehost) - 媒体服务器
-* [Dim](https://github.com/Dusk-Labs/dim) - 媒体服务器
-* [Kyoo](https://github.com/zoriya/Kyoo) - 媒体服务器 / [Discord](https://discord.com/invite/E6Apw3aFaA)
-* [Chocolate](https://github.com/ChocolateApp/Chocolate) - 媒体服务器
-* [Media-Hoarder](https://github.com/theMK2k/Media-Hoarder) - Media Catalog Frontend
-* [Frames](https://github.com/Eleven-am/frames) - Google Drive Server
-* [HTPC](https://r-htpc.github.io/wiki/) - Home Theater PC guides / [Subreddit](https://www.reddit.com/r/htpc/)
-* [MSX](https://msx.benzac.de/info/) - Web App
-* [TheIntroDB](https://theintrodb.org/) - Intro / Credit Skipping Extension / [Discord](https://discord.gg/Qn6RhamxT5) / [Telegram](https://t.me/theintrodb) / [GitHub](https://github.com/TheIntroDB)
-* [Tunarr](https://tunarr.com/) / [GitHub](https://github.com/chrisbenincasa/tunarr/), [ErsatzTV](https://ersatztv.org/) or [dizqueTV](https://github.com/vexorian/dizquetv) - Custom Live Channel Servers
-* [⁠YAMS](https://yams.media/) - Linux 媒体服务器 Auto-Install Script 
-* [ansible-hms-docker](https://github.com/ahembree/ansible-hms-docker) or [DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - Automated Docker 媒体服务器 Setups
-* [Seerr](https://github.com/seerr-team/seerr) / [Mobile](https://github.com/seerr-team/mobile-app) or [Ombi](https://github.com/Ombi-app/Ombi) - User Request Management 
-* [Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) or [⁠tuliprox](https://github.com/euzu/tuliprox) - IPTV Playlist Managers for Servers
-* [YTDL-Sub](https://ytdl-sub.readthedocs.io/en/) - Add YouTube Channels to 媒体服务器s / [GitHub](https://github.com/jmbannon/ytdl-sub)
-* [xTeVe](https://github.com/xteve-project/xTeVe) - Plex / Emby M3U Proxy
+* [Stremio](https://www.stremio.com/) - 流媒体中心
+* [VidCoder](https://vidcoder.net/) - 视频转码 / [GitHub](https://github.com/RandomEngy/VidCoder)
+* [HandBrake](https://handbrake.fr/) - 视频转码 / [GitHub](https://github.com/HandBrake/HandBrake)
+* [Shutter Encoder](https://www.shutterencoder.com/) - 视频编码 / [GitHub](https://github.com/paulpacifico/shutter-encoder)
+* [Avidemux](https://avidemux.sourceforge.net/) - 视频编辑 / 转换
+* [LosslessCut](https://github.com/mifi/lossless-cut) - 无损视频裁剪
+* [MKVToolNix](https://mkvtoolnix.download/) - MKV 工具 / [GitHub](https://github.com/mkv/mkvtoolnix)
+* [XMedia Recode](https://www.xmedia-recode.de/) - 视频转换
+* [MediaCoder](https://www.mediacoderhq.com/) - 视频转码
+* [FFASTrans](https://github.com/FFASTrans/FFASTrans) - 视频转码
+* [Tdarr](https://tdarr.io/) - 媒体转码自动化
+* [Unmanic](https://unmanic.app/) - 媒体转码
+* [MakeMKV](https://www.makemkv.com/) - Blu-ray / DVD 翻录
+* [DVDFab](https://www.dvdfab.cn/) - DVD / Blu-ray 复制
+* [AnyDVD](https://www.redfox.bz/anydvd.html) - DVD / Blu-ray 解密
+* [ImgBurn](https://www.imgburn.com/) - 光盘刻录
+* [Daemon Tools](https://www.daemon-tools.cc/) - 虚拟光驱
+* [Virtual CloneDrive](https://www.elby.ch/en/products/vcd.html) - 虚拟光驱
+* [WinCDEmu](https://wincdemu.sysprogs.org/) - 光盘挂载
+* [DVDFab HD Decrypter](https://www.dvdfab.cn/hd-decrypter.htm) - Blu-ray 解密
+* [BDInfo](https://www.videohelp.com/software/BDInfo) - Blu-ray 信息
+* [MediaInfo](https://mediaarea.net/en/MediaInfo) - 媒体文件信息 / [工具](https://www.mediainfo.net/)
 
 ***
 
-## ▷ Plex 工具
+## 视频下载
 
-* [Reddit Guide](https://redd.it/ma1hlm) - Plex Setup Guides
-* [Tautulli](https://tautulli.com/) - Server Monitor / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/tautulli-note.md)
-* [Kitana](https://github.com/pannal/Kitana) - Plugin Frontend
-* [Reaparr](https://www.reaparr.rocks/) - Merge Plex Libraries w/ Your Own
-* [PlexDrive](https://github.com/plexdrive/plexdrive) or [mergerfs](https://docs.ultra.cc/books/rclone/page/rclone-vfs-and-mergerfs-setup) - Mount Google Drive
-* [SyncLounce](https://synclounge.tv/) - Media Sync
-* [PseudoTV](https://github.com/DEFENDORe/pseudotv) - Create TV Channels
-* [Overseerr](https://overseerr.dev/) - User Requests / [IMDb Extension](https://chromewebstore.google.com/detail/overseerr-assistant/hopnjiadheaagfhpipecoamoegijhnij)
-* [Pasta Tool](https://www.pastatool.com/) - Audio / Sub Changer
-
-***
-
-## ▷ Jellyfin 工具
-
-* 🌐 **[Awesome Jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin)** - Jellyfin Resources
-* ⭐ **[Fladder](https://github.com/DonutWare/Fladder/)** - Desktop Client / Windows、Mac、Linux, Android, iOS
-* [Blink](https://github.com/prayag17/Blink) - Desktop Client
-* [jellyfin-desktop](https://github.com/jellyfin/jellyfin-desktop) - Desktop Client
-* [Findroid](https://github.com/jarnedemeulemeester/findroid) or [Streamyfin](https://github.com/streamyfin/streamyfin) - JellyFin Android Clients
-* [Jellyfin Forum](https://forum.jellyfin.org/) - Official Jellyfin Forum
-* [Jellyfin Vue](https://github.com/jellyfin/jellyfin-vue) - Jellyfin Web Client
-* [Jellyfin "arr" Setup Guide](https://www.fuzzygrim.com/posts/media-server)
-* [Jellyfin Customization Guide](https://youtu.be/F85qMyBeiDI)
-* [Jellyfin Themes](https://jellyfin.org/docs/general/clients/css-customization/#community-themes)
-* [Jellyfin RPC](https://github.com/Radiicall/jellyfin-rpc) - Jellyfin Discord Rich Presence
-
-***
-
-## ▷ Kodi 工具
-
-* ⭐ **[Elementum](https://elementum.surge.sh/)** - BT 流媒体 / Trakt Sync / Similar to Stremio + Torrentio
-* [EverythingKodi](https://rumble.com/c/EverythingKodi) - Kodi Addon Tutorials
-* [Kodi Builds Chart](https://kodiapps.com/builds-chart)
-* [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart) or [⁠TroyPoint](https://troypoint.com/) - Kodi Addons
-* [Kodi Skins](https://kodi.tv/addons/omega/category/skins/) or [WIP Skins](https://forum.kodi.tv/forumdisplay.php?fid=160) - Kodi Skins
-* [Synko](https://github.com/Skaytacium/synko) - Kodi Stream Sync
-* [Plex Kodi Connect](https://github.com/croneter/PlexKodiConnect) or [plex-for-kodi](https://github.com/pannal/plex-for-kodi) - Plex for Kodi
-* [quasar](https://quasar.surge.sh/) - Torrent Plugin
-* [IPTV Client](https://kodi.wiki/view/Add-on:PVR_IPTV_Simple_Client)
-* [tinyMediaManager](https://www.tinymediamanager.org/) or [MediaElch](https://www.kvibes.de/mediaelch/) - Media Collection Managers
+* ⭐ **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** - 视频 CLI / [Discord](https://discord.gg/H5MNcFW63r)
+* ⭐ **[yt-dlp GUI](https://github.com/nicomue/yt-dlp-gui)** - yt-dlp 图形界面
+* ⭐ **[JDownloader](https://jdownloader.org/)** - 通用下载器
+* ⭐ **[cobalt](https://cobalt.tools/)** - 在线视频下载器 / [GitHub](https://github.com/imputnet/cobalt)
+* ⭐ **[9xbuddy](https://9xbuddy.com/)** - 在线视频下载器
+* ⭐ **[SaveFromWeb](https://www.savefromweb.com/)** - 在线视频下载器
+* [4K Video Downloader](https://www.4kdownload.com/products/videodownloader) - 视频下载
+* [Downie](https://software.charliemonroe.net/downie/) - macOS 视频下载
+* [Video DownloadHelper](https://www.downloadhelper.net/) - 浏览器扩展
+* [Flash Video Downloader](https://www.flashvideodownloader.org/) - 浏览器扩展
+* [Ant Video Downloader](https://ant.com/video-downloader/) - 浏览器扩展
+* [Video Downloader Plus](https://chrome.google.com/webstore/detail/video-downloader-plus/hkdmdpdhfaopjbnpncijjjcfcgbpdejl) - Chrome 扩展
+* [Stream Video Downloader](https://chrome.google.com/webstore/detail/stream-video-downloader/imkngaibigegepnlckfcbecjoilcjbhf) - Chrome 扩展
+* [Video Downloader Professional](https://chrome.google.com/webstore/detail/video-downloader-professi/dlpiaeofjhnjeckcbpnponjmjlleolmn) - Chrome 扩展
+* [Easy Video Downloader](https://chrome.google.com/webstore/detail/easy-video-downloader/pkiflihjacnebfjnfpbppgclifcpllhh) - Chrome 扩展
+* [VideoHunter](https://videohunter.io/) - 视频下载
+* [iTubeGo](https://itubego.com/) - 视频下载
+* [YTD Video Downloader](https://www.ytddownloader.com/) - 视频下载
+* [ClipGrab](https://clipgrab.org/) - 视频下载
+* [MediaHuman](https://www.mediahuman.com/) - 视频下载
+* [ByClick Downloader](https://www.byclickdownloader.com/) - 视频下载
+* [Allavsoft](https://www.allavsoft.com/) - 视频下载
+* [VideoProc](https://www.videoproc.com/) - 视频处理
+* [Wondershare Uniconverter](https://www.wondershare.com/video-converter/) - 视频转换
+* [ddownr](https://ddownr.com/) - 批量视频下载
+* [FetchV](https://fetchv.net/) - 视频下载
+* [Hugging Face Video Downloader](https://huggingface.co/spaces/enzostvs/video-downloader) - 视频下载
 
 ***
 
-# ► 视频下载
+## 视频转换
 
-* ↪️ **[YouTube Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_youtube_downloaders)**
-* ↪️ **[Twitch Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_downloaders)**
-* ↪️ **[Download Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools/#wiki_.25B7_download_managers)**
-* ⭐ **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** or [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - Multi-Site / [Commands](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) / [Discord](https://discord.gg/H5MNcFW63r)
-* ⭐ **[cobalt](https://cobalt.tools/)** - Multi-Site / 在线 / [Instances](https://cobalt.directory/) / [X](https://x.com/justusecobalt) / [Discord](https://discord.com/invite/pQPt8HBUPu) / [GitHub](https://github.com/imputnet/cobalt)
-* ⭐ **[9xbuddy](https://9xbuddy.com/)**, [2](https://9xbuddy.site/), [3](https://9xbuddy.in/) - Multi-Site / 在线
-* [Video DownloadHelper](https://www.downloadhelper.net/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/video-downloadhelper.md), [FetchV](https://fetchv.net/) or [MPMux](https://mpmux.com/) - Extensions
-* [DRM Bypass Toolkit](https://rentry.co/FMHYB64#dbt) - DRM Bypass Guide
-* [⁠VideoDL](https://github.com/CharlesPikachu/videodl) - Multi-Site
-* [NeoDLP](https://neodlp.neosubhamoy.com/) - Multi-Site / [Extension](https://github.com/neosubhamoy/neodlp-extension) / [GitHub](https://github.com/neosubhamoy/neodlp)
-* [VideoFK](https://www.videofk.com/) - Multi-Site / 在线
-* [⁠OFA Downloader](https://oneforalldownloader.com/) - Multi-Site / 在线
-* [⁠YT-DLP 在线](https://ytdlp.online/), [2](https://ytdlp.wiki/) - Multi-Site / 在线
-* [⁠dltkk](https://dltkk.to/) - Multi-Site / 在线
-* [⁠YT-DLP 在线](https://ytdlp.online/), [2](https://ytdlp.wiki/) - Multi-Site / 在线
-* [⁠imov.life](https://imov.life/) - Multi-Site / 在线
-* [you-get](https://you-get.org/) - Multi-Site / CLI / [GitHub](https://github.com/soimort/you-get)
-* [SCrawler](https://github.com/AAndyProgram/SCrawler) - Multi-Site / Software / [Discord](https://discord.gg/uFNUXvFFmg)
-* [Musvkrobot](https://t.me/musvkrobot) - Multi-Site / Telegram Bot
-* [SSSTik](https://ssstik.io/), [myfaveTT](https://myfavett.com/) or [tiktok-to-ytdlp](https://github.com/Dinoosauro/tiktok-to-ytdlp) - TikTok
-* [Threads Downloader](https://threadsdownloader.com/) - Threads
-* [Piner](https://piner.io/) - Pinterest / 在线
-* [⁠ReelSave](https://reelsave.app/) - Instagram
-* [iTeraPlay](https://iteraplay.com/) or [1024TeraDL](https://1024teradl.com/) - ⁠TeraBox
-* [hls-downloader](https://github.com/puemos/hls-downloader), [⁠cat-catch](https://github.com/xifangczy/cat-catch/blob/master/README_en.md), [hls extension](https://webextension.org/listing/hls-downloader.html) or [hlsloader](https://www.hlsloader.com/) - HLS Downloaders
-* [GetWVKeys](https://getwvkeys.cc/) - Send Widevine Requests / [GitHub](https://github.com/GetWVKeys/)
+* ⭐ **[HandBrake](https://handbrake.fr/)** - 视频转码
+* ⭐ **[FFmpeg](https://ffmpeg.org/)** - 视频编码器
+* [VidCoder](https://vidcoder.net/) - 视频转码
+* [Shutter Encoder](https://www.shutterencoder.com/) - 视频编码
+* [XMedia Recode](https://www.xmedia-recode.de/) - 视频转换
+* [MediaCoder](https://www.mediacoderhq.com/) - 视频转码
+* [FFASTrans](https://github.com/FFASTrans/FFASTrans) - 视频转码
+* [Tdarr](https://tdarr.io/) - 媒体转码自动化
+* [Unmanic](https://unmanic.app/) - 媒体转码
+* [AVS Video Converter](https://www.avs4you.com/avs-video-converter.aspx) - 视频转换
+* [Wondershare Video Converter](https://www.wondershare.com/video-converter/) - 视频转换
+* [Format Factory](https://www.pcfreetime.com/formatfactory/) - 多媒体格式转换
+* [Freemake Video Converter](https://www.freemake.com/free_video_converter/) - 视频转换
+* [Online Video Converter](https://www.onlinevideoconverter.com/) - 在线视频转换
+* [Convertio](https://convertio.co/) - 在线文件转换
+* [CloudConvert](https://cloudconvert.com/) - 在线文件转换
+* [Zamzar](https://www.zamzar.com/) - 在线文件转换
+* [Online Convert](https://www.online-convert.com/) - 在线文件转换
+* [AnyConv](https://anyconv.com/) - 在线文件转换
+* [FileZigZag](https://www.filezigzag.com/) - 在线文件转换
+* [MiConv](https://micconv.com/) - 在线文件转换
 
 ***
 
-# ► 视频编辑
+## 视频编辑
 
-* ⭐ **[r/VideoEditing](https://www.reddit.com/r/VideoEditing/)** - Video Editing Subreddit / [Wiki](https://www.reddit.com/r/VideoEditing/wiki/index/)
-* ⭐ **[Eyecandy](https://eyecannndy.com/)** - Visual Technique Examples / [Discord](https://discord.com/invite/WRyrPkWEzT)
-* ⭐ **[Waifu2x GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)**, [⁠TheAnimeScripter](https://github.com/NevermindNilas/TheAnimeScripter), [Video2x](https://github.com/k4yt3x/video2x), [Enhancr](https://github.com/mafiosnik777/enhancr), [Warlock-Studio](https://github.com/Ivan-Ayub97/Warlock-Studio), [Lossless Scaling](https://fmhy.net/gaming#download-games) (search) or [Dandere2x](https://github.com/akai-katto/dandere2x) - Video Upscaling
-* [Codecs and Containers](https://www.reddit.com/r/VideoEditing/wiki/codecsandcontainers) - Info on Codecs & Containers
-* [VideoHelp Forum](https://forum.videohelp.com/forums/2-Video) - Video Editing Forums
-
-***
-
-## ▷ 视频编辑器
-
-* ↪️ **[编辑软件](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25BA_torrent_sites)**
-* ⭐ **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** - Video Editor / 需注册 (Fake Info Works) / [Guides](https://www.blackmagicdesign.com/products/davinciresolve/training) / [Subtitle Generator](https://tom-moroney.com/auto-subs/) / [Green Screen Extract](https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime) / Windows、Mac、Linux / [X](https://x.com/Blackmagic_News) / [Discord](https://discord.gg/davinci-resolve-community-714620142096482314)
-* ⭐ **[Kdenlive](https://kdenlive.org/en/)** - Video Editor / Windows、Mac、Linux / [GitHub](https://github.com/KDE/kdenlive)
-* ⭐ **[LosslessCut](https://github.com/mifi/lossless-cut)** - Single Video Editor / Windows、Mac、Linux
-* ⭐ **[Shotcut](https://shotcut.org/)** - Video Editor / Windows、Mac、Linux / [GitHub](https://github.com/mltframework/shotcut)
-* [Satvrn](https://rentry.co/FMHYB64#satvrn) - 视频编辑器 / Plugins
-* [OpenShot](https://www.openshot.org/) - Video Editor / Windows、Mac、Linux
-* [VSDC](https://www.videosoftdev.com/) - Video Editor / Windows、Mac
-* [Auto-Editor](https://auto-editor.com/) - CLI Editor
-* [MoviePy](https://zulko.github.io/moviepy/) - Python Editor
-* [Webm Generator](https://github.com/dfaker/WebmGenerator) - Webm Editor / Windows
-* [avisynth](http://avisynth.nl/index.php/Main_Page) - Video Processor / Windows、Mac、Linux
-* [VapourSynth](https://www.vapoursynth.com/) - Video Processor / Windows、Linux
-* [Source Filmmaker](https://store.steampowered.com/app/1840/Source_Filmmaker/) - Steam Movie-Making Tool / [Resources](https://sfmlab.com/) / Windows
-* [OpenRV](https://github.com/AcademySoftwareFoundation/OpenRV) - Image / Sequence Playback Review / Windows、Mac、Linux
-* [suckless-cut](https://github.com/couleur-tweak-tips/suckless-cut) - Cut & Trim Videos / Windows、Mac、Linux
-* [vidcutter](https://github.com/ozmartian/vidcutter) - Cut & Trim Videos / Script
-* [FreeMoCap](https://freemocap.org/) - Motion Tracking / Windows、Mac、Linux
-* [Kurku](https://app.kurku.tech/) - Motion Tracking / Web
-
-***
-
-## ▷ 在线编辑器
-
-* ⭐ **[wide.video](https://wide.video/)** / [Discord](https://discord.gg/Q54kW97yj5)
-* ⭐ **[Pikimov](https://pikimov.com/)** - Use Chromium Browser
-* ⭐ **[Mastershot](https://mastershot.app/)** - 需注册
-* [Klippy](https://www.klippy.pro/) / [Discord](https://discord.gg/xJVXbQVPZP)
-* [FreeCut](https://www.freecut.net/), [2](https://freecut-sandy.vercel.app/) / [GitHub](https://github.com/walterlow/freecut)
-* [Panzoid](https://panzoid.com/)
-* [⁠Tooscut](https://tooscut.app/) / [GitHub](https://github.com/mohebifar/tooscut)
-* [vidmix](https://vidmix.app/)
-* [Video Cutter](https://video-cutter-js.com/)
-* [Omniclip](https://omniclip.app/) / [Discord](https://discord.com/invite/Nr8t9s5wSM) / [GitHub](https://github.com/omni-media/omniclip)
-* [Cuttr](https://cuttr.in/) - Transcription Based Editor
-* [Vididoo](https://vididoo.vercel.app/) - Multitool
-* [VideoCandy](https://videocandy.com/) - Multitool
-* [Video2Edit](https://www.video2edit.com/) - Multitool
-* [Crop Video](https://crop-video.com/) - Crop Videos
-* [LoopVid](https://loopvid.kastden.org/) - Loop Videos
-* [Crossfade](https://crossfade.io/) - 视频 / 音频 Crossfading
-* [VidLouder](https://www.videolouder.com/) - Increase Video Volume
-* [Convert2Video](https://convert2video.com/) - Image / Audio to Video
+* ↪️ **[视频编辑软件](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_video_editing)**
+* ⭐ **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** - 专业视频编辑
+* ⭐ **[Shotcut](https://shotcut.org/)** - 开源视频编辑
+* ⭐ **[Olive](https://olivevideoeditor.org/)** - 视频编辑
+* ⭐ **[Kdenlive](https://kdenlive.org/)** - 视频编辑
+* ⭐ **[OpenShot](https://www.openshot.org/)** - 视频编辑
+* ⭐ **[Blender](https://www.blender.org/)** - 3D 创建 / 视频编辑
+* ⭐ **[LosslessCut](https://github.com/mifi/lossless-cut)** - 无损视频裁剪
+* [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html) - 专业视频编辑
+* [Final Cut Pro](https://www.apple.com/final-cut-pro/) - macOS 视频编辑
+* [Sony Vegas Pro](https://www.vegascreativesoftware.com/) - 视频编辑
+* [Avid Media Composer](https://www.avid.com/media-composer) - 专业视频编辑
+* [Lightworks](https://lwks.com/) - 视频编辑
+* [HitFilm Express](https://fxhome.com/hitfilm-express) - 视频编辑
+* [MoviePy](https://zulko.github.io/moviepy/) - Python 视频编辑
+* [FFmpeg](https://ffmpeg.org/) - 命令行编辑
+* [Wave](https://www.wave.video/) - 在线视频编辑
+* [Clideo](https://clideo.com/) - 在线视频编辑
+* [Kapwing](https://www.kapwing.com/) - 在线视频编辑
+* [WeVideo](https://www.wevideo.com/) - 在线视频编辑
+* [Canva Video Editor](https://www.canva.com/video-editor/) - 在线视频编辑
+* [Clipchamp](https://clipchamp.com/) - 在线视频编辑
+* [FlexClip](https://www.flexclip.com/) - 在线视频编辑
+* [InVideo](https://invideo.io/) - 在线视频编辑
+* [Typito](https://typito.com/) - 在线视频编辑
+* [Biteable](https://biteable.com/) - 在线视频编辑
+* [Animoto](https://animoto.com/) - 在线视频编辑
+* [Powtoon](https://www.powtoon.com/) - 动画视频
+* [Moovly](https://www.moovly.com/) - 动画视频
+* [Vyond](https://www.vyond.com/) - 动画视频
 
 ***
 
-## ▷ 特效 / 增强
+## 字幕工具
 
-* ⭐ **[Efecto](https://efecto.app/)**, [⁠Grainrad](https://grainrad.com/) or [effect.app](https://effect.app/) - 在线 Video Effects
-* [Video Enhance AI](https://lrepacks.net/repaki-programm-dlya-grafiki/) - Video Enhancement Tool / Search "Topaz" or "UniFab" on LR
-* [Gyroflow](https://gyroflow.xyz/) / [Discord](https://discord.com/invite/YaUtNpWTUh) / [GitHub](https://github.com/gyroflow/gyroflow) or [ComfyUI-Video-Stabilizer](https://github.com/nomadoor/ComfyUI-Video-Stabilizer) - Video Stabilization 
-* [Flowframes](https://nmkd.itch.io/flowframes) / [Beta](https://kemono.cr/patreon/user/19695417) or [SVP](https://www.svp-team.com/) / [Guide](https://www.svp-team.com/wiki/Manual:SVPcode) - Video Interpolation / Increase FPS
-* [⁠ntsc-rs](https://ntsc.rs/) - TV + VHS Artifact Video Effect Editor / [Web Version](https://web.ntsc.rs/) / [GitHub](https://github.com/ntsc-rs/ntsc-rs)
-* [VideoColorizerColab](https://colab.research.google.com/github/jantic/DeOldify/blob/master/VideoColorizerColab.ipynb) - Video Colorization Colab
-* [OpenColorIO](https://opencolorio.org/) - Video Color Manager
-* [FreshLUTs](https://freshluts.com/) - Free LUTs (Color Filters)
-* [blur](https://github.com/f0e/blur) or [Smoothie](https://github.com/couleur-tweak-tips/smoothie-rs) - Add Motion Blur to Videos / [Tutorial](https://youtu.be/16-KU4r3BcA)
-* [ProPainter](https://github.com/sczhou/ProPainter) - Video Inpainting
-* [CorridorKey](https://github.com/nikopueringer/CorridorKey) - AI Green Screen Extraction Tool / Unmixing / High VRAM Requirements / [DaVinci Plugin](https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime) / [GUI](https://github.com/edenaion/EZ-CorridorKey/) / [Discord](https://discord.gg/zvwUrdWXJm)
-
-***
-
-## ▷ VFX 站点
-
-* [FootageCrate](https://footagecrate.com/)
-* [FreeVideoEffect](https://freevideoeffect.com/)
-* [VideoCoPilot](https://www.videocopilot.net/products/ae22/)
-* [VFXmed](https://www.vfxmed.com/)
-* [Team V.R releases](https://rentry.co/FMHYB64#team-vr)
-* [flex_cg_vfx](https://t.me/flex_cg_vfx)
-* [Download Pirate](https://www.downloadpirate.com/) - **Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)** / [Discord](https://discord.gg/ucTvVtBz9Z)
-* [HunterAE](https://hunterae.com/) - After Effects
-* [AETemp](https://t.me/AETemp) - After Effects
-* [Visual Effects Pack](https://t.me/visual_effects_pack) - After Effects
-* [AEDownloadPro](https://aedownloadpro.com/) - After Effects
-* [Intro HD](https://intro-hd.net/) - After Effects / **[Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/introhd-warning.md)**
-
-***
-
-## ▷ 动画工具
-
-* 🌐 **[Creator Resources](https://www.newgrounds.com/wiki/creator-resources/)** - Art & Animation Resource Index
-* ⭐ **[Unreal Engine](https://www.unrealengine.com/)**, [MoonRay](https://openmoonray.org/), [cgsoftbox](https://t.me/cgsoftbox), [SketchUp](https://www.sketchup.com/) / [Plugins](https://sucj.me/) or [Twinmotion](https://www.twinmotion.com/en-US) - 3D Creation Tools
-* ⭐ **Unreal Engine Tools** - [Modding Guides](https://github.com/Dmgvol/UE_Modding) / [Megascans](https://quixel.com/megascans) / [Model Viewer](https://www.gildor.org/en/projects/umodel) / [UPK Explorer](https://www.nexusmods.com/site/mods/587) / [Wiki](https://www.pcgamingwiki.com/wiki/UPK_Explorer) / [Discord](https://discord.gg/9KPvQ4H)
-* ⭐ **[Immersity AI](https://www.immersity.ai/)** - 2D Image to 3D Animation Tool
-* [⁠Autograph](https://www.maxon.net/en/autograph), [OpenToonz](https://opentoonz.github.io/e/) / [GitHub](https://github.com/opentoonz/opentoonz), [Friction](https://friction.graphics/) / [GitHub](https://github.com/friction2d/friction), [Wick Editor](https://www.wickeditor.com/editor/), [Tixl](https://tixl.app/) / [GitHub](https://github.com/tixl3d/tixl), [Clipnote Studio](https://calcium-chan.itch.io/clipnote), [⁠Touch Designer](https://derivative.ca/) or [Pencil2D](https://www.pencil2d.org/) - Motion Graphics Editors / 动画工具
-* [Animaker](https://www.animaker.com/) - Animated Video Creator
-* [3DThis](https://3dthis.com/) - 3D 动画工具
-* [⁠Su3yaki](https://kasuga.itch.io/su3yaki) - Create 3D Turntable Animations
-* [Mega Scans](https://quixel.com/megascans) - 3D Scans
-* [Mixer](https://quixel.com/mixer) - 3D Texture Creation Tool
-* [PlanetSide](https://planetside.co.uk/) - CG Environment Generator
-* [cgplugdump](https://t.me/cgplugdump) - CG Software Plugins
-* [Physically Based](https://physicallybased.info/) - RGB Values of Elements
-* [AnimeEffects](https://github.com/AnimeEffectsDevs/AnimeEffects), [enve](https://maurycyliebner.github.io/), [Cavalry](https://cavalry.studio/), [TupiTube](https://tupitube.com/) or [Synfig](https://www.synfig.org/) - 2D 动画工具
-* [ScribbleDiffusion](https://scribblediffusion.com/) - Turn Doodles into Artwork
-* [MonsterMash](https://monstermash.zone/) - Sketch-Based Modeling & Animation Tool
-* [Storyboarder](https://wonderunit.com/storyboarder/) - Quickly Visualize & Test Animations / [GitHub](https://github.com/wonderunit/storyboarder)
-* [LuxCoreRender](https://luxcorerender.org/) - Rendering Engine
-* [RenderChan](https://morevnaproject.org/renderchan/) - 2D Animation Render Manager
-* [Mandelbulber](https://mandelbulber.com/) or [FragM](https://github.com/3Dickulus/FragM) - Fractal Rendering Software / [3D](https://mb3d.overwhale.com/)
-* [JWildfire](https://jwildfire.overwhale.com/), [IFSRenderer](https://github.com/bezo97/IFSRenderer) or [Fractorium](http://fractorium.com/) - Flame Fractal Rendering Software
-* [BestSnip](https://bestsnip.com/animation/), [Sketch Machine](https://sketchmachine.net/), [Plask](https://plask.ai/) or [Rive](https://rive.app/) - 在线 动画工具
-* [Glaxnimate](https://glaxnimate.mattbas.org/) or [Trangram](https://www.trangram.com/) - Vector 动画工具
-* [LibreSprite](https://libresprite.github.io/) / [GitHub](https://github.com/LibreSprite/LibreSprite), [GraphicsGale](https://graphicsgale.com/us/), [Poxil](https://poxil.vercel.app/) / [GitHub](https://github.com/F4tal1t/Poxil), [JPixel](https://pixelfromhell.itch.io/jpixel), [Aseprite](https://github.com/aseprite/aseprite) / [Guide](https://youtu.be/Z4Enx-Nb43E), [SpriteSheep](https://spritesheep.com/) / [Discord](https://discord.gg/cQBZV3FcEZ), [KPix](https://github.com/krush62/KPix) or [SpookyGhost](https://encelo.itch.io/spookyghost) - Pixel Art 动画工具
-* [⁠Wigglypaint](https://wigglypaint.net/) or [FizzPaint](https://fizzpaint.ameniwa.com/) - Browser Painting / Animated Brushes
-* [Spritesheet Generator](https://spritesheetgenerator.online/) - Spritesheet Generator
-* [Animated Drawings](https://sketch.metademolab.com/), [⁠FliiipBook](https://www.fliiipbook.com/), [Mutsuacen](https://mutsuacen.com/), [FAIR Animated Drawings](https://fairanimateddrawings.com/site/home) or [MotorPen](https://motorpen.com/) - Animate Drawings
-* [FlipAnim](https://flipanim.com/) - Create Animated Flipbooks
-* [Viggle](https://viggle.ai/) - Animated Character Creators / [Discord](https://discord.com/invite/viggle)
-* [Mixamo](https://www.mixamo.com/), [Endorphin](https://archive.org/) (search) / [Subreddit](https://www.reddit.com/r/endorphin/) or [Cascadeur](https://cascadeur.com/) - 3D Character 动画工具
-* [MMHuman3D](https://github.com/open-mmlab/mmhuman3d) - 3D Human Model Creator
-* [Talking Face Avatar](https://github.com/Yazdi9/Talking_Face_Avatar) - Talking Avatar Generator
-* [Blender Open Movies](https://youtube.com/playlist?list=PLav47HAVZMjnTFVZL-aImCQIC0uLZtNCz) - CGI Assets
+* ⭐ **[Subtitle Edit](https://www.nikse.dk/subtitleedit)** - 字幕编辑器 / [GitHub](https://github.com/SubtitleEdit/subtitleedit)
+* ⭐ **[Aegisub](https://aegisub.org/)** - 字幕编辑器 / [GitHub](https://github.com/Aegisub/Aegisub)
+* ⭐ **[Whisper](https://github.com/openai/whisper)** - 语音转字幕
+* ⭐ **[WhisperX](https://github.com/m-bain/whisperX)** - 加速 Whisper
+* ⭐ **[Whisper.cpp](https://github.com/ggerganov/whisper.cpp)** - 轻量级 Whisper
+* ⭐ **[Faster Whisper](https://github.com/guillaumekln/faster-whisper)** - 加速 Whisper
+* ⭐ **[VOSK](https://alphacephei.com/vosk/)** - 离线语音识别
+* ⭐ **[CCExtractor](https://www.ccextractor.org/)** - 字幕提取
+* ⭐ **[Subscene](https://subscene.com/)** - 字幕下载
+* ⭐ **[OpenSubtitles](https://opensubtitles.org/)** - 字幕下载 / [API](https://opensubtitles.stoplight.io/docs/opensubtitles-api/open_api.json)
+* ⭐ **[Addic7ed](https://www.addic7ed.com/)** - 字幕下载
+* ⭐ **[Podnapisi](https://www.podnapisi.net/)** - 字幕下载
+* ⭐ **[YIFY Subtitles](https://yifysubtitles.org/)** - 字幕下载
+* ⭐ **[SubDL](https://subdl.com/)** - 字幕下载
+* ⭐ **[SubtitlesHub](https://subtitleshub.com/)** - 字幕下载
+* ⭐ **[DownSub](https://downsub.com/)** - YouTube 字幕下载
+* ⭐ **[SaveSubs](https://savesubs.com/)** - 字幕下载
+* ⭐ **[Subtitle Downloader](https://chromewebstore.google.com/detail/subtitle-downloader/hlekmjilpgidfefeejcjomgoknpbmaod)** - 浏览器扩展
+* [Bazarr](https://www.bazarr.media/) - 自动字幕下载
+* [Automatic Subtitle Sync](https://github.com/nicedouble/automatic-subtitle-sync) - 字幕同步
+* [FFsubsync](https://github.com/smacke/ffsubsync) - 字幕同步
+* [Subtitle Composer](https://github.com/maxrd2/subtitlecomposer) - 字幕编辑
+* [Subtitle Workshop](https://www.urusoft.net/products.php?cat=sw) - 字幕编辑
+* [Subtitle Edit Online](https://www.nikse.dk/subtitleedit/online) - 在线字幕编辑
+* [SRT Editor](https://www.srt-editor.com/) - 在线 SRT 编辑
+* [Online Subtitle Editor](https://www.online-subtitle-editor.com/) - 在线字幕编辑
+* [Happy Scribe](https://www.happyscribe.com/) - 自动转录
+* [Sonix](https://sonix.ai/) - 自动转录
+* [Trint](https://trint.com/) - 转录平台
+* [Temi](https://www.temi.com/) - 转录服务
+* [Rev](https://www.rev.com/) - 转录服务
+* [Descript](https://www.descript.com/) - 音视频编辑
+* [Kapwing Subtitles](https://www.kapwing.com/subtitle-generator) - 字幕生成
+* [Subtitle Horse](https://subtitle.horse/) - 字幕比较
+* [SubtitleNEXT](https://www.subtitlenext.com/) - 字幕制作
+* [Title Explorer](https://www.titleexplorer.com/) - 字幕搜索
+* [OpenSubs](https://opensubs.io/) - 字幕搜索
+* [Subtitle Seeker](https://www.subtitleseeker.com/) - 字幕搜索
+* [SubZ](https://subz.xyz/) - 字幕搜索
+* [Subtitles.gr](https://www.subtitles.gr/) - 字幕搜索
 
 ***
 
-## ▷ 库存视频
+## 视频分析
 
-* 🌐 **[Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources#videos)** or **[CuteStockFootage](https://cutestockfootage.com/free/video)** - Stock Video Indexes
-* [Pexels](https://www.pexels.com/) - 库存视频
-* [Dareful](https://dareful.com/) - 4K 库存视频
-* [Monzoom](https://www.monzoom.com/) - 4K 库存视频
-* [BeachFrontBroll](https://www.beachfrontbroll.com/) - 库存视频
-* [Videvo](https://www.videvo.net/) - 库存视频
-* [veed.io](https://www.veed.io/videos) - 库存视频
-* [VidsPlay](https://www.vidsplay.com/) - 库存视频
-* [MixKit](https://mixkit.co/) - 库存视频
-* [ineedfx](https://ineedfx.com/) - 库存视频
-* [MotionPlaces](https://www.motionplaces.com/) - Worldwide 库存视频
-* [DroneStock](https://dronestock.com/) - Drone Video Footage
-* [MovieTools](https://movietools.info/) - Video Loops
+* ⭐ **[MediaInfo](https://mediaarea.net/en/MediaInfo)** - 媒体文件信息
+* [MediaInfo Online](https://mediaarea.net/MediaInfoOnline) - 在线媒体信息
+* [FFprobe](https://ffmpeg.org/ffprobe.html) - 媒体分析 CLI
+* [Video Inspector](https://www.video-inspector.com/) - 视频分析
+* [GSpot](https://www.headbands.com/gspot/) - 视频编解码器分析
+* [AVIcodec](https://www.avicodec.com/) - 视频信息
+* [CodecInfo](https://www.codecinfo.com/) - 编解码器信息
+* [Bitrate Viewer](https://www.videohelp.com/software/Bitrate-Viewer) - 码率查看
+* [Elecard Stream Analyzer](https://www.elecard.com/products/elecard-stream-analyzer) - 流分析
+* [Video Eye](https://videoeye.xyz/) - 视频分析
+* [StreamEye](https://www.stream-eye.net/) - 视频分析
+* [QCTools](https://bavc.org/preserve-media/preservation-tools/) - 质量控制
+* [VQ Analyzer](https://www.vqanalyzer.com/) - 视频质量分析
+* [MPlayer](https://mplayerhq.hu/) - 视频播放器/分析
+
+***
+
+## 视频压缩
+
+* ⭐ **[HandBrake](https://handbrake.fr/)** - 视频压缩
+* ⭐ **[FFmpeg](https://ffmpeg.org/)** - 视频编码
+* [Shutter Encoder](https://www.shutterencoder.com/) - 视频压缩
+* [VidCoder](https://vidcoder.net/) - 视频压缩
+* [VideoSmaller](https://www.videosmaller.com/) - 在线视频压缩
+* [Clipchamp](https://clipchamp.com/) - 在线视频压缩
+* [Compress Video Online](https://compress-video-online.com/) - 在线压缩
+* [Online Video Compressor](https://www.onlinevideocompressor.com/) - 在线压缩
+* [YouCompress](https://www.youcompress.com/) - 在线压缩
+* [ConvertFiles](https://www.convertfiles.com/) - 在线压缩
+* [Video Compressor](https://www.videocompressor.com/) - 在线压缩
+* [VEED.IO](https://www.veed.io/video-compressor) - 在线压缩
+* [Kapwing Compress](https://www.kapwing.com/compress-video) - 在线压缩
+* [Clideo Compress](https://clideo.com/compress-video) - 在线压缩
+* [4K Video Compressor](https://www.4kdownload.com/products/videocompressor) - 视频压缩
+
+***
+
+## 屏幕录制
+
+* ⭐ **[OBS Studio](https://obsproject.com/)** - 录屏 / 直播
+* ⭐ **[ShareX](https://getsharex.com/)** - 录屏 / 截图
+* ⭐ **[Greenshot](https://getgreenshot.org/)** - 截图工具
+* ⭐ **[ScreenToGif](https://www.screentogif.com/)** - 屏幕录制转 GIF
+* [Bandicam](https://www.bandicam.com/) - 录屏
+* [Camtasia](https://www.techsmith.com/camtasia.html) - 录屏 / 编辑
+* [Snagit](https://www.techsmith.com/snagit.html) - 截图 / 录屏
+* [FlashBack Express](https://www.flashbackrecorder.com/) - 录屏
+* [Debian Screen Recorder](https://dsr.uwc.ac.za/) - 录屏
+* [Loom](https://www.loom.com/) - 录屏 / 分享
+* [Screencast-O-Matic](https://screencast-o-matic.com/) - 录屏
+* [ScreenPal](https://screenpal.com/) - 录屏
+* [Monosnap](https://monosnap.com/) - 录屏 / 截图
+* [Debut Video Recorder](https://www.nchsoftware.com/capture/) - 录屏
+* [ActivePresenter](https://atomisystems.com/activepresenter/) - 录屏 / 编辑
+* [Icecream Screen Recorder](https://icecreamapps.com/Screen-Recorder/) - 录屏
+* [Apowersoft Screen Recorder](https://www.apowersoft.com/recorder/) - 在线录屏
+* [Screen Recorder](https://screen-recorder.netlify.app/) - 在线录屏
+* [RecordCast](https://www.recordcast.com/) - 在线录屏
+* [ScreenApp](https://screenapp.io/) - 在线录屏
+* [Vidyard](https://www.vidyard.com/) - 录屏
+* [Soapbox](https://www.soapbox.wistia.com/) - 录屏
+* [Tella](https://www.tella.tv/) - 录屏
+
+***
+
+## 直播工具
+
+* ⭐ **[OBS Studio](https://obsproject.com/)** - 直播 / 录屏
+* ⭐ **[Streamlabs](https://streamlabs.com/)** - 直播
+* [Restream](https://restream.io/) - 多平台直播
+* [Streamyard](https://streamyard.com/) - 浏览器直播
+* [Lightstream](https://lightstream.com/) - 云直播
+* [vMix](https://www.vmix.com/) - 直播制作
+* [Wirecast](https://www.telestream.net/wirecast/) - 直播制作
+* [XSplit](https://www.xsplit.com/) - 直播 / 录屏
+* [FFmpeg](https://ffmpeg.org/) - 命令行直播
+* [FFsplit](https://www.ffsplit.com/) - 直播 / 录屏
+* [NVIDIA Broadcast](https://www.nvidia.com/broadcast/) - AI 播客工具
+* [ManyCam](https://www.manycam.com/) - 虚拟摄像头
+* [SplitCam](https://splitcam.com/) - 虚拟摄像头
+* [VB-Audio](https://vb-audio.com/) - 虚拟音频
+* [Voicemeeter](https://vb-audio.com/Voicemeeter/) - 音频混音器
+* [Audio Router](https://github.com/audiorouterdev/audio-router) - 音频路由
+* [Twitch Studio](https://www.twitch.tv/broadcast/studio) - Twitch 直播
+* [StreamElements](https://streamelements.com/) - 直播工具
+* [Streamlabs Chatbot](https://streamlabs.com/chatbot) - 聊天机器人
+* [Nightbot](https://nightbot.tv/) - 聊天机器人
+* [Streamer.bot](https://streamer.bot/) - 直播自动化
+* [Mix It Up](https://mixitupapp.com/) - 直播互动
+* [aena](https://aena.dev/) - 直播工具
+* [Crowd Control](https://crowdcontrol.live/) - 观众互动
+
+***
+
+## 视频元数据
+
+* ⭐ **[MKVToolNix](https://mkvtoolnix.download/)** - MKV 元数据编辑
+* ⭐ **[MediaInfo](https://mediaarea.net/en/MediaInfo)** - 媒体信息
+* [ExifTool](https://exiftool.org/) - 元数据编辑
+* [AtomicParsley](https://atomicparsley.sourceforge.io/) - 元数据编辑
+* [MetaX](https://www.metaxsoftware.com/) - 元数据编辑
+* [Subler](https://subler.org/) - macOS 元数据编辑
+* [iDentify](https://github.com/poppypop/identify) - 视频识别
+* [TinyMediaManager](https://www.tinymediamanager.org/) - 媒体管理
+* [MediaElch](https://www.mediaelch.de/) - 媒体管理
+* [Ember Media Manager](https://embermediamanager.org/) - 媒体管理
+* [Kodi Movie Scraper](https://kodi.tv/addons/omega/metadata/) - Kodi 刮削器
+* [Plex Media Scanner](https://support.plex.tv/articles/201242707-using-the-plex-media-scanner/) - Plex 扫描
+* [FileBot](https://www.filebot.net/) - 文件重命名 / 元数据
+* [TheRenamer](https://www.therenamer.com/) - 文件重命名
+* [Renamer](https://renamer.com/) - 文件重命名
+
+***
+
+## 视频流下载
+
+* ⭐ **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** - 视频下载 CLI
+* ⭐ **[Streamlink](https://streamlink.github.io/)** - 流媒体 CLI / [Twitch GUI](https://github.com/streamlink/streamlink-twitch-gui)
+* ⭐ **[ffmpeg](https://ffmpeg.org/)** - 流媒体下载
+* [HLS Downloader](https://github.com/puemos/hls-downloader) - HLS 下载
+* [m3u8 Downloader](https://github.com/nilaoda/N_m3u8DL-CLI) - M3U8 下载
+* [M3U8 Downloader Online](https://www.m3u8.dev/) - 在线 M3U8 下载
+* [Video Downloader](https://github.com/StefanLobworker/video-downloader) - 通用下载
+* [StreamFab](https://www.dvdfab.cn/streamfab.htm) - 流媒体下载
+* [Any Stream Downloader](https://www.anystreamdownloader.com/) - 流媒体下载
+* [Audials](https://audials.com/) - 流媒体录制
+* [Replay Media Catcher](https://www.applian.com/replay-media-catcher/) - 流媒体捕获
+* [Sothink Video Downloader](https://www.sothinkmedia.com/video-downloader/) - 视频下载
+* [Allavsoft](https://www.allavsoft.com/) - 流媒体下载
+* [VideoProc](https://www.videoproc.com/) - 视频处理
+
+***
+
+## 视频压缩工具
+
+* **[HandBrake](https://handbrake.fr/)** - 视频压缩
+* **[FFmpeg](https://ffmpeg.org/)** - 视频编码
+* **[Shutter Encoder](https://www.shutterencoder.com/)** - 视频压缩
+* **[VideoSmaller](https://www.videosmaller.com/)** - 在线视频压缩
+* **[Clipchamp](https://clipchamp.com/)** - 在线编辑 / 压缩
+* **[Compress Video Online](https://compress-video-online.com/)** - 在线压缩
+* **[Online Video Compressor](https://www.onlinevideocompressor.com/)** - 在线压缩
+* **[YouCompress](https://www.youcompress.com/)** - 在线压缩
+* **[ConvertFiles](https://www.convertfiles.com/)** - 在线压缩
+* **[VEED.IO](https://www.veed.io/video-compressor)** - 在线压缩
+* **[Kapwing Compress](https://www.kapwing.com/compress-video)** - 在线压缩
+* **[4K Video Compressor](https://www.4kdownload.com/products/videocompressor)** - 视频压缩
+
+***
+
+## 视频播放器
+
+* ⭐ **[VLC](https://www.videolan.org/vlc/)** - 全能播放器
+* ⭐ **[MPC-HC](https://github.com/clsid2/mpc-hc)** - 轻量级播放器
+* ⭐ **[MPV](https://mpv.io/)** - 极简播放器
+* ⭐ **[PotPlayer](https://potplayer.daum.net/)** - 功能丰富的播放器
+* [SMPlayer](https://www.smplayer.info/) - 带记忆功能的播放器
+* [KMPlayer](https://www.kmplayer.com/) - 播放器
+* [GOM Player](https://www.gomlab.com/) - 播放器
+* [Media Player Classic](https://github.com/clsid2/mpc-hc) - 经典播放器
+* [IINA](https://iina.io/) - macOS 播放器
+* [Elmedia Player](https://www.elmedia-video-player.com/) - macOS 播放器
+* [Movist](https://www.movist.com/) - macOS 播放器
+* [5KPlayer](https://www.5kplayer.com/) - 播放器
+* [DivX Player](https://www.divx.com/en/software/divx) - 播放器
+* [RealPlayer](https://www.real.com/) - 播放器
+* [Windows Media Player](https://support.microsoft.com/windows/media-player) - 播放器
+* [MPC-BE](https://sourceforge.net/projects/mpcbe/) - 播放器
+* [MPV.net](https://github.com/stax76/mpv.net) - MPV 封装
+* [mpv-easy](https://github.com/amatanhead/mpv-easy) - MPV 前端
+* [Celluloid](https://celluloid-player.github.io/) - GTK 播放器
+* [GNOME MPV](https://gnome-mpv.github.io/) - GNOME 播放器
+* [Haruna Media Player](https://haruna.kde.org/) - KDE 播放器
+* [Kodi](https://kodi.tv/) - 家庭影院
+* [Plex](https://www.plex.tv/) - 媒体服务器
+* [Jellyfin](https://jellyfin.org/) - 开源媒体服务器
+
+***
+
+## 视频合并工具
+
+* **[LosslessCut](https://github.com/mifi/lossless-cut)** - 无损裁剪 / 合并
+* **[Avidemux](https://avidemux.sourceforge.net/)** - 视频编辑 / 合并
+* **[MKVToolNix](https://mkvtoolnix.download/)** - MKV 工具 / 合并
+* **[FFmpeg](https://ffmpeg.org/)** - 命令行处理
+* [MP4Joiner](https://www.mp4joiner.com/) - MP4 合并
+* [Video Merge](https://www.videomerge.com/) - 视频合并
+* [Joiner](https://www.joiner.com/) - 文件合并
+* [MergeVideo](https://mergevideo.com/) - 在线合并
+* [Kapwing Merge](https://www.kapwing.com/merge-videos) - 在线合并
+* [Clideo Merge](https://clideo.com/merge-video) - 在线合并
+* [Online Video Cutter](https://online-video-cutter.com/) - 在线裁剪 / 合并
+* [Video Tool](https://www.videotool.com/) - 在线视频工具
+
+***
+
+## 卡拉 OK 工具
+
+* [KaraFun](https://www.karafun.com/) - 卡拉 OK 播放器
+* [UltraStar](https://usdx.eu/) - 卡拉 OK 游戏
+* [Vocaluxe](https://vocaluxe.org/) - 卡拉 OK 游戏
+* [Karafun Editor](https://www.karafun.com/editor/) - 卡拉 OK 制作
+* [Subs2SRS](https://subs2srs.sourceforge.net/) - 字幕转 SRS
+* [Aegisub](https://aegisub.org/) - 字幕 / 卡拉 OK
+* [Karaoke Mugen](https://mugen.karaoke.moe/) - 卡拉 OK 资源
+* [Karaoke Version](https://www.karaoke-version.com/) - 卡拉 OK 伴奏
+* [Sing King](https://singking.app/) - 卡拉 OK 应用
+* [Smule](https://www.smule.com/) - 卡拉 OK 社交
+* [StarMaker](https://www.starmakerstudios.com/) - 卡拉 OK 应用
+* [Yokee](https://www.yokee.com/) - 卡拉 OK 应用
+* [The Karaoke Channel](https://www.thekaraokechannel.com/) - 卡拉 OK 频道
+
+***
+
+## 其他视频工具
+
+* **[FFmpeg](https://ffmpeg.org/)** - 视频编码器
+* **[LosslessCut](https://github.com/mifi/lossless-cut)** - 无损裁剪
+* **[MKVToolNix](https://mkvtoolnix.download/)** - MKV 工具
+* **[MediaInfo](https://mediaarea.net/en/MediaInfo)** - 媒体信息
+* **[ExifTool](https://exiftool.org/)** - 元数据编辑
+* **[OBS Studio](https://obsproject.com/)** - 录屏 / 直播
+* **[ShareX](https://getsharex.com/)** - 截图 / 录屏
+* **[ScreenToGif](https://www.screentogif.com/)** - 录屏转 GIF
+* **[MPV](https://mpv.io/)** - 视频播放器
+* **[VLC](https://www.videolan.org/vlc/)** - 视频播放器
+* **[HandBrake](https://handbrake.fr/)** - 视频转码
+* **[Shutter Encoder](https://www.shutterencoder.com/)** - 视频编码
+* **[Avidemux](https://avidemux.sourceforge.net/)** - 视频编辑
+* **[FFastrans](https://github.com/FFastrans/FFastrans)** - 视频转码
+* **[Tdarr](https://tdarr.io/)** - 媒体转码自动化
+* **[Unmanic](https://unmanic.app/)** - 媒体转码
+* **[MakeMKV](https://www.makemkv.com/)** - Blu-ray 翻录
+* **[ImgBurn](https://www.imgburn.com/)** - 光盘刻录
+* **[DVD Decrypter](https://www.dvddecrypter.org.uk/)** - DVD 解密
+* **[BDInfo](https://www.videohelp.com/software/BDInfo)** - Blu-ray 信息
+* **[VC Redist](https://www.microsoft.com/en-us/download/details.aspx?id=48145)** - 运行库
+* **[K-Lite Codec Pack](https://codecguide.com/download_kl.htm)** - 编解码器包
+* **[CCCP](https://www.cccp-project.net/)** - 编解码器包
+* **[LAV Filters](https://github.com/Nevcairiel/LAVFilters)** - 分离器 / 解码器
+* **[madVR](https://www.madvr.com/)** - 视频渲染器
+* **[ReClock](https://www.videohelp.com/software/ReClock)** - 音频同步
+* **[SVP](https://www.svp-team.com/)** - 视频补帧
+* **[DmitriRender](https://www.dmitrirender.ru/)** - 视频补帧
+* **[Topaz Video AI](https://www.topazlabs.com/video-ai)** - AI 视频增强
+* **[Video Enhance AI](https://www.topazlabs.com/video-enhance-ai)** - AI 视频增强
+* **[Waifu2x](https://waifu2x.udp.jp/)** - 图片 / 视频放大
+* **[Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)** - 图像 / 视频提升
+* **[Video2X](https://video2x.org/)** - 视频放大
+* **[Flowframes](https://nmkd.itch.io/flowframes)** - 视频补帧
+* **[RIFE](https://github.com/hzwer/arXiv2020-RIFE)** - 视频插帧
+* **[DAIN](https://github.com/baowenbo/DAIN)** - 深度感知插帧
