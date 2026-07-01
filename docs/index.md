@@ -7,7 +7,7 @@ hero:
   name: FMHY & 村长AI工具站
   tagline: FMHY对中文用户不友好，于是就有了这个网站
   announcement:
-    title: 七月更新 🌈
+    title: 六月更新 🌈
     link: /posts/june-2026
   image:
     src: test.png
