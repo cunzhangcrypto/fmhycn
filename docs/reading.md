@@ -144,7 +144,7 @@
 * [foliate-js](https://github.com/johnfactotum/foliate-js)
 * [Litera Reader](https://litera-reader.com/)
 * [Speeedy](https://speeedy.pages.dev/) / [GitHub](https://github.com/sami-29/speeedy), [Spreeder](https://www.spreeder.com/app.php?intro=1), [Speed Reader](https://speed-reader.com/), [BR Script](https://greasyfork.org/en/scripts/465635), [PlayText](https://playtext.app/), [AccelaReader](https://accelareader.com/), [SwiftRead](https://swiftread.com/), [Notation](https://github.com/numanzamandipuu/Notation), [⁠ogma](https://github.com/0hAodha/ogma) or [SpeedRead](https://github.com/pasky/speedread) - Speed Reading Tools / Note These Are Not Good for Comprehension
-* [Cubari](https://cubari.moe/) - Image 专业版xy / 阅读器 / [JSON 生成器](https: /  / github.com / wotakumoe / kaguya)
+* [Cubari](https://cubari.moe/) - 图片代理 / 阅读器 / [JSON 生成器](https: /  / github.com / wotakumoe / kaguya)
 * [Reader Mode](https://readermode.io/) or [Tranquility](https://addons.mozilla.org/en-GB/firefox/addon/tranquility-1/) - Article Readers / Managers
 * [Open Media Library](https://openmedialibrary.com/) - 在线书籍管理器
 * [⁠Doqment](https://github.com/shivaprsd/doqment) - Firefox PDF 阅读器 Dark Mode
@@ -154,7 +154,7 @@
 ## ▷ 电子阅读器工具
 
 * ⭐**[Kindle 漫画转换器](https://github.com/ciromattia/kcc)** - 多格式转换器
-* ⭐**[EinkBro](https://github.com/plateaukao/einkbro)** - E-Ink 浏览r
+* ⭐**[EinkBro](https://github.com/plateaukao/einkbro)** - E-Ink 浏览器
 * [ComparisonTabl.es](https://comparisontabl.es/tag/e-reader/) - Compare E-阅读器
 * [KoboCloud](https://github.com/fsantini/KoboCloud) - Sync Kobo to Cloud Services
 * [⁠ReaderBackdrop](https://www.readerbackdrop.com/) - Wallpapers for E-阅读器
@@ -208,7 +208,7 @@
 * [Trans Reads](https://transreads.org/) - Transgender-Focused 精简版rature
 * [⁠Sherwood Forest](https://www.sherwoodforestzinelibrary.org/) - Underground Zines 合集
 * [Anarchist FAQ](https://www.anarchistfaq.org/) - Anarchism / 翻译
-* [Archive.Leftove.rs](https://archive.leftove.rs/) - 专业版test Documents
+* [Archive.Leftove.rs](https://archive.leftove.rs/) - 测试文档
 * [Marxists Internet Archive](https://www.marxists.org/) - 社交ism / Communism
 * [Liberation School](https://liberationschool.org/) - Communism
 * [Red Texts](https://redtexts.org/) - Communism
@@ -257,7 +257,7 @@
 * [Scribblehub](https://www.scribblehub.com/) - 网页小说
 * [Novels.pl](https://www.novels.pl/) - 小说 / 音频 Recordings
 * [Baka-Tsuki](https://www.baka-tsuki.org/project/?title=Main_Page) - 小说 / 音频 Recordings
-* [LN-Crawler-Colab](https://colab.research.google.com/github/HongYue1/LightNovel-Crawler-Colab/blob/main/lightnovel_crawler.ipynb) / [GitHub](https://github.com/HongYue1/LightNovel-Crawler-Colab), [Lightnovel Crawler](https://github.com/dipu-bd/lightnovel-crawler/), [novel-downloader](https://greasyfork.org/en/scripts/406070) or [anime-dl](https://github.com/vrienstudios/anime-dl) - Light Novel 下载ers
+* [LN-Crawler-Colab](https://colab.research.google.com/github/HongYue1/LightNovel-Crawler-Colab/blob/main/lightnovel_crawler.ipynb) / [GitHub](https://github.com/HongYue1/LightNovel-Crawler-Colab), [Lightnovel Crawler](https://github.com/dipu-bd/lightnovel-crawler/), [novel-downloader](https://greasyfork.org/en/scripts/406070) or [anime-dl](https://github.com/vrienstudios/anime-dl) - Light Novel Downloaders
 * [WebToEpub](https://github.com/dteviot/WebToEpub) - 小说 to EPUB 转换器
 * [LNMTL](https://lnmtl.com/) or [Omni](https://app.readomni.com/) - Light Novel Translators
 
@@ -409,7 +409,7 @@
 * [⁠Comic Studio](https://comic.studio/browse) - 网页comics
 * [Comic Book Library](http://nv3x2jozywh63fkohn5mwp2d73vasusjixn3im3ueof52fmbjsigw6ad.onion/) - Requires Tor
 * [ComicEater](https://github.com/kanjieater/ComicEater) - 漫画归档工具
-* [漫画下载er](https://github.com/Girbons/comics-downloader), [Comic Library Utilities](https://clucomics.org/) / [GitHub](https://github.com/allaboutduncan/comic-utils), [Mylar3](https://github.com/mylar3/mylar3), [Comic-DL](https://github.com/Xonshiz/comic-dl) - Comic 下载ers
+* [漫画下载er](https://github.com/Girbons/comics-downloader), [Comic Library Utilities](https://clucomics.org/) / [GitHub](https://github.com/allaboutduncan/comic-utils), [Mylar3](https://github.com/mylar3/mylar3), [Comic-DL](https://github.com/Xonshiz/comic-dl) - Comic Downloaders
 * [ComicReader](https://comicreader.netlify.app/) or [KThoom](https://github.com/codedread/kthoom) - Online Comic Reader
 * [ComicFury](https://comicfury.com/) - User-Made 漫画
 * [Comic Translate](https://github.com/ogkalu2/comic-translate) - 漫画 Translator
@@ -426,7 +426,7 @@
 * 🌐 **[EverythingMoe](https://everythingmoe.com/section/manga)**, [2](https://everythingmoe.org/#section-manga) - Manga Sites Index / [Subreddit](https://www.reddit.com/r/everythingmoe/) / [Discord](https://discord.gg/GuueaDgKdS)
 * 🌐**[Rawmangaz](https://clarasguide.valeena.workers.dev/指南/rawmangaz/)** - 列表 of Raw 漫画 Sites
 * ↪️ **[Manga Readers / Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_readers)**
-* ↪️ **[Manga 下载ers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_downloaders)**
+* ↪️ **[Manga Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_downloaders)**
 * ⭐ **[Kagane](https://kagane.org/)** / [Discord](https://discord.com/invite/kBPYVSzwUE)
 * ⭐ **[Weeb Central](https://weebcentral.com/)** / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * ⭐ **[MangaFire](https://mangafire.to/)** / [Subreddit](https://www.reddit.com/r/Mangafire/) / [Discord](https://discord.com/invite/KRQQKzQ6CS)
@@ -465,7 +465,7 @@
 * [Manga CSE](https://cse.google.com/cse?cx=006516753008110874046:4im0fkhej3z) / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:a5mavctjnsc#gsc.tab=0) - Multi-Site Manga Search
 * [PlayTorrio](https://playtorrio.xyz/) - 漫画应用 / Windows / [子版块](https: /  / www.reddit.com / r / PlayTorrio / ) / [Discord](https: /  / discord.gg / bbkVHRHnRk) / [GitHub](https: /  / github.com / ayman708-UX / PlayTorrioV2)
 * [Seanime](https://seanime.app/) - Self-Hosted 漫画应用 / [Discord](https: /  / discord.com / invite / 3AuhRGqUqh)
-* [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - Preloads Images, Remembers 专业版gress and Keyboard Support
+* [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - Preloads Images, 记住进度 and Keyboard Support
 * [BallonsTranslator](https://github.com/dmMaze/BallonsTranslator/blob/master/README_EN.md), [Koharu](https://koharu.rs/) / [GitHub](https://github.com/mayocream/koharu), [Cotrans](https://cotrans.touhou.ai/) or [Scanlate](https://scanlate.io/) - Manga Translators
 * [Manga-Manager](https://github.com/MangaManagerORG/Manga-Manager) - 漫画管理器
 
@@ -666,7 +666,7 @@
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - Python Data Science / [GitHub](https: /  / github.com / jakevdp / PythonDataScienceHandbook)
 * [Go Books](https://github.com/dariubs/GoBooks) - GoLang 书籍
 * [JSBooks](https://jsbooks.revolunet.com/) - Javascript 书籍
-* [ChessProgramming](https://www.chessprogramming.org/) - Chess 专业版gramming 维基
+* [ChessProgramming](https://www.chessprogramming.org/) - 国际象棋编程 维基
 * [Hacker News Books](https://hackernewsbooks.com/) - 书籍 Mentioned on HN
 
 ***
@@ -691,7 +691,7 @@
 * [ScienceDirect](https://www.sciencedirect.com/) - 研究论文
 * [Neliti](https://www.neliti.com/) - 学术论文搜索引擎
 * [Share OSF](https://share.osf.io/) - 学术论文搜索引擎
-* [Scinapse](https://scinapse.io/) - 学术论文搜索引擎 / [专业版脚本](https: /  / rentry.co / scinapsebypass)
+* [Scinapse](https://scinapse.io/) - 学术论文搜索引擎 / [绕过脚本](https: /  / rentry.co / scinapsebypass)
 * [Semantic Scholar](https://www.semanticscholar.org/) - 学术论文搜索引擎
 * [Consensus](https://consensus.app/) - 学术论文搜索引擎
 * [Crossref](https://search.crossref.org/) - 文章论文搜索引擎
@@ -876,7 +876,7 @@
 * [Early Christian Writings](https://www.earlychristianwritings.com/index.html) - 基督教 / 诺斯替主义
 * [Quran.com](https://quran.com/) / [Android](https://github.com/quran/quran_android) / [iOS](https://github.com/quran/quran-ios), [Tanzil](https://tanzil.net/) or [AbcQuran](https://github.com/jomtek/AbcQuran) - Quran Translations
 * [Sunnah.com](https://sunnah.com/) - 圣训译文
-* [Awesome Islam](https://github.com/AhmedKamal/awesome-Islam) - 伊斯兰教 Related 专业版jects / 应用
+* [Awesome Islam](https://github.com/AhmedKamal/awesome-Islam) - 伊斯兰教 相关项目 / 应用
 * [Sirah](https://www.sirah.xyz/) - AI 驱动的圣训翻译 / 合集
 * [OpenMaktaba](https://openmaktaba.com/) - 伊斯兰书籍
 * [TheIslam360](https://theislam360.com/) - 伊斯兰研究应用
@@ -990,7 +990,7 @@
 * [How to Get Library Card Online](https://rentry.co/9b3vdo)
 * [⁠⁠ReciproCard](https://reciprocard.com/) - Find 互惠借阅图书馆卡
 * [⁠Books Unbanned](https://booksunbanned.com/) - 免费美国数字图书馆卡 / Ages 13-26 Only
-* [Scribd PDF](https://scribd.pdfdownloaders.com/) or [ScribdVPDF](https://scribdvpdf.blogspot.com/) / [2](https://docdownloader.com/) / [3](https://scribd.vpdfs.com/) / [4](https://scribd.downloader.tips/) / [5](https://scribd.vdownloaders.com/) - Scribd 下载ers
+* [Scribd PDF](https://scribd.pdfdownloaders.com/) or [ScribdVPDF](https://scribdvpdf.blogspot.com/) / [2](https://docdownloader.com/) / [3](https://scribd.vpdfs.com/) / [4](https://scribd.downloader.tips/) / [5](https://scribd.vdownloaders.com/) - Scribd Downloaders
 * [Ebook-Online-Convert](https://ebook.online-convert.com/) - 多格式转换器 / 在线
 * [⁠Manga & Comic Converter](https://www.mangaconverter.com/) - 漫画 / 漫画 to 书籍转换器 / 在线 / [GitHub](https: /  / github.com / NilsLeo / kcc-cloud)
 * [eBook Converter Bot](https://t.me/ebook_converter_bot) - Telegram 电子书转换器 / [GitHub](https: /  / github.com / yshalsager / ebook-converter-bot)
@@ -998,12 +998,12 @@
 * [BookFinder](https://bookfinder.com/) - 在线图书比价
 * [BookInfo](https://lordgnomembe.github.io/BookInfo/) - 通过 ISBN 获取图书信息
 * [DeDRM_tools](https://github.com/Satsuoni/DeDRM_tools) - 电子书 DRM 移除
-* [FiveFilters](https://www.fivefilters.org/) - 多ple Article Accessibility 工具
+* [FiveFilters](https://www.fivefilters.org/) - Multiple Article Accessibility 工具
 * [LazyLibrarian](https://gitlab.com/LazyLibrarian/LazyLibrarian) - 书籍种子 Autodownload / 管理器
 * [FicHub](https://fichub.net/) or [FanFiction下载er](https://fanfictiondownloader.net/) - Fanfiction 下载er
 * [Sigil Ebook](https://sigil-ebook.com/) - EPUB 编辑器
 * [EPUB Translator](https://github.com/quantrancse/epub-translator) or [epub-translator](https://github.com/sharplab/epub-translator) - EPUB Translators
-* [SmartStitch](https://github.com/MechTechnology/SmartStitch) - Stitch Together 网页toons
+* [SmartStitch](https://github.com/MechTechnology/SmartStitch) - Stitch Together Webtoons
 * [FanFicFare](https://github.com/JimmXinu/FanFicFare) - Generate 电子书 from 故事 / 同人小说
 * [HowLongToRead](https://howlongtoread.com/) or [ReadingLength](https://www.readinglength.com/) - Find Book Lengths / Reading Times
 * [BTW](https://booktriggerwarnings.com/) - 书籍 Trigger Warnings
