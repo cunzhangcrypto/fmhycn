@@ -1,87 +1,167 @@
----
-为什么要做这个站？新手如何玩转互联网自由资源，防坑防诈指南。
----
+### Adblocking
 
-# 🚀 新手指南 & 站长自白
+> How important is using an adblocker?
 
-您好，我是 **[WEB3村长](https://www.cunzhangblog.com)**。欢迎来到本站！在开启你的互联网自由资源之旅前，请花两分钟读完这篇指南。它不仅能解答你“这个站是干嘛的”，更能让你在探索网络世界时少走 99% 的弯路。
+Sites generally contain ads, some of which can be harmful, often leading to unwanted pages or fake download buttons. Real download buttons are usually small, often text-based or subtly integrated into the site's design. Fake ones are frequently large, brightly colored, use generic terms like 'Download Now', and may appear multiple times on a page. It can be hard to tell them apart, so it's important to always have an adblocker. Keep in mind some file hosts have fake popups, real downloads happen within the download pages themselves, not redirected pages, or popup tabs.
 
----
+For browsers, we recommend **[uBlock Origin (uBO)](https://github.com/gorhill/uBlock)**, and you can also use a **[Redirect Skipper](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** to skip annoying countdowns. Note that uBO alone should be enough for browser adblocking; using DNS alongside it can cause conflicts. Check the section called browser below for our recommended ones. Also keep in mind we highly recommend using the full version of uBO rather than lite version.
 
-## 👨‍💻 为什么我要做这个中文站？
+For mobile **[AdGuard Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_android_adblocking)** / [iOS](https://adguard.com/en/adguard-ios/overview.html) or **[Rethink DNS](https://rethinkdns.com/app)**, and you can block YouTube and Reddit ads with **[Morphe](https://morphe.software/)**, which you can optionally [set up easily](https://wispydocs.pages.dev/morphe-piko-obtainium/). Note that uBO works on mobile browsers like Firefox too.
 
-互联网的初衷是**开放、共享与自由**。然而，由于语言的隔阂、信息的不对称，国内用户在寻找优质、纯净的开源工具和海外自由资源时，往往会面临巨大的困难：
-* 百度搜索出来的满眼都是流氓软件、虚假广告和付费陷阱。
-* 满怀期待点开一个链接，发现真正的下载按钮被藏在无数个大红色的“高速下载”陷阱之后。
+!!!note Using several ad blockers, like uBO and AdGuard at the same time can [mess things up](https://x.com/gorhill/status/1033706103782170625). This only happens with regular ad blockers, so it's perfectly okay to use uBO alongside something like SponsorBlock.
 
-国外的 **FMHY（Freemediaheckyeah）** 是全球最大的自由资源索引社区，由无数志愿者维护。但它全英文的界面、大量不适合国内网络环境的链接，让很多国内朋友望而却步。
+***
 
-因此，我决定将它**搬运并独立进行全站本地化汉化维护**。我会：
-1. **发布**我自己认为非常好用的一些科技软件。
-2. **翻译**所有晦涩难懂的技术术语，让新手也能无门槛看懂。
-3. **剔除**不符合相关政策的跳转链接及板块。
-3. **持续同步更新**，把真正纯净、好用的互联网工具带给国内的科技与 Web3 爱好者。
+### Antivirus
 
-> **🌟 致敬开源：** 本站的核心数据与灵感完全源自全球开源社区的灯塔项目 —— **[FMHY 开源社区](https://github.com/fmhy/edit)**。向所有无私奉献的海外志愿者致敬！如果你英文流利，强烈建议前往他们的官方原站体验最原汁原味的生态。
+> How can I safely scan files, and determine if detections are false positives?
 
----
+Many popular file hosts have download buttons that redirect to fake malicious download pages. Using the full version of [uBlock Origin](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) can prevent this but it doesn't always work. Read this [guide](https://cs.rin.ru/forum/viewtopic.php?f=14&t=159345) to learn what fake malicious download pages look like and how to avoid them. A general rule is to avoid download pages that open in a new tab or redirected page, real downloads happen within the same page as the file host.
 
-## 🛡️ 新手生存第一步：必须开启广告拦截！
+Before installing any file, it's recommended to scan the setup / install with **[VirusTotal](https://www.virustotal.com/)** and run it in [Triage](https://tria.ge/) (sandbox). If you're having trouble determining if something is a false positive, refer to the **[Scan Guide](https://clarasguide.valeena.workers.dev/Guides/vtguide/)**, or send it to us in [Discord](https://github.com/fmhy/FMHY/wiki/FMHY-Discord) and we'll take a look for you. For Android Apps, it's best to analyze them in a sandbox like [Triage](https://tria.ge/).
 
-> “使用广告拦截器有多重要？”
+!!!note Most antivirus programs are unnecessary and can cause slowdowns. If you use trusted websites, Windows Defender should be all you need to stay safe, and you can run a [Malwarebytes](https://www.malwarebytes.com/) scan from time to time for extra protection.
 
-本站收录了大量的海外自由资源站、文件托管站或影视流媒体站。这些网站往往生存不易，通常包含大量广告，其中一些甚至是带有恶意的欺诈广告。
-* **虚假的下载按钮**：通常很大、颜色鲜艳，写着“立即下载（Download Now）”。点开后往往会弹出垃圾网页、虚假中风水弹窗，或者诱导你下载流氓软件。
-* **真正的下载按钮**：通常很小、多为纯文本形式，或者低调地融合在网站的设计中。
 
-### 💻 浏览器推荐（拒绝数据追踪）
-大多数主流浏览器（如 Chrome 或 Edge）都带有内置的追踪程序，会收集你的浏览数据并用于广告推荐。此外，谷歌正在推进的“Manifest V3”技术更新，将会限制传统广告拦截扩展的运行。
+***
 
-我们强烈推荐以下黄金组合：
-* **[Firefox (火狐浏览器)](https://www.mozilla.org/zh-CN/firefox/new/)** + 扩展 **[uBlock Origin (uBO)](https://github.com/gorhill/uBlock)**（必备核心，请使用完整版，拒绝 Lite 版）。
-  * 进阶用户可配合 **[重定向跳过工具（Redirect Skipper）](https://github.com/Yukiisbored/betterfox)** 跳过烦人的倒计时。
-* **[Brave 浏览器](https://brave.com/)**：适合不想折腾、追求开箱即用的用户。基于 Chromium 内核，内置了极其强大的广告和追踪拦截器（Shields）。
+### Browsers
 
-### 📱 移动端防刷推荐
-* **Android / iOS**：推荐使用 **[AdGuard Premium](https://adguard.com/)** 或 **[Rethink DNS](https://rethinkdns.com/app)**。
-* **自定义 DNS**：你可以根据需要[自行设置 AdGuard 公共 DNS](https://adguard-dns.io/kb/zh-CN/public-dns/) 来实现系统级去广告。
+> Which web browser should I use?
 
----
+We recommend **[Firefox](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_firefox_tools)**, but you can also try **[Privacy-Focused Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_browser_privacy)**, or **[Brave](https://brave.com/)** if you prefer Chromium.
 
-## 🧲 磁力下载与 P2P 避坑守则
+For Android, we recommend **[Brave](https://brave.com/)** or **[Firefox](https://www.firefox.com/browsers/mobile/android/)**.
 
-磁力下载（Torrenting）是一种点对点（P2P）的文件共享方式。它不依赖单一的中央服务器，而是让下载该文件的所有人同时充当服务器，互相上传和下载。
+For iOS, we recommend **Safari + [AdGuard](https://adguard.com/en/adguard-ios/overview.html)** or **[Brave](https://brave.com/)**.
 
-1. **绝对不要使用迅雷或浏览器自带的下载器去下海外磁力**。迅雷有版权屏蔽且对开源磁力极其不友好。你需要一个纯净的 P2P 客户端。
-   * **电脑端推荐**：**[qBittorrent](https://www.qbittorrent.org/)** 
-   * **安卓端推荐**：**[Flud](https://delitestudio.com/app/flud/)**
-2. **认清两个核心概念**：
-   * **做种者 (Seeders)**：已经拥有完整文件并正在向他人上传提供数据的人。做种者越多，你的下载速度越快。
-   * **下载者 (Leechers)**：正在下载文件且尚未下载完整的人。
-3. **网卡绑定（隐私保护）**：如果你在使用加密连接，建议在 qBittorrent 的高级设置中，将网络接口（Interface）强制绑定到你的安全网络网卡上。这样一旦你的连接意外断开，下载会瞬间断网，防止你的真实 IP 泄露。
+!!!note We recommend looking through our [Extension](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_browser_extensions) / [Userscript](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_userscripts) sections to find ways to enhance your browser.
 
----
+***
 
-## 📱 移动端生态精选工具
+### Base64
 
-### 安卓应用 (Android Apps)
-* **[APKMirror](https://www.apkmirror.com/)** - 全球最权威的官方纯净、未经修改的原始 APK 归档站。
-* **[Mobilism](https://forum.mobilism.org/)** - 国外著名的修改版（Modded）与去广告版 APK 资源互动社区。
-* **[Droid-ify](https://github.com/Droid-ify/client)** - 专注于自由开源（FOSS）的极简安卓应用商店。
-* **[Obtainium](https://github.com/ImranR98/Obtainium/)** - 独立开发者神器！直接从 GitHub 等开源托管源同步和更新安卓应用，绕过任何应用商店。
+> How do I decode Base64?
 
-### iOS 侧载 (iOS Sideloading)
-* **[TrollStore (巨魔商店)](https://github.com/opa334/TrollStore)** - 史诗级神器。支持永久、无限制免证书侧载应用（严格支持 iOS 14.0-17.0 的特定版本，请勿盲目升级系统）。
-* **[SideStore](https://sidestore.io/)** - 无需越狱、免电脑的移动端签名侧载工具（支持 iOS 16.0 及以上）。
-* **[Sideloadly](https://sideloadly.io/)** - 经典的免越狱电脑端辅助七天重签侧载软件。
+If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8`, you can use a Base64 decoder to view it. Some may need to be decoded twice.
 
----
+* **[Base64 Decoders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_encode_.2F_decode) / [Auto Decode](https://greasyfork.org/en/scripts/485772-fmhy-base64-auto-decoder)**
 
-## 🛠️ 冲浪必备百宝箱
+***
 
-* **加速下载管理器**：拒绝百度网盘和浏览器限速，推荐使用开源多线程下载利器 **[AB Download Manager](https://abdownloadmanager.com/)**。
-* **实时翻译插件**：逛外国网站有语言障碍？推荐安装开源的 **[网页翻译工具（Translate Web Pages）](https://github.com/FilipePS/Traduzir-Paginas-Web)** 扩展程序，支持全网一键无缝双语对照翻译。
+### Movies / Shows
 
----
+* **Streaming: [Cineby](https://cineby.at/) / [Rive](https://www.rivestream.app/) / [NEPU](https://nepu.to/) / [Aether](https://aether.bar/)**
+* **Downloading: [Directories](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_download_sites)**
+* **Torrenting: [ExT.to](https://ext.to/browse/?cat=1) / [1337x](https://1337x.to/movie-library/1/)**
+* **Sports Streaming: [Streamed](https://streamed.pk/) / [StreamSports99](https://streamsports99.ru)**
+* **Drama Streaming: [GoPlay](https://goplay.su/) / [DramaCool](https://dramacool-l.fun/)**
+* **Track / Discover: [Simkl](https://simkl.com/) / [Letterboxd](https://letterboxd.com/)**
 
-> 💡 **村长寄语**：授人以鱼不如授人以渔。这个站点很大，里面的宝藏很多，希望你在安装好广告拦截器后，带着好奇心慢慢探索。如果本站帮到了你，欢迎去我的个人博客 **[www.cunzhangblog.com](https://www.cunzhangblog.com)** 踩踩，也欢迎反馈任何失效的链接！
+***
+
+### Anime
+
+* **Streaming: [Miruro](https://www.miruro.com/) / [All Manga](https://allmanga.to/) / [animepahe](https://animepahe.pw/)**
+* **Downloading: [Tokyo Insider](https://www.tokyoinsider.com/) / [Kayoanime](https://kayoanime.com/)**
+* **Torrenting: [Nyaa](https://nyaa.si/) / [Hayase](https://hayase.watch/) / [Extensions](https://rentry.co/FMHYB64#hayase)**
+* **Track / Discover: [MAL](https://myanimelist.net/) / [AniList](https://anilist.co/)** 
+
+***
+
+### Music
+
+* **Streaming: [SpotX](https://github.com/SpotX-Official/SpotX) / [Monochrome](https://monochrome.tf/)**
+* **Downloading: [lucida](https://lucida.to/) / [squid.wtf](https://squid.wtf/) / [Nicotine+](https://nicotine-plus.org/)**
+* **Android: [Metrolist](https://metrolist.meowery.eu/) / [Morphe](https://morphe.software/) (YTM Patch) / [SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile)**
+* **iOS: [SpotC++](https://spotc.yodaluca.dev/) / [SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile) / [Extension](https://github.com/spotiflacapp/SpotiFLAC-Extension)**
+* **Track / Discover: [RateYourMusic](https://rateyourmusic.com/) / [Last.fm](https://www.last.fm/home)**
+
+***
+
+### Gaming
+
+* **Download / Torrent: [⁠HizSearch](https://hizsearch.pages.dev/) / [Virgil Game Search](https://virgil.samidy.com/Games/) / [AnkerGames](https://ankergames.net/) / [SteamRIP](https://steamrip.com/) / [FitGirl Repacks](https://fitgirl-repacks.site/)**
+* **Emulation / ROMs: [Emulation Wiki](https://emulation.gametechwiki.com/index.php/Main_Page) / [Axekin](https://www.axekin.com/) / [r/ROMs Mega](https://r-roms.github.io/)**
+* **Track / Discover: [Backloggd](https://www.backloggd.com/) / [Glitchwave](https://glitchwave.com/)**
+
+***
+
+### Reading
+
+* **Downloading: [Anna's Archive](https://annas-archive.gl/) / [Z-Library](https://z-lib.gd/)**
+* **Audiobooks: [Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124) / [AudiobookBay](https://audiobookbay.lu/) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/audiobookbay-warning.md)**
+* **Ebook Readers: [Readest](https://readest.com/) / [Koodo](https://www.koodoreader.com/) / [Google Play Books](https://play.google.com/books)**
+* **Manga: [Weeb Central](https://weebcentral.com/) / [⁠Comix](https://comix.to/)**
+* **Comics: [BatCave](https://batcave.biz/) / [ReadComicsOnline](https://rcostation.xyz/) / [GetComics](https://getcomics.org/)**
+* **Android Readers: [Librera](https://librera.mobi/) / [Moon+ Reader](https://www.moondownload.com/) + [Theme Guide](https://clarasguide.valeena.workers.dev/Guides/moontheme/)**
+* **Track / Discover: [GoodReads](https://www.goodreads.com/)** (books) / [StoryGraph](https://www.thestorygraph.com/) (books) / **[MAL](https://myanimelist.net/)** (manga) / **[LeagueOfComicGeeks](https://leagueofcomicgeeks.com/)** (comics)
+
+***
+
+### Privacy
+
+> I don't have anything to hide, why should I care about privacy?
+
+Privacy is about controlling your personal information, not just keeping things secret. Non-sensitive data is used by companies to track your behavior, target ads, and influence your choices.
+
+For email privacy, we recommend **[Proton](https://proton.me/mail)** and for search **[SearXNG](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_searx_instances)**. It's also good to check the HaveIBeenPwned **[email](https://haveibeenpwned.com/)** and [password](https://haveibeenpwned.com/Passwords) engines to make sure your info hasn't been part of any recent data breaches.
+
+!!!note Never enter your real email or password on any site you don't know you can trust. Use a unique password for each site you register on. That way, if a breach occurs, only that one site's credentials are compromised. You can also take advantage of email [aliasing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_email_aliasing) for an extra layer of protection.
+
+!!!note Keep in mind that it's **never** a good idea to upload personal or confidential files to any file host / cloud AI, even if they claim to be encrypted.
+
+***
+
+### Windows Guide
+
+> How can I download / activate Windows for free?
+
+Download an ISO from Massgrave's **[Genuine Installation Media](https://massgrave.dev/genuine-installation-media)** page, and follow the **[Clean Install Windows Guide](https://massgrave.dev/clean_install_windows)** to install it. After install, activate it with **[Microsoft Activation Scripts](https://rentry.co/FMHYB64#mas)**. If you'd like to use Windows 10 past its End-Of-Life date, follow **[Windows 10 After EOL](https://massgrave.dev/windows10_eol)**.
+
+Note you can turn on file extensions for all files by opening File Explorer, clicking on the "View" menu, and checking the box next to "File name extensions."
+
+* **[Windows Install / Debloat Guide](https://wispydocs.pages.dev/windows/)**
+* **Software Sites: [Virgil Software Search](https://virgil.samidy.com/Software/) / [CracksURL](https://cracksurl.com/) / [Download Guide](https://cracksurl.com/how-to-download/) / [LRepacks](https://lrepacks.net/)**
+
+***
+
+### Torrenting
+
+> Do I need a VPN to torrent?
+
+Downloading files through torrenting can cause issues with your ISP, so using a **[VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** is a must in most countries. You should also **[bind your VPN](https://wispydocs.pages.dev/torrenting/)** to your torrent client. This ensures that if your VPN connection drops, your torrent client stops all traffic, preventing your real IP address from being exposed. You can also use **[Remote Torrenting Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_remote_torrenting)** to avoid the need for a VPN altogether.
+
+***
+
+> What is Port Forwarding? Do I need it?
+
+[Port forwarding](https://wispydocs.pages.dev/torrenting/#port-forwarding) (having an open port) is an essential part of torrenting and it's recommended to set it up. While it's not strictly needed, it benefits the swarm, can sometimes boost download speeds, and improves connectability for torrents with fewer seeds.
+
+***
+
+### Android Apps
+
+* **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398)** - Modded APKs
+* **[APKMirror](https://www.apkmirror.com/)** - Untouched APKs
+* **[Droid-ify](https://droidify.app/)** - FOSS Android Apps / [GitHub](https://github.com/Droid-ify/client)
+* **[Obtainium](https://github.com/ImranR98/Obtainium/)** - Get Android App Updates
+
+***
+
+### iOS Sideloading
+
+* **[TrollStore](https://github.com/opa334/TrollStore)** - Unlimited App Sideloading [iOS 14.0-17.0]
+* **[SideStore](https://sidestore.io/)** - Non-Jailbreak Sideloading App [iOS 16.0 & Above]
+* **[Sideloadly](https://sideloadly.io/)** - Non-Jailbreak Sideload Apps [iOS 7.0 & Above]
+* **[Impactor](https://impactor.claration.dev/)** - Non-Jailbreak Sideloading
+
+***
+
+### Important Links
+
+* **Download Managers: [AB Download Manager](https://abdownloadmanager.com/)**
+* **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)** - Translate Web Pages to Your Language
+* **[Glossary / Terminology ](https://rentry.org/the-piracy-glossary)** - Common piracy term definitions
+* **[Unsafe Sites / Software](https://fmhy.net/unsafe)** / [2](https://redd.it/10bh0h9) - Things we recommend avoiding
+* **[FMHY.net](https://fmhy.net/)** - Our website with many more sites / tools
