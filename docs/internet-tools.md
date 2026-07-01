@@ -1,6 +1,6 @@
 ***
 ***
-**[◄◄ 返回维基索引](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-index)**
+**[◄◄ 查看FMHY官方英文站](https://fmhy.net/)**
 ***
 ***
 

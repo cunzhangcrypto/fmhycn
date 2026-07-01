@@ -1,11 +1,7 @@
 ***
-
 ***
-
-**[◄◄ 返回 Wiki 索引](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
-
+**[◄◄ 查看FMHY官方英文站](https://fmhy.net/)**
 ***
-
 ***
 
 # ► 开发工具
