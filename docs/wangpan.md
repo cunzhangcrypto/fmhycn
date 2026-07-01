@@ -24,7 +24,8 @@ description: 夸克网盘资源下载导航
 * [Whisper](https://pan.quark.cn/s/70537f4f81cd) - 语音免安装本地部署
 * [LinkSwift](https://pan.quark.cn/s/baafa30e5ea8) - 网盘下载助手
 * [视频号下载](https://pan.quark.cn/s/be760aca7f40) - 微信视频号下载工具
-
+* [禁用win更新](https://pan.quark.cn/s/1d38858d6fe80) - 一键开、关win更新功能
+* [五款视频压缩](https://pan.quark.cn/s/217cac6d37cd) - 整理了5款免费开源的
 ***
 
 
