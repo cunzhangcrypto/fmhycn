@@ -1,507 +1,507 @@
 ***
 ***
-**[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-index)**
+**[◄◄ 返回维基索引](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-index)**
 ***
 ***
 
-# ► System Tools
+# ► 系统工具
 
-* **Warning** - It's not recommended to use debloaters unless you know what you're doing. Always research first, never just "Apply All" randomly.
+## 激活工具
 
-***
-
-* 🌐 **[Awesome Windows 11](https://github.com/awesome-windows11/windows11)** - Windows 11 Resources
-* 🌐 **[PC-Optimization-Hub](https://github.com/BoringBoredom/PC-Optimization-Hub)** - System Optimization Resources
-* ↪️ **[Gaming Optimization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_optimization_tools)**
-* ⭐ **[PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)** - System Tools / [Search](https://github.com/lin-ycv/EverythingPowerToys) / [Plugins](https://github.com/hlaueriksson/awesome-powertoys-run-plugins) / [GitHub](https://github.com/microsoft/PowerToys/)
-* ⭐ **[Sysinternals](https://learn.microsoft.com/en-us/sysinternals/)** - Advanced System Tools
-* ⭐ **[SuperF4](https://stefansundin.github.io/superf4/)** or [FKill](https://github.com/sindresorhus/fkill-cli) - Process Killers
-* ⭐ **[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)**, [winfetch](https://github.com/lptstr/winfetch), [CPU Fetch](https://github.com/Dr-Noob/cpufetch), [Glow](https://github.com/turkaysoftware/glow) or [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/) - System Info Tools
-* ⭐ **[Bulk Crap Uninstaller](https://www.bcuninstaller.com/)**, [Revo Uninstaller](https://www.revouninstaller.com/products/revo-uninstaller-free/) or [GeekUninstaller](https://geekuninstaller.com/) - Bulk Uninstallation Tools
-* [NanaRun](https://github.com/M2Team/NanaRun) - System Admin Tools
-* [BleachBit](https://www.bleachbit.org/) - Clean System Storage
-* [PolicyPlus](https://github.com/Fleex255/PolicyPlus) - Local Group Policy Editor
-* [GhostBuster](https://bitbucket.org/wvd-vegt/ghostbuster/src/master/) or [Device Cleanup Tool](https://www.majorgeeks.com/files/details/device_cleanup_tool.html) - Remove Non-Present Devices
-* [Should I Remove It?](https://www.shouldiremoveit.com/) - Program Removal Guide
-* [CoreTemp](https://www.alcpu.com/CoreTemp/) - Process Monitor
-* [Why Is This Running?](https://github.com/pranshuparmar/witr) - Process Tracing / Debugging
-* [nyrna](https://nyrna.merritt.codes) - Suspend Apps / Games
-* [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) - Laptop CPU Monitor / Optimizer
-* [RegExp](https://github.com/zodiacon/TotalRegistry), [RegScanner](https://www.nirsoft.net/utils/regscanner.html), [ripgrep-all](https://github.com/phiresky/ripgrep-all) or [Registry-Finder](https://registry-finder.com/) - Registry Explorers / Scanners
-* [WinbIndex](https://winbindex.m417z.com/) - Windows System Files / Binaries
-* [OfflineInsiderEnroll](https://github.com/abbodi1406/offlineinsiderenroll), [2](https://gitlab.com/stdout12/offlineinsiderenroll), [3](https://codeberg.org/stdout12/offlineinsiderenroll) - Enable Windows Insider without Account
-* [Rhasspy](https://rhasspy.readthedocs.io/en/latest/) - Voice Assistant
-* [OpenRecall](https://github.com/openrecall/openrecall) or [Windrecorder](https://github.com/yuka-friends/Windrecorder/) - Memory Search App / System Recorders
-* [Time.is](https://time.is/) - Check Accuracy of System Clock
-* [⁠LenovoLegionToolkit](https://github.com/LenovoLegionToolkit-Team/LenovoLegionToolkit) - Lenovo Vantage + Hotkeys Replacement for Lenovo Legion Laptops
-* [G-Helper](https://github.com/seerge/g-helper) - Armoury Crate Replacement for ASUS Laptops
+* ⭐ **[MAS](https://massgrave.dev/)** - 开源 Windows / Office 激活器 / [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) / [Discord](https://discord.gg/ZxmUcGHjVj)
+* ⭐ **[Microsoft Activation Scripts (MAS)](https://massgrave.dev/)** / [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) / [Discord](https://discord.gg/ZxmUcGHjVj)
+* [Microsoft Guide](https://rentry.co/fmhy_microsoft_activation) - Windows / Office 激活指南
+* [CMWTAT_Digital_Edition](https://github.com/laomms/CMWTAT_Digital_Edition) - Windows 永久数字授权激活器
+* [Microsoft Activation Guide](https://github.com/dogukandogru/microsoft-activation) / [Discord](https://discord.gg/Vb5ggbNBqB) - Windows / Office 激活指南
+* [BashWinauto](https://github.com/bash-cat/bashwinauto) - Windows 激活器
+* [Windows Activation Guide](https://rentry.co/ActivateWin) - Windows 激活指南
 
 ***
 
-## ▷ System Tweaks
+## 广告拦截 / 隐私 / 安全
 
-* ⭐ **[Windhawk](https://windhawk.net/)** / [Discord](https://discord.com/invite/windhawk-923944342991818753) / [GitHub](https://github.com/ramensoftware/windhawk), [MajorGeeks Windows Tweaks](https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html) or [Winaero](https://winaero.com/) / [2](https://winaerotweaker.com/) - System Tweaking Tools / **[Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/general-tweak-warning.md)**
-* ⭐ **[StartAllBack](https://www.startallback.com/)** - Tweaked Start Menu & Taskbar / Windows 11 / [Fix](https://rentry.co/FMHYB64#startxback)
-* ⭐ **[EverythingToolbar](https://github.com/srwi/EverythingToolbar)** - Everything Search in Taskbar
-* ⭐ **[Open Shell](https://open-shell.github.io/Open-Shell-Menu/)** / [Customizable Skin](https://github.com/bonzibudd/Fluent-Metro) or [StartIsBack](https://startisback.com/) / [Fix](https://rentry.co/FMHYB64#startxback) - Classic Start Menus
-* ⭐ **[EarTrumpet](https://eartrumpet.app/)** / [GitHub](https://github.com/File-New-Project/EarTrumpet), [Volumey](https://github.com/G-Stas/Volumey) or [Volume2](https://github.com/irzyxa/Volume2) - Tweaked Volume Mixer
-* ⭐ **[AltSnap](https://github.com/RamonUnch/AltSnap)** - Tweaked Windows Dragging
-* ⭐ **[Edge-Uninstall](https://gist.github.com/ave9858/c3451d9f452389ac7607c99d45edecc6)** - Microsoft Edge Removal Script
-* [BatUtil](https://github.com/abbodi1406/BatUtil) / [2](https://gitlab.com/stdout12/batutil) / [3](https://codeberg.org/stdout12/BatUtil) or [TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery) - System Scripts
-* [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD) - System App Tweaking
-* [Wox](https://github.com/Wox-launcher/Wox), [Listary](https://www.listary.com/), [Raycast](https://www.raycast.com/), [Flow Launcher](https://www.flowlauncher.com/) / [FMHY Search](https://github.com/iamshamit/fmhy-search-flow-launcher), [Ueli](https://ueli.app/) / [GitHub](https://github.com/oliverschwendener/ueli) - Keystroke / App Launchers
-* [Kando](https://kando.menu/) - App Launcher / Pie Menu / [Discord](https://discord.gg/hZwbVSDkhy) / [GitHub](https://github.com/kando-menu/kando)
-* [Cerebro App](https://cerebroapp.com/) - Tweaked System Navigation
-* [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - Tweaked System Menu
-* [Shell](https://nilesoft.org/) / [GitHub](https://github.com/moudey/shell) or [RCWM](https://github.com/GChuf/RCWM) - Tweaked / Custom Context Menus
-* [Explorer Tab Utility](https://github.com/w4po/ExplorerTabUtility) - Improved / Tweaked File Explorers
-* [Quick Access Popup](https://www.quickaccesspopup.com/) - File Manager
-* [Spencer](https://www.the-sz.com/products/spencer/) - Classic Start Menu
-* [yasb](https://github.com/amnweb/yasb) - Tweaked Taskbar
-* [Taskbar Tweaker](https://ramensoftware.com/7-taskbar-tweaker) - Taskbar Advanced Features / Win 10
-* [⁠AppGroup](https://github.com/iandiv/AppGroup) - Create Taskbar App Groups / Folders
-* [RBTray](https://github.com/benbuck/rbtray) - Minimize any App to Tray
-* [Taskbar Hide](https://www.eusing.com/hidewindows/bosskey.htm) - Easily Hide / Show Taskbar
-* [QuickLook](https://github.com/QL-Win/QuickLook) - macOS Quick Look for Windows / [Scan Note](https://github.com/QL-Win/QuickLook/issues/1576#issuecomment-2816980688)
-* [MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - Redirect Microsoft Edge
-* [TopNotify](https://github.com/SamsidParty/TopNotify) - Move Windows Notifications
+* ↪️ **[VPN / 隐私工具](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy)**
+* ↪️ **[安全 / 杀毒软件](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_antivirus)**
 
 ***
 
-## ▷ Package Managers
+## 浏览器
 
-* ⭐ **[WinGet](https://learn.microsoft.com/en-us/windows/package-manager/winget)** - CLI Package Manager / [Browse](https://winstall.app/) / [Manifest Creator](https://github.com/microsoft/winget-create) / [Auto Update](https://github.com/Romanitho/Winget-AutoUpdate) / [GitHub](https://github.com/microsoft/winget-cli)
-* ⭐ **[UniGetUI](https://devolutions.net/unigetui/)** - GUI for Popular Package Managers / [GitHub](https://github.com/Devolutions/UniGetUI)
-* ⭐ **[Scoop](https://scoop.sh/)** - Portable Package Manager / [GitHub](https://github.com/ScoopInstaller/Scoop)
-* ⭐ **[sfsu](https://github.com/winpax/sfsu/)** or [hok](https://github.com/chawyehsu/hok) - Fast Scoop Utilities
-* [Chocolatey](https://chocolatey.org/) - Package Manager / [GUI](https://github.com/chocolatey/ChocolateyGUI) / [GitHub](https://github.com/chocolatey/choco)
-* [RuckZuck](https://ruckzuck.tools/) - Package Manager
-* [RepoHub](https://github.com/yusufipk/RepoHub) - Package Manager / Web-Based
-* [Topgrade](https://github.com/topgrade-rs/topgrade) - CLI Package Manager
-* [Silent Install](https://www.silentinstall.org/) - Build Multi-Program Installers
-* [0Install](https://0install.net/) - Decentralized Cross-Platform Package Manager
-* [portableapps](https://portableapps.com/download) - Package Manager for Portable Apps
-* [Baulk](https://github.com/baulk/baulk) - Minimalist Package Manager
-* [NirLauncher](https://launcher.nirsoft.net/) - Portable Package Manager for NirSoft Utilities
-* [⁠bin](https://github.com/marcosnils/bin) - Binary Manager
+* 🌐 **[AnyBrowser](https://anybrowser.org/)** - 浏览器信息
+* 🌐 **[BrowserBench](https://browserbench.org/)** - 浏览器测试基准
+* ⭐ **[Firefox](https://www.mozilla.org/en-US/firefox/new/)** - 主流隐私浏览器
+* ⭐ **Firefox 工具** - [隐私设置](https://brainfucksec.github.io/firefox-hardening-guide) / [配置编辑器](https://developer.mozilla.org/en-US/docs/Tools/about:debugging) / [用户脚本](https://github.com/arkenfox/user.js) / [便携版](https://portapps.io/app/firefox-portable/)
 
-***
+### Firefox 隐私配置
 
-## ▷ Task Automation
+* [Firefox Privacy Configuration](https://github.com/arkenfox/user.js) / [指南](https://brainfucksec.github.io/firefox-hardening-guide) / [补充](https://github.com/yokoffing/Betterfox) / [优化](https://12bytes.org/articles/tech/firefox/the-fastest-firefox-on-earth/) / [配置](https://ffprofile.com/) / [用户.js 指南](https://rentry.co/TipsForFirefox)
 
-* ⭐ **[AutoHotkey](https://www.autohotkey.com/)** / [Resources](https://github.com/ahkscript/awesome-AutoHotkey) / [Discord](https://discord.com/invite/Aat7KHmG7v)
-* [Scheduler](https://www.splinterware.com/products/scheduler.html), [⁠FluentTaskScheduler](https://github.com/TRGamer-tech/FluentTaskScheduler) or [TaskRunner](https://www.keyefficiency.com/) - System Task Scheduler
-* [AutoIt](https://www.autoitscript.com/) / [Resources](https://github.com/J2TEAM/awesome-AutoIt)
-* [Tinytask](https://tinytask.net/)
-* [sikulix](http://sikulix.com/)
-* [ChoEazyCopy](https://github.com/Cinchoo/ChoEazyCopy)
-* [MacroRecorder](https://www.macrorecorder.com/)
-* [Organize](https://organize.readthedocs.io) - Automated File Manager / [GitHub](https://github.com/tfeldmann/organize)
+### Firefox 插件
 
-***
+* 🌐 **[Awesome Firefox Extensions](https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme)** - 扩展列表
+* 🌐 **[Greasy Fork](https://greasyfork.org/)** 或 [OpenUserJS](https://openuserjs.org/) - 用户脚本
+* ↪️ **[广告拦截 / 隐私](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy)**
+* ⭐ **[uBlock Origin](https://github.com/gorhill/uBlock)** - 广告拦截器 / [高级用法](https://github.com/iam-py-test/uBO-Scope) / [指南](https://yokoffing.github.io/Betterfox/Adblocking/~/settings.json) / [补充过滤列表](https://github.com/yokoffing/filterlists) / [Twitch 广告屏蔽](https://github.com/ryanbr/TwitchAdSolutions#scripts)
+* ⭐ **[Vimium](https://vimium.github.io/)** / [GitHub](https://github.com/philc/vimium) 或 [Tridactyl](https://tridactyl.xyz/) / [GitHub](https://github.com/tridactyl/tridactyl) - 键盘快捷键
+* ⭐ **[FoxyTab](https://addons.mozilla.org/en-US/firefox/addon/foxytab/)** - 标签页管理
+* [TabStash](https://josh-berry.github.io/tab-stash/) 或 [SessionSync](https://github.com/bfred-it/session-sync) - 标签页/会话管理器
+* [Gesturefy](https://github.com/Robbendebiene/Gesturefy) 或 [Foxy Gestures](https://github.com/marklieberman/foxy-gestures) - 鼠标手势
+* [Don't Fuck With Paste](https://addons.mozilla.org/en-US/firefox/addon/don-t-fuck-with-paste/) - 允许粘贴到受限制的输入框中
+* [Toggle JavaScript](https://github.com/nicolethayer/Toggle-JavaScript) - 切换 JavaScript
+* [Decentraleyes](https://git.synz.io/Synzvato/decentraleyes) - 本地 CDN 仿真
+* [Link Gopher](https://addons.mozilla.org/en-US/firefox/addon/link-gopher/) - 从页面提取所有链接
+* [DownThemAll](https://www.downthemall.org/) - 批量下载管理器
+* [Video DownloadHelper](https://www.downloadhelper.net/) - 视频下载器
+* [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect) - 重定向到隐私友好的前端
+* [Skip Redirect](https://skipredirect.com/) - 跳过页面重定向
+* [ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/) - 移除 URL 追踪参数
+* [Neat URL](https://github.com/Smile4ever/Neat-URL) - URL 清洁器
+* [HackBar](https://addons.mozilla.org/en-US/firefox/addon/hackbar-sn9owx/) - 安全测试
+* [Wappalyzer](https://www.wappalyzer.com/) - 识别网站技术栈
+* [WhatFont](https://addons.mozilla.org/en-US/firefox/addon/whatfont/) - 识别网站字体
+* [ColorZilla](https://www.colorzilla.com/) - 颜色选择器
+* [Octotree](https://www.octotree.io/) - GitHub 代码树视图
+* [Refined GitHub](https://github.com/refined-github/refined-github) - 改进 GitHub 界面
+* [Enhancer for YouTube](https://www.mrfdev.com/enhancer-for-youtube) - YouTube 增强
+* [Return YouTube Dislike](https://returnyoutubedislike.com/) - 显示 YouTube 踩数
+* [SponsorBlock](https://sponsor.ajay.app/) - 跳过 YouTube 赞助广告
+* [Tab Stash](https://josh-berry.github.io/tab-stash/) - 标签页管理器
 
-## ▷ Terminal / CLI
+### 其他浏览器
 
-* 🌐 **[Awesome TUI](https://awesometui.com/)** - TUI App Index / [GitHub](https://github.com/rothgar/awesome-tuis)
-* 🌐 **[⁠Awesome Terminals](https://github.com/cdleon/awesome-terminals)** - Terminal Emulator List
-* 🌐 **[terminals-are-sexy](https://terminalsare.sexy/)** - Terminal Resources
-* 🌐 **[Awesome CLI Apps](https://github.com/agarrharr/awesome-cli-apps)** or [Command Line Tools](https://github.com/learn-anything/command-line-tools) - Command Line Resources
-* ⭐ **[ss64](https://ss64.com/)** - Command Line Reference Index
-* [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) / [2](https://github.com/microsoft/terminal/), [Tabby](https://tabby.sh/), [MobaXterm](https://mobaxterm.mobatek.net/) or [WezTerm](https://wezfurlong.org/wezterm/) - Windows Terminal Emulators
-* [psmux](https://psmux.pages.dev/) (Windows Tmux) / [GitHub](https://github.com/psmux/psmux) or [Zellij](https://zellij.dev/) - Terminal Multiplexers
-* [PowerShell](https://github.com/powershell/powershell) - Microsoft PowerShell / Windows, Mac, Linux
-* [BusyBox](https://frippery.org/busybox/) - Unix Commands for Windows
-* [Clink](https://github.com/chrisant996/clink) - Command Line Editing
-* [Nushell](https://www.nushell.sh/) - Alt Shell
-* [⁠procs](https://github.com/dalance/procs) - ps (Process Status) Replacement
-* [Tiny Care Terminal](https://github.com/notwaldorf/tiny-care-terminal) or [⁠WTF](https://wtfutil.com/) / [GitHub](https://github.com/wtfutil/wtf) - Terminal Dashboards
-* [Command Challenge](https://cmdchallenge.com/) - Command Line Learning
-* [Mintty](https://mintty.github.io/) - Cygwin Terminal Emulator
-* [GetDNote](https://www.getdnote.com/) - Command Line Notebook
-* [LeanandMean](https://github.com/AveYo/LeanAndMean) - Powershell Snippets / Use with Caution
-* [PowerShell Scripts](https://github.com/fleschutz/PowerShell), [PowershellGallery](https://www.powershellgallery.com/) or [WindowsPowerShell](https://github.com/stevencohn/WindowsPowerShell) - Shell Scripts
-
-***
-
-## ▷ Remote Desktop
-
-* ⭐ **[Parsec](https://parsec.app/)** / Windows, Mac, Linux, Android, Web / [X](https://x.com/parsecteam) / [Discord](https://discord.com/invite/cQjEGFy)
-* ⭐ **[RustDesk](https://rustdesk.com/)** / Windows, Mac, Linux / [Subreddit](https://www.reddit.com/r/rustdesk/) / [Discord](https://discord.com/invite/nDceKgxnkV) / [GitHub](https://github.com/rustdesk/rustdesk)
-* ⭐ **[Aspia](https://aspia.org/)** / Windows, Mac, Linux / [Telegram](https://t.me/aspia_talks) / [GitHub](https://github.com/dchapyshev/aspia)
-* ⭐ **[Sunshine](https://app.lizardbyte.dev/Sunshine/)** or [Apollo](https://github.com/ClassicOldSong/Apollo) - Remote Server for Moonlight / Windows, Mac, Linux / [Mobile](https://github.com/ClassicOldSong/moonlight-android) / [Discord](https://discord.com/invite/d6MpcrbYQs) / [GitHub](https://github.com/LizardByte/Sunshine)
-* [Moonlight](https://moonlight-stream.org/) - Gaming Remote Desktop Client / Windows, Mac, Linux, Android, iOS / [Discord](https://discord.com/invite/CGg5JxN) / [GitHub](https://github.com/moonlight-stream)
-* [Kasm](https://kasm.com/) - Container Streaming Platform / Resource Intensive / Windows, Linux / [GitHub](https://github.com/kasmtech/KasmVNC)
-* [HopToDesk](https://www.hoptodesk.com/) / Windows, Mac, Linux, Android, iOS / [GitLab](https://gitlab.com/hoptodesk/hoptodesk)
-* [CoScreen](https://www.coscreen.co/) / Windows, Mac
-* [⁠DWS](https://www.dwservice.net/) / Windows, Mac, Linux
-* [Remote Desktop Connection](https://support.microsoft.com/en-us/windows/how-to-use-remote-desktop-5fe128d5-8fb1-7a23-3b8a-41e636865e8c) - Built Into Windows / Windows, Mac
-* [Remotly](https://remotly.com/) / Windows, Linux
-* [Bananas](https://getbananas.net/) / Windows, Mac, Linux / [Discord](https://discord.gg/BeN43eJVWS) / [GitHub](https://github.com/mistweaverco/bananas)
-* [ChromeRemoteDesktop](https://remotedesktop.google.com/) - Browser
-* [InputDirector](https://www.inputdirector.com/) - Multi-Computer Client / Windows
-* [Mouse Without Borders](https://www.microsoft.com/en-us/garage/wall-of-fame/mouse-without-borders/) - Multi-Computer Client / Windows
-* [Screensy](https://screensy.marijn.it/) - Web-Based / [GitHub](https://github.com/screensy/screensy)
-* [Screego](https://app.screego.net/) - Web-Based / [GitHub](https://github.com/screego/server/)
-* [Screen-Sharing](https://share-your-screen.vercel.app/) - Web-Based / [GitHub](https://github.com/tonghohin/screen-sharing)
-* [TigerVNC](https://tigervnc.org/) - VNC Client / Windows, Linux / [GitHub](https://github.com/TigerVNC/tigervnc)
-* [TightVNC](https://www.tightvnc.com/) - VNC Client
-* [noVNC](https://novnc.com/info.html) - JavaScript VNC Client / [GitHub](https://github.com/novnc/noVNC)
+* ⭐ **[Brave](https://brave.com/)** - 隐私浏览器
+* [Ungoogled Chromium](https://ungoogled-software.github.io/) - 去 Google 化的 Chromium
+* [Vivaldi](https://vivaldi.com/) - 高度可定制的浏览器
+* [LibreWolf](https://librewolf.net/) / [GitHub](https://gitlab.com/librewolf-community) - 隐私强化 Firefox 分支
+* [Tor Browser](https://www.torproject.org/) - 匿名浏览器
+* [Pale Moon](https://www.palemoon.org/) - 轻量级浏览器
+* [Waterfox](https://www.waterfox.net/) - Firefox 分支
+* [Naver Whale](https://whale.naver.com/) - 韩国浏览器
+* [Slimjet](https://www.slimjet.com/) - 快速浏览器
+* [Opera](https://www.opera.com/) - 内置 VPN 的浏览器
+* [Edge](https://www.microsoft.com/edge) - 微软浏览器
 
 ***
 
-## ▷ Clipboard Managers
+## 文件管理器
 
-* ⭐ **[Ditto](https://ditto-cp.sourceforge.io/)** / Windows / [GitHub](https://sabrogden.github.io/Ditto/)
-* [PasteBar](https://www.pastebar.app/) / Windows, Mac / [GitHub](https://github.com/PasteBar/PasteBarApp)
-* [CrossPaste](https://crosspaste.com/) / Windows, Mac, Linux / [GitHub](https://github.com/crosspaste/crosspaste-desktop)
-* [ArsClip](https://www.joejoesoft.com/vcms/97/) / Windows
-* [ClipAngel](https://sourceforge.net/projects/clip-angel/) / Windows
-* [CopyQ](https://hluk.github.io/CopyQ/) / Windows, Mac, Linux / [GitHub](https://github.com/hluk/CopyQ) - Clipboard Manager with Editing and Scripting Features
-* [MultiClipBoardSlots](https://www.softwareok.com/?seite=Microsoft/MultiClipBoardSlots) - Extend Clipboard by 10 Memory Slots / Windows
+* ⭐ **[Total Commander](https://www.ghisler.com/)** - 双面板文件管理器
+* ⭐ **[Everything](https://www.voidtools.com/)** - 极速文件搜索
+* ⭐ **[7-Zip](https://www.7-zip.org/)** - 文件压缩/解压工具
+* [Files](https://files.community/) - 现代化文件管理器
+* [Double Commander](https://doublecmd.sourceforge.io/) - 双面板文件管理器
+* [Far Manager](https://www.farmanager.com/) - 文件/归档管理器
+* [Multi Commander](https://multicommander.com/) - 多标签文件管理器
+* [One Commander](https://www.onecommander.com/) - 现代化文件管理器
+* [FreeCommander](https://freecommander.com/) - 双面板文件管理器
+* [Q-Dir](https://www.softwareok.com/?seite=Freeware/Q-Dir) - 四面板文件管理器
+* [muCommander](https://www.mucommander.com/) - Java 文件管理器
+* [XYplorer](https://www.xyplorer.com/) - 标签页文件管理器
+* [xplorer²](https://www.zabkat.com/) - 双面板文件管理器
+* [TagSpaces](https://www.tagspaces.org/) - 带标签的文件管理器
+* [fman](https://fman.io/) - 可扩展的文件管理器
+* [Directory Opus](https://www.gpsoft.com.au/) - 高级文件管理器
 
-***
+### 文件搜索
 
-## ▷ Window Managers
-
-* ⭐ **[GlazeWM](https://github.com/glzr-io/glazewm)** - Tiling Window Manager
-* ⭐ **[Komorebi](https://github.com/LGUG2Z/komorebi)** - Tiling Window Manager
-* ⭐ **[WorkSpacer](https://workspacer.org/)** - Tiling Window Manager / [GitHub](https://github.com/workspacer/workspacer)
-* [⁠Seelen UI](https://github.com/eythaann/Seelen-UI) - Tiling Window Manager / [Discord](https://discord.gg/ABfASx5ZAJ)
-* [Whim](https://github.com/dalyIsaac/Whim/) - Pluggable Dynamic Window Manager
-* [DWM](https://github.com/prabirshrestha/dwm-win32) - Port of X11 dwm to Windows
-
-***
-
-## ▷ Virtual Machines
-
-* 🌐 **[Awesome Web Desktops](https://github.com/syxanash/awesome-web-desktops)** or [Simone's Computer](https://simone.computer/#/webdesktops) - Browser Operating Systems / VMs
-* 🌐 **[Virtual OS Museum](http://virtualosmuseum.org/)** - Multi Virtual Machine Compilation (1700+)
-* ↪️ **[Emulators on Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_emulators_on_android)**
-* ⭐ **[VMware Workstation](https://www.techpowerup.com/download/vmware-workstation-pro/)** - Virtual Machine / [macOS VM](https://rentry.co/FMHYB64#vmware-workstation)
-* ⭐ **[QEMU](https://www.qemu.org/)** - Virtual Machine / Use w/ Virt-Manager or Vagrantup / [Docker Container](https://github.com/qemus/qemu) / [GitLab](https://gitlab.com/qemu-project/qemu)
-* ⭐ **[VirtualBox](https://www.virtualbox.org/)** - Virtual Machine
-* ⭐ **[Virt-Manager](https://virt-manager.org/)** / [GitHub](https://github.com/virt-manager/virt-manager) or [Vagrantup](https://www.vagrantup.com/) / [GitHub](https://github.com/hashicorp/vagrant) - Virtual Machine Managers
-* [Looking Glass](https://looking-glass.io/) - Kernel-Based Virtual Machine for VGA PCI Pass-Through / [GitHub](https://github.com/gnif/LookingGlass)
-* [Hyper-V](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/) - Virtual Machine
-* [Denodo Test](https://community.denodo.com/test-drives/) - Virtual Machine
-* [OSBoxes](https://www.osboxes.org/) - Preinstalled Virtual Machine
-* [JSLinux](https://bellard.org/jslinux/) - Online Linux Virtual Machines
-* [QuickEmu](https://github.com/quickemu-project/quickemu) or [Dexpot](https://www.dexpot.de/) - Virtual Machine Creator
-* [WSL](https://learn.microsoft.com/en-us/windows/wsl/) - Run Linux on Windows / [Resources](https://github.com/sirredbeard/Awesome-WSL) / [Startup Launcher](https://github.com/nullpo-head/wsl-distrod) / [Wayland / X Server](https://github.com/microsoft/wslg) / [GitHub](https://github.com/microsoft/WSL)
-* [⁠Dockur](https://github.com/dockur) - Run Windows / macOS in Docker Containers
-* [Virtual x86](https://copy.sh/v86/) - x86-compatible OS Emulators
-* [PCjs Machines](https://www.pcjs.org/) - Classic Computer Emulators
-* [InfiniteMac](https://infinitemac.org/) - Apple OS Emulators
-* [winevdm](https://github.com/otya128/winevdm) - 16-bit Windows on 64-bit Systems
-* [Blink](https://github.com/jart/blink) - Linux Emulator for Windows
-* [Dockerholics](https://github.com/petersem/dockerholics) - Docker Apps
+* [Listary](https://www.listary.com/) - 文件搜索
+* [Wox](http://www.wox.one/) - 启动器/搜索
+* [Keypirinha](https://keypirinha.com/) - 快速启动器
+* [Launchy](https://www.launchy.net/) - 开源启动器
+* [uTools](https://u.tools/) - 启动器/搜索
+* [Flow Launcher](https://www.flowlauncher.com/) - 快速文件搜索
 
 ***
 
-## ▷ Hackintosh
+## 系统优化
 
-* **Note** - Generating a unique SMBIOS is crucial for Apple services like iMessage and iCloud to function properly.
-
-***
-
-* ⭐ **[Hackintosh](https://hackintosh.com/) / [Subreddit](https://www.reddit.com/r/hackintosh/) / [Discord](https://discord.gg/u8V7N5C)** - Hackintosh Building Guides
-* ⭐ **[Dortania](https://dortania.github.io/OpenCore-Install-Guide/)** - Hackintosh Installation Guide
-* [OpenCore-Legacy-Patcher](https://dortania.github.io/OpenCore-Legacy-Patcher) - macOS on Unsupported Hardware
-* [OneClick-macOS](https://github.com/notAperson535/OneClick-macOS-Simple-KVM) - macOS VM with QEMU
-* [Emaculation](https://www.emaculation.com/) - Virtual macOS Environments
-* [Hackintosh Tools](https://rentry.org/hackintosh-tools)
-
-***
-
-# ► Hardware Tools
-
-* ↪️ **[PC Building / Shopping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_electronics)**
-* ⭐ **[PSU Calculator](https://www.newegg.com/tools/power-supply-calculator/)** - Find Compatible Power Supplies
-* [DeviceTests](https://devicetests.com/) - Multiple Device Tests
-* [NotCPUCores](https://github.com/rcmaehl/NotCPUCores), [BES](https://mion.yosei.fi/BES/), [ParkControl](https://bitsum.com/parkcontrol/), [QuickCPU](https://coderbag.com/product/quickcpu) or [Process Lasso](https://bitsum.com/) - CPU Optimizer
-* [Ozone3D](https://www.ozone3d.net/index_softwares.php), [UNIGINE Benchmarks](https://benchmark.unigine.com/) or [OCCT](https://www.ocbase.com/occt/personal) - System Benchmarking
-* [Testmem5](https://www.overclock.net/threads/memory-testing-with-testmem5-tm5-with-custom-configs.1751608/) - Memory Benchmarking
-* [MemTest](https://www.memtest.org/) or [⁠RAMMap](https://learn.microsoft.com/en-us/sysinternals/downloads/rammap) - Memory Diagnostic Tools / Usage Trackers
-* [SDIO](https://glenn.delahoy.com/snappy-driver-installer-origin), [Drivers Collection](https://driverscollection.com/), [Driverscape](https://www.driverscape.com/) or [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Update / Install Missing Drivers / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/driver-note.md)
-* [VOGONS Drivers](https://vogonsdrivers.com/) - Vintage Computer Hardware Forum / [Forums](https://www.vogons.org/)
-* [⁠PCI Lookup](https://pcilookup.com/) - PCI Vendor ID Lookup
+* ⭐ **[BCUninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller)** - 批量卸载工具
+* ⭐ **[Revo Uninstaller](https://www.revouninstaller.com/)** - 卸载工具
+* ⭐ **[CCleaner](https://www.ccleaner.com/)** - 系统清理
+* ⭐ **[BleachBit](https://www.bleachbit.org/)** - 系统清理 / [GitHub](https://github.com/bleachbit/bleachbit)
+* [Geek Uninstaller](https://geekuninstaller.com/) - 卸载工具
+* [HiBit Uninstaller](https://hibitsoft.ir/Uninstaller.html) - 卸载工具
+* [O&O AppBuster](https://www.oo-software.com/en/ooappbuster) - 卸载 Windows 应用
+* [Windows 10 Debloater](https://github.com/Sycnex/Windows10Debloater) - Windows 去臃肿脚本
+* [Privatezilla](https://github.com/builtbybel/privatezilla) - Windows 10 隐私设置
+* [O&O ShutUp10++](https://www.oo-software.com/en/shutup10) - Windows 10 隐私工具
+* [WPD](https://wpd.app/) - Windows 隐私调整
+* [Spybot Anti-Beacon](https://www.safer-networking.org/products/spybot-anti-beacon/) - Windows 10 防追踪
+* [Windows Update Blocker](https://www.sordum.org/9470/windows-update-blocker/) - 阻止 Windows 更新
+* [O&O DiskImage](https://www.oo-software.com/en/ooimage) - 磁盘镜像
+* [Macrium Reflect](https://www.macrium.com/reflectfree) - 磁盘克隆/备份
+* [EaseUS Todo Backup](https://www.easeus.com/backup-software/) - 备份软件
+* [AOMEI Backupper](https://www.aomeitech.com/backupper.html) - 备份软件
+* [Veeam Agent](https://www.veeam.com/agents/free.html) - 备份软件
 
 ***
 
-## ▷ Hardware Monitors
+## 系统信息/监控
 
-* ⭐ **[HWiNFO](https://www.hwinfo.com/)** - System Info & Monitoring / Windows
-* [Traffic Monitor](https://github.com/zhongyang219/TrafficMonitor/) - Network & Hardware Monitor / Use Lite Version / Windows
-* [CoolerControl](https://docs.coolercontrol.org/) - Cooling Device Monitor / Linux / [Discord](https://discord.gg/MbcgUFAfhV) / [GitLab](https://gitlab.com/coolercontrol/coolercontrol)
-* [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html) - Hardware Monitor / Windows
-* [BatteryMode](https://en.bmode.tarcode.ru/) - System Tray Battery Percentage / Managers / Windows / [GitHub](https://github.com/tarcode-apps/BatteryMode)
-* [fastfetch](https://github.com/fastfetch-cli/fastfetch) - Command Line System Info & Monitoring / Windows, Mac, Linux, Android
-* [⁠btop4win](https://github.com/aristocratos/btop4win) - System Info & Monitoring / Windows
-* [⁠NeoHtop](https://abdenasser.github.io/neohtop/) or [NeoHtop-cli](https://github.com/Abdenasser/neohtop-cli) - Task Manager Alt / Windows, Mac, Linux
-* [Task Manager DeLuxe](https://www.mitec.cz/tmx.html), [⁠TaskSlinger](https://taskslinger.net/), [⁠AppControl](https://www.appcontrol.com/) / [Discord](https://discord.gg/txdQZtW8AV) or [System Informer](https://systeminformer.sourceforge.io/) / [GitHub](https://github.com/winsiderss/systeminformer/) - Task Manager Alts / Windows
-* [Libre Hardware Monitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Updated Fork of Open Hardware Monitor / Windows
-* [FanControl](https://getfancontrol.com/) / [GitHub](https://github.com/Rem0o/FanControl.Releases) or [FanCtrl](https://github.com/lich426/FanCtrl) - PC Fan Controllers / Windows
-* [bottom](https://bottom.pages.dev) / [GitHub](https://github.com/ClementTsang/bottom) or [Glances](https://nicolargo.github.io/glances/) / [GitHub](https://github.com/nicolargo/glances) - Terminal Hardware Monitors / Windows, Mac, Linux
-
-***
-
-## ▷ GPU Tools
-
-* ⭐ **[NVTOP](https://github.com/Syllo/nvtop)** - GPU / Accelerator Process Monitor
-* ⭐ **[NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)** or [NVSlimmer](https://forums.guru3d.com/threads/nvslimmer-nvidia-driver-slimming-utility-continued.457504/) - NVIDIA Driver Packages
-* [Display Driver Uninstaller](https://www.wagnardsoft.com/display-driver-uninstaller-ddu-), [2](https://www.guru3d.com/download/display-driver-uninstaller-download) - Display Driver Removal Tool / [GitHub](https://github.com/Wagnard/display-drivers-uninstaller)
-* [TinyNvidiaUpdateChecker](https://github.com/ElPumpo/TinyNvidiaUpdateChecker) - NVIDIA GPU Update Checker
-* [nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) or [NvidiaProfileInspectorRevamped](https://github.com/xHybred/NvidiaProfileInspectorRevamped) - Modify / View Hidden NVIDIA Settings / [Guide](https://youtu.be/XncmeD8khKY)
-* [RadeonSoftwareSlimmer](https://github.com/GSDragoon/RadeonSoftwareSlimmer) - Debloat AMD Drivers
-* [R.ID](https://rdn-id.com/) - AMD 3rd Party Drivers / [Discord](https://discord.gg/rdnid)
-* [PresentMon](https://github.com/GameTechDev/PresentMon) - GPU Benchmarking
-* [Universal x86 Tuning Utility](https://amdaputuningutility.com/) - Laptop GPU Controller / [GitHub](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility)
-* [RyzenAdj](https://github.com/FlyGoat/RyzenAdj) - Ryzen Laptop GPU Controller
+* ⭐ **[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)** - CPU 信息
+* ⭐ **[GPU-Z](https://www.techpowerup.com/gpuz/)** - GPU 信息
+* ⭐ **[HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html)** - 硬件监控
+* ⭐ **[HWiNFO](https://www.hwinfo.com/)** - 系统信息/监控
+* ⭐ **[Speccy](https://www.ccleaner.com/speccy)** - 系统信息
+* ⭐ **[CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/)** - 硬盘健康监测
+* [AIDA64](https://www.aida64.com/) - 系统诊断
+* [Open Hardware Monitor](https://openhardwaremonitor.org/) - 开源硬件监控
+* [MSI Afterburner](https://www.msi.com/page/afterburner) - GPU 超频/监控
+* [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer) - 进程管理器
+* [Process Monitor](https://learn.microsoft.com/en-us/sysinternals/downloads/procmon) - 进程监控
+* [Autoruns](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns) - 启动项管理器
+* [Windirstat](https://windirstat.net/) - 磁盘空间分析
+* [WizTree](https://www.diskanalyzer.com/) - 磁盘空间分析
+* [TreeSize](https://www.jam-software.com/treesize_free/) - 磁盘空间分析
+* [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/) - 磁盘空间分析
+* [WinDirStat](https://windirstat.net/) - 磁盘统计查看器
+* [HD Tune](https://www.hdtune.com/) - 硬盘性能测试
+* [CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/) - 磁盘基准测试
+* [UserBenchmark](https://www.userbenchmark.com/) - PC 基准测试
+* [NirSoft](https://www.nirsoft.net/) - 系统工具集合
 
 ***
 
-## ▷ Disk Tools
+## 虚拟化
 
-* 🌐 **[Awesome Storage](https://github.com/okhosting/awesome-storage)** - File Storage Resources
-* 🌐 **[Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding)** - Data Hoarding Resources
-* ⭐ **[WizTree](https://www.diskanalyzer.com/)**, [TreeSize](https://www.jam-software.com/treesize) or [WinDirStat](https://windirstat.net/) / [GitHub](https://github.com/windirstat/windirstat/) - Disk Usage Analyzers
-* ⭐ **[CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/)** or [CCISOBench](https://ccsiobench.com/) - Disk Benchmarking Tools
-* ⭐ **[GParted](https://gparted.org/)** / [GitLab](https://gitlab.gnome.org/GNOME/gparted/), [MiniTool Partition Wizard](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites) (Search) or [AOMEI Partition Assistant](https://www.diskpart.com/) / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites) (search) - Partition Managers
-* ⭐ **[Validrive](https://www.grc.com/validrive.htm)** - Check True Storage Size of USB Devices
-* [TrueNAS](https://www.truenas.com/) - Storage System
-* [QDirStat](https://github.com/shundhammer/qdirstat) - Directory Statistics
-* [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/crystaldiskinfo.md), [Scrutiny](https://github.com/AnalogJ/scrutiny), [GSmartControl](https://gsmartcontrol.shaduri.dev/) / [GitHub](https://github.com/ashaduri/gsmartcontrol) or [smartmontools](https://www.smartmontools.org/) - Drive Diagnostics
-* [Macrorit Partition Expert](https://macrorit.com/partition-magic-manager/partition-expert-download.html) - Disk Usage Analyzer
-* [Diskovery](https://diskovery.io/) - Disk Usage Analyzer
-* [Gdu](https://github.com/dundee/gdu) or [dua](https://lib.rs/crates/dua-cli) - Disk Usage Analyzer with Parallel Processing
-* [Erdtree](https://github.com/solidiquis/erdtree) - Cross-Platform Disk Usage Analyzer
-* [PC Manager](https://pcmanager.microsoft.com/) - Disk Managers / Cleanup
-* [Air Live Drive](https://www.airlivedrive.com/en/) - Mount Cloud Drives as Local Disks
-* [SFTPDrive](https://www.callback.com/sftpdrive) - Mount SFTP Servers as Local Disks
+* ⭐ **[VMware Workstation Player](https://www.vmware.com/products/workstation-player.html)** - 免费虚拟机
+* ⭐ **[VirtualBox](https://www.virtualbox.org/)** - 开源虚拟机
+* [Hyper-V](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/) - Windows 虚拟化
+* [QEMU](https://www.qemu.org/) - 开源模拟器
+* [KVM](https://www.linux-kvm.org/) - Linux 内核虚拟机
+* [Docker](https://www.docker.com/) - 容器化平台
+* [Proxmox](https://www.proxmox.com/) - 虚拟化平台
+* [XCP-ng](https://xcp-ng.org/) - 虚拟化平台
+* [Citrix Hypervisor](https://www.citrix.com/products/citrix-hypervisor/) - 虚拟化平台
+* [Vagrant](https://www.vagrantup.com/) - 开发环境管理
+* [Portainer](https://www.portainer.io/) - Docker 管理界面
 
 ***
 
-## ▷ Monitor Tools
+## 媒体播放器
 
-* ⭐ **[DisplayFusion](https://www.displayfusion.com/)** or [Dual Monitor Tool](https://sourceforge.net/projects/dualmonitortool/) - Dual Monitor Tools
-* ⭐ **[f.lux](https://justgetflux.com/)**, [LightBulb](https://github.com/Tyrrrz/LightBulb) or [ScreenTemperature](https://github.com/massaiTHEdog1/ScreenTemperature) - Auto-Adjust Display Color / Temperature
-* ⭐ **[Monitorian](https://github.com/emoacht/Monitorian)**, **[Twinkle Tray](https://twinkletray.com/)** / [GitHub](https://github.com/xanderfrangos/twinkle-tray) or [Dimmer](https://www.nelsonpires.com/software/dimmer) - Adjust Monitor Brightness
-* [EIZO](https://www.eizo.be/monitor-test/), [Monitor](https://www.monitortests.com/) or [LCDTech](https://lcdtech.info/en/tests/) - Monitor Performance Tests
-* [TestUFO](https://www.testufo.com/) - Monitor Framerate Test
-* [LittleBigMouse](https://github.com/mgth/LittleBigMouse) - DPI Test
-* [Scalizer](https://github.com/wonmor/Scalizer-Windows) - Auto DPI Scaling / [YouTube](https://youtu.be/f_3XWlmyat4)
-* [Display Calc](https://www.tools.rodrigopolo.com/DisplayCalc/) - Display Distance / Dimension Calculator
-* [Multi-Monitor Calculator](https://multimonitorcalculator.com/) - Dual-Monitor Setup Planning / Tests
-* [Wide Gamut](https://www.wide-gamut.com/) - Color Compatibility Test
-* [⁠novideo_srgb](https://github.com/ledoge/novideo_srgb) - Restrict NVIDIA GPUs to sRGB / Prevent Oversaturation
-* [Dead.Pixel](https://lcdtech.info/en/tests/dead.pixel.htm) - Dead Pixel Test
-* [JScreenFix](https://www.jscreenfix.com/) - Repair Stuck Pixels
-* [CenterOfMyScreen](https://centerofmyscreen.com/) - Find Center of Monitor
-* [ShowDesktopOneMonitor](https://github.com/ruzrobert/ShowDesktopOneMonitor) - Show Desktop for Only One Monitor
-* [⁠Virtual Display Driver](https://github.com/VirtualDrivers/Virtual-Display-Driver) - Virtual Display Driver
-* [Deskreen](https://deskreen.com/) / [GitHub](https://github.com/pavlobu/deskreen) or [SpaceDesk](https://www.spacedesk.net/) - Use Mobile Device as Monitor
-* [ShaderGlass](https://github.com/mausimus/ShaderGlass) - Custom Screen Shaders
-* [DaltonLens](https://daltonlens.org/) or [Toptal](https://www.toptal.com/designers/colorfilter) - Color Blindness Filters
-* [NVDA](https://www.nvaccess.org/download/) - Screen Reader for Blind Users / [GitHub](https://github.com/nvaccess/nvda)
+* ⭐ **[VLC](https://www.videolan.org/vlc/)** - 全能媒体播放器
+* ⭐ **[MPC-HC](https://github.com/clsid2/mpc-hc)** - 轻量级播放器 / [增强](https://github.com/riley0122/mpc-hc-maximum)
+* ⭐ **[PotPlayer](https://potplayer.daum.net/)** - 功能丰富的播放器
+* ⭐ **[MPV](https://mpv.io/)** / [指南](https://rentry.co/mpv_guide) / [配置](https://github.com/mpv-player/mpv/wiki) / [网页版](https://github.com/nickprotte/mpv-web) - 极简播放器
+* ⭐ **[Foobar2000](https://www.foobar2000.org/)** - 音频播放器
+* [IINA](https://iina.io/) - macOS 现代播放器
+* [SMPlayer](https://www.smplayer.info/) - 带记忆功能的播放器
+* [Kodi](https://kodi.tv/) - 家庭影院软件
+* [Plex](https://www.plex.tv/) - 媒体服务器
+* [Jellyfin](https://jellyfin.org/) - 开源媒体服务器
+* [Emby](https://emby.media/) - 媒体服务器
+* [Stremio](https://www.stremio.com/) - 流媒体中心
 
 ***
 
-## ▷ Mouse / Keyboard
+## 实用工具
 
-* 🌐 **[r/MechanicalKeyboards Wiki](https://www.reddit.com/r/MechanicalKeyboards/wiki/index)** - Mechanical Keyboard Resources
-* 🌐 **[⁠Keebfolio](https://keebfolio.netlify.app/)** - Mechanical Keyboard Project Index / [GitHub](https://github.com/Keycapsss/awesome-mechanical-keyboard)
-* ⭐ **[KeyCombiner](https://keycombiner.com/)** or [Use The Keyboard](https://usethekeyboard.com/) - Hotkey Cheatsheets
-* ⭐ **[VIA](https://www.caniusevia.com/)** / [GitHub](https://github.com/the-via/app), [SharpKeys](https://github.com/randyrants/sharpkeys/), [Kanata](https://github.com/jtroo/kanata), [keymapper](https://github.com/houmain/keymapper), [Mahou](https://gitea.com/BladeMight/Mahou) - Custom Keyboard Layouts / Remapping
-* ⭐ **[geekhack](https://geekhack.org/)** or [KeebTalk](https://www.keebtalk.com/) - Keyboard Forums
-* [Ergogen](https://ergogen.xyz/) - Design / Make Ergonomic Keyboards
-* [⁠Keyboard Tester](https://keyboardtest.io/) or [Key Test](https://en.key-test.ru/) - Keyboard Testers
-* [HotkeyP](https://sourceforge.net/projects/hotkeyp/) or [CheatKeys](https://cheatkeys.com/cheatsheet) - Hotkey Remapping
-* [⁠Mouse Tester](https://mousetester.io/) - Mouse Testing Tools 
-* [X-Mouse Button Control](https://www.highrez.co.uk/downloads/XMouseButtonControl.htm) - Re-Map Mouse Buttons / Scroll Wheel
-* [MoveMouse](https://github.com/sw3103/movemouse/) or [MouseJiggler](https://github.com/arkane-systems/mousejiggler) - Simulate User Activity
-* [Raw Accel](https://github.com/RawAccelOfficial/rawaccel) - Mouse Acceleration Tool
-* [StrokeIt](https://www.tcbmi.com/strokeit/) - Mouse Gestures
-* [Espanso](https://espanso.org/) - Typing Shortcuts / [GitHub](https://github.com/espanso/espanso)
-* [win-vind](https://pit-ray.github.io/win-vind/) - Vim Style Keybindings for Windows
-* [Vial](https://get.vial.today/) - Custom Keyboard Config Tool
-* [KeyViz](https://github.com/mulaRahul/keyviz) - Keystroke Visualizer
-* [WhatPulse](https://whatpulse.org/) - Mouse / Keyboard Usage Analyzer
-* [Kmonad](https://github.com/kmonad/kmonad) - Keyboard Manager
-* [Deskhop](https://github.com/hrvach/deskhop) - Quickly Switch Devices between Computers
-* [⁠Deskflow](https://github.com/deskflow/deskflow) - Mouse  + Keyboard Sharing
-* [Is this good?](https://wiki.keyboard.gay/) - Custom Keyboard Guides
-* [DreyMaR's](https://dreymar.colemak.org/) - Keyboard Tips and Resources
-* [KDB](http://xahlee.info/kbd/keyboarding.html) - Mechanical Keyboard Building Guides
-* [Cosmos](https://ryanis.cool/cosmos/) - Create Custom Keyboards
-* [Keyboard Simulator](https://keyboardsimulator.xyz/) - Design & Test Virtual Keyboards
-
-***
-
-## ▷ System Audio
-
-* ⭐ **[Equalizer APO](https://sourceforge.net/projects/equalizerapo/)**, [2](https://equalizerapo.com/) / [GUI](https://sourceforge.net/projects/peace-equalizer-apo-extension/) / [7.1 Surround](https://hesuvi.net/) / [Dolby Access](https://apps.microsoft.com/detail/9n0866fs04w8) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/dolby-access-atmos-note.md) or [FXSound](https://www.fxsound.com/) - Audio Equalizers
-* ⭐ **[AutoEQ](https://autoeq.app/)** or [⁠PEQdB](https://peqdb.com/) - Create Custom Equalizer Presets / [Discord](https://discord.gg/B7e8cM76PM)
-* [⁠IEM EQ Guide](https://iem-eq-guide.pages.dev/) - In-Ear Monitor Equalizer Guide
-* [VoiceMeeter](https://vb-audio.com/Voicemeeter/index.htm) - Audio Mixers / Multi-Device Playback / [Banana](https://vb-audio.com/Voicemeeter/banana.htm)
-* [SteelSeries Sonar](https://steelseries.com/gg/sonar) or [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise Cancelling Software
-* [SoundSwitch](https://soundswitch.aaflalo.me/) - Switch Audio Device with Hotkey / [GitHub](https://github.com/Belphemur/SoundSwitch)
-* [Audiocheck](https://www.audiocheck.net/) - Audio Tests
-* [SonyHeadphonesClient](https://github.com/mos9527/SonyHeadphonesClient) - Sony Headphones Clone
-* [VB-Audio ](https://vb-audio.com/Cable/) - Virtual Audio Cable / Select Download on Homepage / Donation is Optional
-* [LowAudioLatency](https://github.com/spddl/LowAudioLatency/) - Reduce Audio Latency
-* [DigitalFeed](https://abx.digitalfeed.net/) - Lossless Audio Sound System Test
-* [Online Mic Test](https://onlinemictest.com/) or [Check Mic](https://webcammictest.com/check-mic.html) - Mic Test
-* [Sound Meter](https://mybrowseraddon.com/sound-meter.html) or [REW](https://www.roomeqwizard.com) - Measure Surrounding Sound Level
-* [AirPods Dirty Secret](https://docs.kenp.io/) - AirPods Repair Directory
+* ⭐ **[OBS Studio](https://obsproject.com/)** - 录屏/直播
+* ⭐ **[ShareX](https://getsharex.com/)** - 截图/录屏
+* ⭐ **[Greenshot](https://getgreenshot.org/)** - 截图工具
+* ⭐ **[Audacity](https://www.audacityteam.org/)** - 音频编辑
+* ⭐ **[Notepad++](https://notepad-plus-plus.org/)** - 文本编辑器
+* ⭐ **[Visual Studio Code](https://code.visualstudio.com/)** - 代码编辑器
+* [Flameshot](https://flameshot.org/) - 截图工具
+* [ScreenToGif](https://www.screentogif.com/) - 屏幕录制转 GIF
+* [PuloversMacroCreator](https://www.macrocreator.com/) - 宏录制
+* [AutoHotkey](https://www.autohotkey.com/) - 自动化脚本
+* [PowerToys](https://github.com/microsoft/PowerToys) - Windows 实用工具
+* [Ninite](https://ninite.com/) - 批量安装应用
+* [Chocolatey](https://chocolatey.org/) - 包管理器
+* [Scoop](https://scoop.sh/) - 命令行包管理器
+* [Winget](https://github.com/microsoft/winget-cli) - Windows 包管理器
+* [Rufus](https://rufus.ie/) - USB 启动盘制作
+* [BalenaEtcher](https://www.balena.io/etcher/) - USB 启动盘制作
+* [Ventoy](https://www.ventoy.net/) - 多系统启动盘
+* [HWiNFO](https://www.hwinfo.com/) - 硬件信息
+* [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - CPU 信息
+* [GPU-Z](https://www.techpowerup.com/gpuz/) - 显卡信息
+* [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) - 硬盘信息
+* [HD Tune](https://www.hdtune.com/) - 硬盘测试
+* [MemTest86](https://www.memtest86.com/) - 内存测试
+* [Prime95](https://www.mersenne.org/download/) - 稳定性测试
+* [FurMark](https://geeks3d.com/furmark/) - GPU 压力测试
+* [OCCT](https://www.ocbase.com/) - 系统稳定性测试
+* [TechPowerUp](https://www.techpowerup.com/download/) - 系统工具集合
 
 ***
 
-# ► Windows ISOs
+## 网络工具
 
-* ⭐ **[Genuine Installation Media](https://massgrave.dev/genuine-installation-media)** - Windows ISOs / [Clean Install Guide](https://massgrave.dev/clean_install_windows)
-* ⭐ **[Windows Install / Debloat Guide](https://wispydocs.pages.dev/windows/)**
-* [files.rg-adguard](https://files.rg-adguard.net/) or [MVS dump](https://awuctl.github.io/mvs/) - Verify ISO Legitimacy
-* [OS.click](https://os.click/en) - Windows ISOs
-* [MyDigitalLife](https://forums.mydigitallife.net/) - Windows ISOs / Forums
-* [Microsoft SD](https://www.microsoft.com/en-us/software-download/) - Windows ISOs / Official Site
-* [Old School OS](https://www.oldschoolos.com/), [OS Vault](https://osvault.weebly.com/directory.html), [VETUSWARE](https://vetusware.com/) or [WinWorldPC](https://winworldpc.com/) - Oldschool ISOs
-* [Fido](https://github.com/pbatard/Fido) - ISO Powershell Script
-* [NetBoot](https://netboot.xyz/) - iPXE Network Boot
-* [⁠MrChromebox](https://docs.mrchromebox.tech/), [Chrultrabook](https://docs.chrultrabook.com/) or [CoolStar](https://coolstar.org/chromebook/windows-install.html) - Install Windows / Linux on Chromebook
-
-***
-
-## ▷ USB / Bootloaders
-
-* ⭐ **[Rufus](https://rufus.ie/)** - Create Bootable USB Drives / [GitHub](https://github.com/pbatard/rufus)
-* [MediaCreationTool](https://github.com/AveYo/MediaCreationTool.bat) - Windows Deployment Automation
-* [USBTreeView](https://www.uwe-sieber.de/usbtreeview_e.html) - USB Device Tree Viewer
-* [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/) - Bootloaders / [Config](https://mackie100projects.altervista.org/)
-* [EtchDroid](https://etchdroid.app/) / [GitHub](https://github.com/etchdroid/etchdroid) or [⁠Ventoid](https://github.com/GPLaider/Ventoid) - Create Bootable USB Drives via Android
-* [⁠Grub2Win](https://sourceforge.net/projects/grub2win/) - Windows > Linux Dual-Booting Tool 
-
-***
-
-## ▷ Windows Activation
-
-* ⭐ **[MAS](https://rentry.co/FMHYB64#mas)** - Windows & Office Activation / [Discord](https://discord.gg/gjJEfq7ux8)
-* [OfficeRTool](https://rentry.co/FMHYB64#officertool-project) - Office Activation / Offline
+* ⭐ **[Wireshark](https://www.wireshark.org/)** - 网络协议分析器
+* ⭐ **[Nmap](https://nmap.org/)** - 网络扫描器
+* [Advanced IP Scanner](https://www.advanced-ip-scanner.com/) - IP 扫描
+* [Angry IP Scanner](https://angryip.org/) - IP 扫描
+* [Netcat](https://netcat.sourceforge.net/) - 网络调试工具
+* [PuTTY](https://www.putty.org/) - SSH 客户端
+* [WinSCP](https://winscp.net/) - SFTP 客户端
+* [FileZilla](https://filezilla-project.org/) - FTP 客户端
+* [Bitvise SSH Client](https://www.bitvise.com/ssh-client) - SSH 客户端
+* [OpenVPN](https://openvpn.net/) - VPN 客户端
+* [WireGuard](https://www.wireguard.com/) - VPN 工具
+* [Proxifier](https://www.proxifier.com/) - 代理客户端
+* [Fiddler](https://www.telerik.com/fiddler) - 网络调试代理
+* [Burp Suite](https://portswigger.net/burp) - Web 安全测试
+* [Postman](https://www.postman.com/) - API 测试工具
+* [Insomnia](https://insomnia.rest/) - API 客户端
+* [curl](https://curl.se/) - 命令行 HTTP 工具
+* [wget](https://www.gnu.org/software/wget/) - 命令行下载工具
+* [NetLimiter](https://www.netlimiter.com/) - 网络流量控制
+* [GlassWire](https://www.glasswire.com/) - 网络监控
+* [TCPView](https://learn.microsoft.com/en-us/sysinternals/downloads/tcpview) - TCP 连接查看
 
 ***
 
-## ▷ Windows Updates
+## 远程桌面
 
-* ⭐ **[Windows 10 After EOL](https://massgrave.dev/windows10_eol)** - Receive Windows Updates After Win10's End-Of-Life
-* ⭐ **[ChangeWindows](https://www.changewindows.org/timeline)** - Latest Windows Update Info
-* [VCRedist](https://github.com/abbodi1406/vcredist), [2](https://gitlab.com/stdout12/vcredist), [3](https://codeberg.org/stdout12/vcredist) - AIO Repack for Microsoft Visual C++ Redists
-* [LegacyUpdate](https://legacyupdate.net/) - Fix Windows Updates for Legacy Editions / [Discord](https://discord.com/invite/Y9rbXDtDnr) / [GitHub](https://github.com/LegacyUpdate/LegacyUpdate)
-* [WURefresh](https://github.com/AveYo/MediaCreationTool.bat/blob/main/bypass11/windows_update_refresh.bat) - Reset Windows Update Components
-* [UUP Dump](https://uupdump.net/) or [Microsoft Update Catalog](https://www.catalog.update.microsoft.com/) - Download Previous Windows Updates
-* [PC Health Check](https://aka.ms/GetPCHealthCheckApp) or [WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Identify why your PC isn't Ready for Windows 11
-* [FlashMyBoard](https://flashmyboard.com/) - Receive Motherboard Update Notifications
-
-***
-
-## ▷ Windows Repair
-
-* [MagNumDB](https://www.magnumdb.com/), [ErrorLookup](https://github.com/henrypp/errorlookup) or [Microsoft Error Lookup](https://learn.microsoft.com/en-us/windows/win32/debug/system-error-code-lookup-tool) - Windows Debugging Tools
-* [Troubleshooting Flowcharts](https://www.fonerbooks.com/pcrepair.htm) - PC Troubleshooting Flowcharts
-* [Medicat](https://medicatusb.com/) / [GitHub](https://github.com/mon5termatt/medicat_installer), [⁠SergeiStrelec](https://sergeistrelec.name/), [PhoenixPE](https://github.com/PhoenixPE/PhoenixPE) or [Hiren's BootCD PE](https://www.hirensbootcd.org/) - WinPE / Recovery Toolkits
-* [r/TechSupport](https://www.reddit.com/r/techsupport/) / [Wiki](https://rtech.support/) - Tech Support Subreddit / [Discord](https://discord.gg/2EDwzWa)
-* [Hardforum](https://hardforum.com/), [TechGuy](https://www.techguy.org/), [Eleven Forums](https://www.elevenforum.com/) or [Ten Forums](https://www.tenforums.com/) - Tech Support Forums
+* ⭐ **[TeamViewer](https://www.teamviewer.com/)** - 远程控制
+* ⭐ **[AnyDesk](https://anydesk.com/)** - 远程桌面
+* [Chrome Remote Desktop](https://remotedesktop.google.com/) - 远程桌面
+* [RustDesk](https://rustdesk.com/) - 开源远程桌面
+* [Parsec](https://parsec.app/) - 游戏远程桌面
+* [Moonlight](https://moonlight-stream.org/) - 游戏串流
+* [Sunshine](https://github.com/LizardByte/Sunshine) - 游戏串流服务器
+* [TightVNC](https://www.tightvnc.com/) - VNC 客户端
+* [RealVNC](https://www.realvnc.com/) - VNC 客户端
+* [NoMachine](https://www.nomachine.com/) - 远程桌面
+* [Splashtop](https://www.splashtop.com/) - 远程桌面
+* [Remote Utilities](https://www.remoteutilities.com/) - 远程控制
 
 ***
 
-# ► Customization
+## 下载管理器
 
-* 🌐 **[Windows-Ricing](https://github.com/winthemers/wiki)**, [Frutiger Aero Archive](https://frutigeraeroarchive.org/) or [Heliohost Guide](https://ninjasr.varesia.com/w/lb/windows) - Windows Customization Resources
-* ⭐ **[Rainmeter](https://www.rainmeter.net/)** / [Discord](https://discord.com/invite/rainmeter) or [⁠Seelen UI](https://github.com/eythaann/Seelen-UI) / [Discord](https://discord.gg/ABfASx5ZAJ) - Desktop Customization Environments
-* ⭐ **[OpenRGB](https://openrgb.org/)**, **[WLED](https://kno.wled.ge/)**, [Aurora](https://www.project-aurora.com/), [LiquidCTL](https://github.com/liquidctl/liquidctl), [Artemis](https://artemis-rgb.com/) or [FireLight](https://github.com/nicolasdeory/firelight) - RGB Lighting Control
-* ⭐ **[VSThemes](https://vsthemes.org/en/)**, [WindowsCustomization](https://windowscustomization.com/) or [7Themes](https://7themes.su/) - Theme Indexes
-* Styled Themes - [Anime](https://winmoes.com/) / [Modern Style](https://www.vinstartheme.com/) / [macOS Style](https://redd.it/pd5ha6) / [Old School Style](https://winclassic.boards.net/), [2](https://forum.spacehey.com/topic?id=94545)
-* [VirtualCustoms](https://virtualcustoms.net/), [⁠WinClassic](https://winclassic.net/) or [winthemers](https://discord.com/invite/8FFWAqdtc4) - Customization Communities
-* [Desktops](https://deskto.ps/) - Customization Showcases
-* [⁠ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - Win 10 Style Customization App for Win 11
-* [SecureUxTheme](https://github.com/namazso/SecureUxTheme) or [UltraUXThemePatcher](https://mhoefs.eu/software_uxtheme.php?ref=syssel&lang=en) - UX Patcher
-* [MechvibesDX](https://github.com/hainguyents13/mechvibes-dx) or [MechaKeys](https://mechakeys.robolab.io/) - Keyboard Sound Effects
-* [ElectricSheep](https://electricsheep.org/) or [After Dark CSS](https://www.bryanbraun.com/after-dark-css/) - Screensavers
-* [⁠Wallpapers Clan](https://wallpapers-clan.com/), [FolderMarker](https://foldermarker.com/), [Flaired Folder](https://flaired-folders.vercel.app/) or [CustomFolder](https://www.gdzsoft.com/) - Custom Folder Icons
-* [Recycle Bin Themes](https://github.com/sdushantha/recycle-bin-themes) - Custom Recycle Bin Icons
-* [msstyleEditor](https://github.com/nptr/msstyleEditor) - Visual Style Editor
-* [Taskbar Tweaker](https://tweaker.ramensoftware.com/), [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) / [Discord](https://discord.gg/translucenttb), [NiceTaskbar](https://www.microsoft.com/en-us/p/nicetaskbar/9pkl2s93xwb5) - Taskbar Customization / [Old School Style](https://github.com/dremin/RetroBar)
-* [⁠Sweezy Cursors](https://sweezy-cursors.com/) - Custom Animated Cursors / Requires no Extension 
-* [AccentColorizer](https://github.com/krlvm/AccentColorizer) - Accent Color Customization
-* [BeautySearch](https://github.com/krlvm/BeautySearch) - Search Customization
-* [ElevenClock](https://www.marticliment.com/elevenclock/) - Clock Customization
-* [HackBGRT](https://github.com/Metabolix/HackBGRT) - Boot Logo Changer
-* [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) - File Explorer Effects
-* [QTTabBar](https://github.com/indiff/qttabbar) - Windows File Explorer Enhancement
-* [WinSetView](https://lesferch.github.io/WinSetView/) - Globally Set Explorer Folder Views / [GitHub](https://github.com/LesFerch/WinSetView)
-* [MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) - Title Bar Effects
-* [FluentFlyout](https://fluentflyout.com/) / [GitHub](https://github.com/unchihugo/FluentFlyout) (use github) or [ModernFlyouts](https://modernflyouts-community.github.io) - Modernized Flyout Menus
-* [Alternative Windows Shells Wiki](https://wikipedia.org/wiki/List_of_alternative_shells_for_Windows) - Alt Windows Shells
-* [Aerial](https://github.com/OrangeJedi/Aerial) - Apple TV Screensaver
-* [ExcelDarkThemeFix](https://github.com/matafokka/ExcelDarkThemeFix) - Fix Excel on Themed Windows
-* [MacType](https://www.mactype.net/) - Use Mac Fonts on Windows / [GitHub](https://github.com/snowie2000/mactype)
+* ⭐ **[Internet Download Manager](https://www.internetdownloadmanager.com/)** - 下载管理器
+* ⭐ **[JDownloader](https://jdownloader.org/)** - 批量下载工具
+* ⭐ **[qBittorrent](https://www.qbittorrent.org/)** - 种子下载器
+* ⭐ **[Transmission](https://transmissionbt.com/)** - 轻量级种子下载器
+* ⭐ **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** - 视频下载器
+* [Free Download Manager](https://www.freedownloadmanager.org/) - 下载管理器
+* [Motrix](https://motrix.app/) - 全能下载工具
+* [uGet](https://ugetdm.com/) - 下载管理器
+* [Persepolis](https://persepolisdm.github.io/) - 下载管理器
+* [XDM](https://xtremedownloadmanager.com/) - 下载加速器
+* [EagleGet](https://www.eagleget.com/) - 下载管理器
+* [Deluge](https://deluge-torrent.org/) - 种子下载器
+* [BitTorrent](https://www.bittorrent.com/) - 种子下载器
+* [uTorrent](https://www.utorrent.com/) - 种子下载器 (注意广告)
+* [Tixati](https://www.tixati.com/) - 种子下载器
+* [Aria2](https://aria2.github.io/) - 命令行下载工具
+* [uGet](https://ugetdm.com/) - 下载管理器
+* [DownThemAll](https://www.downthemall.org/) - 浏览器下载管理器
 
 ***
 
-## ▷ App Themes
+## 系统工具
 
-* ⭐ **[Catppuccin](https://catppuccin.com/)** - Custom App Theme / [Discord](https://discord.gg/r6Mdz5dpFc)
-* ⭐ **[Dracula](https://draculatheme.com/)** - Custom App Theme / [Discord](https://discord.com/invite/yDcFsrYuq9)
-* [Rosé Pine](https://rosepinetheme.com/) - Custom App Theme / [Discord](https://discord.gg/r6wf35KVJW)
-* [Aura Theme](https://github.com/daltonmenezes/aura-theme) - Custom App Theme
-* [theme.park](https://theme-park.dev/) - Custom App Theme
-* [Solarized](https://ethanschoonover.com/solarized/) - Custom App Theme / [GitHub](https://github.com/altercation/solarized)
-* [gruvbox](https://github.com/morhetz/gruvbox) - Custom App Theme / [GitHub](https://github.com/morhetz/gruvbox-contrib)
-* [⁠Flexoki](https://stephango.com/flexoki/) - Custom App Theme / [GitHub](https://github.com/kepano/flexoki)
-* [Totally Awesome List](https://forum.spacehey.com/topic?id=94545) - Old School App Themes
-* [Pokemon Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokémon Terminal Themes
-* [Traffic Monitor](https://github.com/zhongyang219/TrafficMonitor/) - System Monitor Themes
-* [terminal.sexy](https://terminal.sexy/), [TerminalSplash](https://terminalsplash.com/) or [WindowsTerminalThemes](https://windowsterminalthemes.dev/) - Terminal Themes
-
-***
-
-## ▷ Wallpapers
-
-* 🌐 **[WallSync](https://roigoatzzz.netlify.app/)**, [2](https://wallsync.pages.dev/) - Wallpaper Site Index / [GitHub](https://github.com/leroiduflow/Wallsync)
-* ⭐ **[wallhaven.cc](https://wallhaven.cc/)** - Search Wallpapers / Some NSFW / [Downloader](https://github.com/eramdam/WallbaseDirectDownloader)
-* ⭐ **[Wallpaper Abyss](https://wall.alphacoders.com/)** - Search Wallpapers
-* ⭐ **[⁠WallWidgy](https://www.wallwidgy.app/)** / [GitHub](https://github.com/not-ayan/wallwidgy), [Simple Desktops](https://simpledesktops.com/) or [Minimalistic Wallpaper](https://minimalistic-wallpaper.demolab.com/) - Minimalist Wallpapers
-* ⭐ **[Studio Ghibli Wallpapers](https://www.ghibli.jp/info/013772)** - Studio Ghibli Wallpapers
-* ⭐ **[LWP](https://github.com/jszczerbinsky/lwp)**, [DesktopHut](https://www.desktophut.com/) / [Discord](https://discord.com/invite/QzgnQtJdfs), [r/LivingBackgrounds](https://reddit.com/r/LivingBackgrounds), [WALLegend](https://wallegend.net/en/) or [MoeWalls](https://moewalls.com/) - Live Wallpapers
-* [WallpaperCave](https://wallpapercave.com/) - Search Wallpapers
-* [⁠WallsCloud](https://wallscloud.net/en/) - Search Wallpapers
-* [WallpapersCraft](https://wallpaperscraft.com/) - Search Wallpapers
-* [⁠WallBrowser](https://wallbrowser.com/) - Search Wallpapers
-* [VSThemes](https://vsthemes.org/en/) - Search Wallpapers
-* [⁠Wallpapers Clan](https://wallpapers-clan.com/) - Search Wallpapers
-* [r/Wallpaper](https://www.reddit.com/r/wallpaper/) - Wallpapers Subreddit
-* [r/WallpaperRequests](https://www.reddit.com/r/WallpaperRequests/) - Wallpaper Request Subreddit
-* [Frutiger Aero Archive](https://frutigeraeroarchive.org/) - 2000s Style Wallpapers
-* [Basic Apple Guy](https://basicappleguy.com/basicappleblog/category/Wallpaper) / [2](https://basicappleguy.com/haberdashery/category/Wallpaper) - Apple Wallpaper Interpretations
-* [⁠Kawaii Hoshi](https://kawaiihoshi.com/) - Cute Wallpapers
-* [DualMonitorBackgrounds](https://www.dualmonitorbackgrounds.com/) - Dual Monitor Wallpapers
-* [CoolBackgrounds](https://coolbackgrounds.io/) - Customizable Wallpapers
-* [Aesthetic Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers) - Aesthetic Wallpapers
-* [Xbox Wallpapers](https://www.xbox.com/en-us/wallpapers/) - Xbox Wallpapers
-* [Anime Pictures](https://anime-pictures.net/), [WallpaperWaifu](https://wallpaperwaifu.com/) or [MyLiveWallpapers](https://mylivewallpapers.com/) - Anime Wallpapers
-* [WallsPic](https://wallspic.com/), [WallpaperFlare](https://www.wallpaperflare.com/), [HDQwalls](https://hdqwalls.com/) or [UHD Wallpaper](https://www.uhdpaper.com/) - Misc Wallpapers
-* [G_Walls](https://t.me/G_Walls) - Telegram Wallpaper Channels
-* [Engine Workshop File](https://discord.com/invite/KMbdezWjKY) - Wallpaper Engine Wallpapers
+* [Sysinternals Suite](https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite) - 系统工具集
+* [Process Hacker](https://processhacker.sourceforge.io/) - 进程查看器
+* [System Informer](https://systeminformer.sourceforge.io/) - 进程查看器
+* [TCPView](https://learn.microsoft.com/en-us/sysinternals/downloads/tcpview) - TCP 连接查看
+* [Handle](https://learn.microsoft.com/en-us/sysinternals/downloads/handle) - 句柄查看
+* [Process Monitor](https://learn.microsoft.com/en-us/sysinternals/downloads/procmon) - 进程监控
+* [Regedit](https://learn.microsoft.com/en-us/sysinternals/downloads/regdelnull) - 注册表工具
+* [Windows Repair](https://www.tweaking.com/content/page/windows_repair_all_in_one.html) - 系统修复
+* [Dism++](https://www.chuyu.me/) - 系统优化
+* [NTLite](https://www.ntlite.com/) - Windows 定制
+* [MSMG Toolkit](https://msmgtoolkit.in/) - Windows 定制
+* [Windows ISO Downloader](https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool) - ISO 下载
+* [Rufus](https://rufus.ie/) - USB 启动盘制作
+* [Ventoy](https://www.ventoy.net/) - 多系统启动盘
+* [Etcher](https://www.balena.io/etcher/) - USB 启动盘制作
+* [Hiren's Boot CD](https://www.hirensbootcd.org/) - 系统修复光盘
+* [Ultimate Boot CD](https://www.ultimatebootcd.com/) - 系统修复光盘
+* [System Rescue CD](https://www.system-rescue.org/) - 系统修复工具
+* [Trinity Rescue Kit](https://trinityhome.org/) - 系统修复工具
 
 ***
 
-## ▷ Wallpaper Tools
+## 办公套件
 
-* ⭐ **[Wallpaper Engine](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games/#wiki_.25BA_download_games)** / [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/) (search) - Wallpaper / Live Wallpaper Manager
-* ⭐ **Wallpaper Engine Tools** - [PKG to Zip](https://github.com/TheRioMiner/Wallpaper-Engine-Pkg-to-Zip) / [Collections](https://www.wallpaperengine.space/collections), [2](https://steamcommunity.com/sharedfiles/filedetails/?id=2801058904)
-* ⭐ **[Lively](https://www.rocksdanister.com/lively/)** / [GitHub](https://github.com/rocksdanister/lively) or [ScreenPlay](https://screen-play.app/) - Live Wallpaper Manager
-* [backiee](https://apps.microsoft.com/store/detail/backiee-wallpaper-studio-10/9WZDNCRFHZCD) - Wallpaper Manager
-* [wallhaven-desktop](https://github.com/luisflorido/wallhaven-desktop) - Wallhaven Wallpaper Manager
-* [SuperPaper](https://github.com/hhannine/superpaper) - Cross-Platform Multi-Monitor Wallpaper Manager
-* [Background Switcher](https://johnsad.ventures/software/backgroundswitcher/), [WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) or [Dynamic Theme](https://apps.microsoft.com/detail/9nblggh1zbkw) - Auto Change Wallpaper
-* [AutoWall](https://github.com/SegoCode/AutoWall) - Turn Videos / GIFs to Live Wallpapers
-* [Awesome Wallpaper](https://awesome-wallpaper.com/) - Show System Information on Wallpaper
-* [GoWall](https://github.com/Achno/gowall) - Wallpaper Color Scheme Converter
+* ⭐ **[LibreOffice](https://www.libreoffice.org/)** - 开源办公套件
+* ⭐ **[Microsoft Office](https://www.microsoft.com/en-us/microsoft-365)** - 办公套件
+* [Apache OpenOffice](https://www.openoffice.org/) - 开源办公套件
+* [FreeOffice](https://www.freeoffice.com/) - 免费办公套件
+* [OnlyOffice](https://www.onlyoffice.com/) - 开源办公套件
+* [WPS Office](https://www.wps.com/) - 办公套件
+* [Google Workspace](https://workspace.google.com/) - 在线办公套件
+* [Zoho Workplace](https://www.zoho.com/workplace/) - 在线办公套件
+
+***
+
+## 系统恢复
+
+* ⭐ **[Recuva](https://www.ccleaner.com/recuva)** - 文件恢复
+* ⭐ **[TestDisk](https://www.cgsecurity.org/wiki/TestDisk)** - 分区恢复
+* ⭐ **[PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec)** - 文件恢复
+* [R-Studio](https://www.r-studio.com/) - 数据恢复
+* [DMDE](https://dmde.com/) - 磁盘编辑/恢复
+* [GetDataBack](https://www.runtime.org/data-recovery-software.htm) - 数据恢复
+* [EaseUS Data Recovery](https://www.easeus.com/datarecovery/) - 数据恢复
+* [Stellar Data Recovery](https://www.stellarinfo.com/data-recovery.php) - 数据恢复
+* [MiniTool Power Data Recovery](https://www.minitool.com/data-recovery/) - 数据恢复
+* [Wise Data Recovery](https://www.wisecleaner.com/wise-data-recovery.html) - 数据恢复
+* [Glary Undelete](https://www.glarysoft.com/glary-undelete/) - 文件恢复
+* [Puran File Recovery](https://www.puransoftware.com/File-Recovery.html) - 文件恢复
+* [Undelete 360](https://www.undelete360.com/) - 文件恢复
+* [Disk Drill](https://www.cleverfiles.com/) - 数据恢复
+* [iCare Recovery](https://www.icare-recovery.com/) - 数据恢复
+
+***
+
+## 加密工具
+
+* ⭐ **[VeraCrypt](https://www.veracrypt.fr/)** - 磁盘加密
+* ⭐ **[BitLocker](https://learn.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview)** - Windows 磁盘加密
+* [Cryptomator](https://cryptomator.org/) - 云文件加密
+* [AxCrypt](https://www.axcrypt.net/) - 文件加密
+* [7-Zip](https://www.7-zip.org/) - 带加密的压缩工具
+* [GPG4Win](https://www.gpg4win.org/) - 加密工具
+* [OpenPGP](https://www.openpgp.org/) - PGP 加密
+* [KeePass](https://keepass.info/) - 密码管理器
+* [Bitwarden](https://bitwarden.com/) - 密码管理器
+* [LastPass](https://www.lastpass.com/) - 密码管理器
+* [Dashlane](https://www.dashlane.com/) - 密码管理器
+* [1Password](https://1password.com/) - 密码管理器
+* [NordPass](https://nordpass.com/) - 密码管理器
+* [Authy](https://authy.com/) - 2FA 认证
+* [Google Authenticator](https://googleauthenticator.net/) - 2FA 认证
+* [Microsoft Authenticator](https://www.microsoft.com/en-us/security/mobile-authenticator-app) - 2FA 认证
+
+***
+
+## 系统工具
+
+* **[Sysinternals Suite](https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite)** - 系统工具
+* **[Process Hacker](https://processhacker.sourceforge.io/)** - 进程管理器
+* **[System Informer](https://systeminformer.sourceforge.io/)** - 系统监控
+* **[TCPView](https://learn.microsoft.com/en-us/sysinternals/downloads/tcpview)** - TCP/UDP 端点查看器
+* **[Handle](https://learn.microsoft.com/en-us/sysinternals/downloads/handle)** - 句柄查看工具
+* **[Process Monitor](https://learn.microsoft.com/en-us/sysinternals/downloads/procmon)** - 文件系统/注册表监控
+* **[Autoruns](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns)** - 启动项管理器
+* **[RegDelNull](https://learn.microsoft.com/en-us/sysinternals/downloads/regdelnull)** - 注册表清理
+* **[Windows Repair](https://www.tweaking.com/content/page/windows_repair_all_in_one.html)** - 系统修复工具
+* **[Dism++](https://www.chuyu.me/)** - 系统优化/部署
+* **[NTLite](https://www.ntlite.com/)** - Windows 定制工具
+* **[MSMG Toolkit](https://msmgtoolkit.in/)** - Windows 定制工具
+* **[Windows ISO Downloader](https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool)** - Windows/Office ISO 下载工具
+* **[Rufus](https://rufus.ie/)** - USB 启动盘制作工具
+* **[Ventoy](https://www.ventoy.net/)** - 多系统 USB 启动盘工具
+* **[Etcher](https://www.balena.io/etcher/)** - USB 启动盘制作工具
+* **[Hiren's Boot CD PE](https://www.hirensbootcd.org/)** - 系统修复启动盘
+* **[Ultimate Boot CD](https://www.ultimatebootcd.com/)** - 系统修复启动盘
+* **[SystemRescue](https://www.system-rescue.org/)** - 系统修复工具
+* **[Trinity Rescue Kit](https://trinityhome.org/)** - 系统修复工具
+* **[NirSoft Utilities](https://www.nirsoft.net/)** - 系统工具集合
+* **[PowerToys](https://github.com/microsoft/PowerToys)** - Windows 实用工具集
+* **[giacomelli/SystemTools](https://github.com/giacomelli/SystemTools)** - 系统工具集
+* **[D7II](https://www.d7program.com/d7ii/)** - 系统优化工具
+* **[SDIO](https://www.sdio.info/)** - 系统工具集合
+
+***
+
+## 办公套件
+
+* [LibreOffice](https://www.libreoffice.org/) - 开源办公套件
+* [Apache OpenOffice](https://www.openoffice.org/) - 开源办公套件
+* [FreeOffice](https://www.freeoffice.com/) - 免费办公套件
+* [OnlyOffice](https://www.onlyoffice.com/) - 开源办公套件
+* [WPS Office](https://www.wps.com/) - 办公套件
+* [Calligra Suite](https://calligra.org/) - 开源办公套件
+* [SoftMaker FreeOffice](https://www.freeoffice.com/) - 免费办公套件
+* [Ashampoo Office](https://www.ashampoo.com/en/usd/oft/0328/Office-Free) - 免费办公套件
+
+***
+
+## 系统工具
+
+* **[Sysinternals Suite](https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite)** - 系统工具
+* **[Process Hacker](https://processhacker.sourceforge.io/)** - 进程管理器
+* **[System Informer](https://systeminformer.sourceforge.io/)** - 系统监控
+* **[TCPView](https://learn.microsoft.com/en-us/sysinternals/downloads/tcpview)** - TCP/UDP 端点查看器
+* **[Handle](https://learn.microsoft.com/en-us/sysinternals/downloads/handle)** - 句柄查看工具
+* **[Process Monitor](https://learn.microsoft.com/en-us/sysinternals/downloads/procmon)** - 文件系统/注册表监控
+* **[Autoruns](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns)** - 启动项管理器
+* **[RegDelNull](https://learn.microsoft.com/en-us/sysinternals/downloads/regdelnull)** - 注册表清理
+* **[Windows Repair](https://www.tweaking.com/content/page/windows_repair_all_in_one.html)** - 系统修复工具
+* **[Dism++](https://www.chuyu.me/)** - 系统优化/部署
+* **[NTLite](https://www.ntlite.com/)** - Windows 定制工具
+* **[MSMG Toolkit](https://msmgtoolkit.in/)** - Windows 定制工具
+* **[Windows ISO Downloader](https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool)** - Windows/Office ISO 下载工具
+* **[Rufus](https://rufus.ie/)** - USB 启动盘制作工具
+* **[Ventoy](https://www.ventoy.net/)** - 多系统 USB 启动盘工具
+* **[Etcher](https://www.balena.io/etcher/)** - USB 启动盘制作工具
+* **[Hiren's Boot CD PE](https://www.hirensbootcd.org/)** - 系统修复启动盘
+* **[Ultimate Boot CD](https://www.ultimatebootcd.com/)** - 系统修复启动盘
+* **[SystemRescue](https://www.system-rescue.org/)** - 系统修复工具
+* **[Trinity Rescue Kit](https://trinityhome.org/)** - 系统修复工具
+* **[NirSoft Utilities](https://www.nirsoft.net/)** - 系统工具集合
+* **[PowerToys](https://github.com/microsoft/PowerToys)** - Windows 实用工具集
+* **[giacomelli/SystemTools](https://github.com/giacomelli/SystemTools)** - 系统工具集
+* **[D7II](https://www.d7program.com/d7ii/)** - 系统优化工具
+* **[SDIO](https://www.sdio.info/)** - 系统工具集合
+
+***
+
+## 分区工具
+
+* [MiniTool Partition Wizard](https://www.partitionwizard.com/) - 分区管理
+* [EaseUS Partition Master](https://www.easeus.com/partition-manager/) - 分区管理
+* [AOMEI Partition Assistant](https://www.aomeitech.com/aomei-partition-assistant.html) - 分区管理
+* [GParted](https://gparted.org/) - 分区编辑器
+* [Macrorit Partition Expert](https://macrorit.com/partition-magic-manager/windows-10-partition-manager-free-download.html) - 分区管理
+* [DiskGenius](https://www.diskgenius.com/) - 分区管理/数据恢复
+
+***
+
+## 系统文件对比/同步
+
+* [WinMerge](https://winmerge.org/) - 文件/文件夹对比工具
+* [Meld](https://meldmerge.org/) - 文件对比工具
+* [FreeFileSync](https://freefilesync.org/) - 文件同步
+* [Syncthing](https://syncthing.net/) - 文件同步
+* [Resilio Sync](https://www.resilio.com/individuals/) - 文件同步
+* [Rsync](https://rsync.samba.org/) - 文件同步
+* [Duplicati](https://www.duplicati.com/) - 文件备份
+* [Duplicacy](https://duplicacy.com/) - 文件备份
+* [Borg](https://www.borgbackup.org/) - 文件备份
+* [Restic](https://restic.net/) - 文件备份
+* [Kopia](https://kopia.io/) - 文件备份
+
+***
+
+## 其他
+
+* [HWiNFO](https://www.hwinfo.com/) - 硬件信息
+* [AIDA64](https://www.aida64.com/) - 系统诊断
+* [Prime95](https://www.mersenne.org/download/) - 稳定性测试
+* [FurMark](https://geeks3d.com/furmark/) - GPU 压力测试
+* [OCCT](https://www.ocbase.com/) - 系统稳定性测试
+* [TechPowerUp](https://www.techpowerup.com/download/) - 系统工具集合
+* [Ninite](https://ninite.com/) - 批量安装应用
+* [Chocolatey](https://chocolatey.org/) - 包管理器
+* [Scoop](https://scoop.sh/) - 命令行包管理器
+* [Winget](https://github.com/microsoft/winget-cli) - Windows 包管理器
+
+***
+
+## 系统诊断
+
+* [Speccy](https://www.ccleaner.com/speccy) - 系统信息
+* [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) - 硬盘健康监测
+* [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - CPU 信息
+* [GPU-Z](https://www.techpowerup.com/gpuz/) - 显卡信息
+* [HD Tune](https://www.hdtune.com/) - 硬盘测试
+* [CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/) - 磁盘基准测试
+* [MemTest86](https://www.memtest86.com/) - 内存测试
+* [UserBenchmark](https://www.userbenchmark.com/) - PC 基准测试
+* [Novabench](https://novabench.com/) - 系统基准测试
+* [PassMark](https://www.passmark.com/) - 性能测试
+* [Geekbench](https://www.geekbench.com/) - 跨平台基准测试
+* [Cinebench](https://www.maxon.net/en/cinebench) - 渲染基准测试
+* [3DMark](https://www.ul.com/benchmarks/3dmark) - 游戏基准测试
+* [PCMark](https://www.ul.com/benchmarks/pcmark) - PC 基准测试
+
+***

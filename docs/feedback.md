@@ -1,86 +1,86 @@
 ---
-title: Feedback
-description: Anonymous comments taken from Reddit, Discord, X.com and our feedback system.
+title: 反馈
+description: 来自 Reddit、Discord、X.com 和我们反馈系统的匿名评论。
 next: false
 prev: false
 lastUpdated: false
 outline: false
 ---
 
-### Feedback
+### 反馈
 
-:::tip What is this?
-Anonymous comments taken from Reddit, Discord, X.com and our feedback system.
+:::tip 这是什么？
+来自 Reddit、Discord、X.com 和我们反馈系统的匿名评论。
 :::
 
 ***
 
-* *"Your sources have allowed me to give my father whatever shows or movies he asks for. Old stuff from when he was younger and all that. Stuff I wouldn't be able to access otherwise. It means a lot since he had heart surgery in Feb 2020 and cant really do much anymore, so its one of the few ways he can keep himself busy. Thank you."*
+* *"您的资源让我能够给我父亲提供他想要的任何节目或电影。他年轻时看的老东西等等。这些东西我本来是无法获取的。这意义重大，因为他在2020年2月做了心脏手术，现在做不了太多事情，所以这是他打发时间的少数方式之一。谢谢你们。"*
 
-* *"Best Wiki ever. Wifey has stage 4 cancer. I am a working joe keeping this household afloat on warehouse wages while supporting our family. Finding this wiki has kept us close to our old way of life for free-fifty, lol! Books for the paperwhite, movies, TV, gaming, education, etc., etc. There is so much here that has enhanced our lives. And I find more in the depths every time I go exploring. Please don't ever quit updating/adding to this library of awesomeness! Anyway, I just wanted to drop an anonymous thank you for everything here. Amazing resource. Happy to have a carefully curated list instead of roaming blind into the internet wilds. You are doing some amazing works here. Basically my homepage now. Infinite Kudos!"*
+* *"最好的维基。我妻子癌症第四期。我是一个普通上班族，靠仓库工资维持这个家并养家糊口。找到这个维基让我们几乎免费地保持了以前的生活方式，哈哈！Kindle的书籍、电影、电视、游戏、教育等等。这里有很多东西提升了我们的生活品质。每次探索都能发现更多宝藏。请永远不要停止更新/补充这个超棒的资源库！总之，我只是想匿名感谢这里的一切。惊人的资源。很庆幸有一个精心策划的列表，而不是在互联网荒野中盲目摸索。你们在做着了不起的工作。这基本上是我的主页了。无限赞赏！"*
 
-* *"That's why I love FMHY so much. Before id spend hours and hours every day trying to hunt useful websites for myself."*
+* *"这就是我如此热爱 FMHY 的原因。以前我每天要花好几个小时试图为自己寻找有用的网站。"*
 
-* *"I love this website so much. I literally have it labelled as "Everything" in my favorites."*
+* *"我非常喜欢这个网站。我在收藏夹里把它标记为'一切'。"*
 
-* *"No bs, and has all the info I need to gain free access to media."*
+* *"没有废话，而且有我免费获取媒体所需的所有信息。"*
 
-* *"You have saved me in so many ways that it could not fit here in terms of the amount of text. I'm from a poor "third world" country and a portal like this allows me endless things that I simply can't afford! Keep up the good spirit and I wish you all the best from the bottom of my heart!"*
+* *"你们在很多方面拯救了我，多到这里的文字都无法完全表达。我来自一个贫穷的'第三世界'国家，这样一个门户让我能接触到无数我根本负担不起的东西！保持这份美好的精神，我衷心地祝愿你们一切顺利！"*
 
-* *"I love this website so much. I'm a current college student and the resources offered on this page have eased my stress in terms of finding textbooks and readings - thank you!"*
+* *"我太喜欢这个网站了。我是一名在校大学生，这个页面提供的资源减轻了我寻找教科书和阅读材料的压力——谢谢你们！"*
 
-* *"Y'all have helped not only me but my friends through college and the pandemic in ways you all probably don't even realize."*
+* *"你们不仅仅帮助了我，还帮助了我的朋友们度过了大学和疫情，在你们可能甚至都没有意识到的方式上。"*
 
-* *"Thank you so much for this effort, guys, you are amazing, I stopped searching on google for stuff and got addicted to your website, keep going :)"*
+* *"非常感谢你们的这份努力，你们太棒了，我不再在谷歌上搜索东西了，而是沉迷于你们的网站，继续加油 :)"*
 
-* *"Literally, when I need something, all I need to do is check here first! thank you for being here, for being access to everyone and anyone, I really really appreciate it!"*
+* *"说真的，当我需要什么东西时，我只需要先来这里查一下！感谢你们的存在，感谢你们对每个人开放，我真的非常感激！"*
 
-* *"Shoutout to you guys for letting my 60 year old mother feel like ms hackerman and enjoy her shows."*
+* *"向你们致敬，让我60岁的妈妈感觉自己像个黑客女侠，享受她的节目。"*
 
-* *"Me and my friends call your site the keys to the internet, its kinda amazing."*
+* *"我和我的朋友称你们的网站为互联网的钥匙，它真的太棒了。"*
 
-* *"This website is genuinely a candidate for top 3 greatest websites to ever exist on the web. Thanks to it I was able to download games, build a whole local music library, watch all the movies and tv shows I want, read all the books I want. This website has genuinely enlightened me and guided me into new life and im forever thankful."*
+* *"这个网站绝对有资格成为网络上有史以来最伟大的前三名网站。多亏了它，我才能下载游戏，建立整个本地音乐库，看我想看的电影和电视剧，读我想读的书。这个网站真的启迪了我，引导我进入新的生活，我永远感激不尽。"*
 
-* *"Thank you to whoever made the website,it has made things easier for a lot of people. I pinned this website on an old laptop I installed linux mint xfce on for one of my dads friends who is about 65 years old and he loves it, free media is awesome."*
+* *"感谢制作这个网站的人，它让很多事情对很多人来说变得更容易了。我把这个网站固定在我给父亲的一位朋友装 Linux Mint xfce 的老笔记本电脑上，他大约65岁，他很喜欢，免费媒体太棒了。"*
 
-* *"A really great and detailed job of putting everything together. I hope you hear this a lot, but thanks for all the work you put in this, people appreciate it more than you think <3."*
+* *"把所有东西整合在一起真的做得非常出色。希望你们经常听到这句话，但还是要感谢你们为此付出的所有努力，人们比你们想象的更感激 <3。"*
 
-* *"Thanks to FMHY, I was able to find a piece of software that upped my efficiency at work three-fold. Literal life-saver. Thank you!"*
+* *"感谢 FMHY，我找到了一个软件，让我的工作效率提高了三倍。简直是救命稻草。谢谢！"*
 
-* *"Great site! It's so useful, I now know about a lot more apps and such. Definitely made my life easier!"*
+* *"很棒的网站！太有用了，我现在知道了很多应用和工具。绝对让我的生活更轻松了！"*
 
-* *"I am in egypt where everything is not cheap and i discovered FMHY mid 2021, it has been one of the best websites for me as I have learned about computers and piracy as a whole, I also learned to use linux and programming which has lead me to find a job way easier now and I could provide for my whole family. You also made me the IT guy of the house and made me look like the cool nerd guy who has a website for anything."*
+* *"我在埃及，这里什么都不便宜，我在2021年中发现了 FMHY，它对我来说是最好的网站之一，我学到了关于电脑和盗版的知识，我还学会了使用 Linux 和编程，这让我现在找工作容易多了，我也能养活我全家了。你们还让我成为了家里的 IT 人，让我看起来像个酷酷的极客，什么都有个网站。"*
 
-* *"I recently finished my exams and im happy to say i got into med school. i am so beyond grateful for what you do. I didnt have the money for cram school and tutoring, i heavily relied on the resources here, and i will probably continue to do so. I want to become a gynecologist and hopefully bring some real change for the health of my fellow women. Thank you all!"*
+* *"我最近完成了考试，很高兴地说我考上了医学院。我对你们所做的一切感激不尽。我没有钱去上补习班和辅导课，我严重依赖这里的资源，而且我可能会继续这样做。我想成为一名妇科医生，希望能为我女性同胞的健康带来一些真正的改变。谢谢你们！"*
 
-* *"I want to express my sincere appreciation for the wiki of useful resources. It has proven to be an invaluable source of information, providing a wide range of knowledge on various topics. The well-organized and comprehensive nature of the wiki has been instrumental in aiding my research and learning. I am truly grateful for the effort and dedication that has gone into curating and maintaining such a valuable repository of knowledge. Thank you for this exceptional resource."*
+* *"我想对你们这个有用资源维基表达诚挚的感谢。它被证明是无价的信息来源，提供了关于各种主题的广泛知识。这个维基组织良好且内容全面，对我的研究和学习起到了重要的帮助作用。我真心感谢你们在策划和维护这样一个宝贵的知识库上所付出的努力和奉献。感谢你们提供了这个卓越的资源。"*
 
-* *I've never had a dedicated site I can immediately go to that has virtually everything I need all in one singular organized, accessible and easy-to-use place. One thing I personally love is the flow of how everything is designed, it's super simple yet also very informative while still being incredibly appealing visually. Thank you to everyone who contributed to the compilation of this website!"*
+* *"我从来没有一个专门的网站可以立刻去，那里几乎有我需要的所有东西，而且全部集中在一个组织有序、可访问且易于使用的地方。我个人喜欢的是整个设计流程，超级简单却又信息量十足，同时在视觉上仍然非常吸引人。感谢所有为这个网站的汇编做出贡献的人！"*
 
-* *"I'm not kidding when I say my quality of life would be SO. MUCH. LOWER. if it wasn't for the people running this thing, as well as the people running all the tools we get to use. I seriously pray we get at least several more solid years of this style of internet."*
+* *"我说真的，如果没有运营这个网站的人们，以及我们能够使用的所有工具的运营者，我的生活质量会低得——太多——了。我真心祈祷我们还能再享受这种互联网风格好几年。"*
 
-* *"FMHY genuinely made my life better. I am someone who loves video editing and I think it is my true passion, and if it weren't for fmhy and r/piracy megathread, I would be extremely sad. Editing would be so pay to win. I don't think I have spent money in the last while because while most people window shop or look for stuff to buy to fill the void in their hearts, I can just find cool plugins and resources. Thank you to everyone in the community, your hard work is greatly appreciated."*
+* *"FMHY 真的让我的生活变得更好了。我热爱视频剪辑，我认为这是我真正的热情所在，如果没有 fmhy 和 r/piracy 的 mega 帖，我会非常难过。剪辑会变得如此'付费才能赢'。我不记得最近有花过钱，因为当大多数人逛网店或找东西买来填补内心空虚的时候，我可以找到很酷的插件和资源。感谢社区的每一个人，你们的辛勤工作得到了极大的赞赏。"*
 
-* *"You guys have made this wonderful piece of combined knowledge into website, its like being exposed to what not I haven't seen/experienced in my life. I am really grateful for this initiative as I am not that financially blessed and I cannot afford a lot of the software out in the market, but due to fmhy I have access to nearly everything."*
+* *"你们把这么多精彩的知识汇集成一个网站，就像让我接触到了生活中未曾见过/体验过的一切。我真的很感激这个倡议，因为我的经济条件不太好，买不起市场上的很多软件，但多亏了 fmhy，我几乎可以使用所有东西。"*
 
-* *"Amazing stuff. Spent almost whole day browsing this and I got introduced to tons of great software. Thank you!!"*
+* *"太棒了。花了几乎一整天浏览这个网站，了解到了很多很棒的软件。谢谢！！"*
 
-* *"I can't begin to express how much of a godsend this website is! Please keep up the terrific work and know that you are making a massive difference in the lives of students like me who can't always pay for subscriptions, or are just looking for a neat tool!"*
+* *"我无法用语言表达这个网站是多么的天赐之物！请继续保持这份出色的工作，要知道你们正在极大地改变着像我这样无法总是支付订阅费、或者只是想找一个好工具的学生们的生活！"*
 
-* *"Me and my sibling have made visiting this site a ritual. Seriously, we can't thank you enough for your work! Our broke third world living country asses would've never dreamed of seeing this much media."*
+* *"我和我的兄弟姐妹已经把访问这个网站变成了一种仪式。说真的，我们对你们的工作感激不尽！我们这些身处贫穷第三世界国家的人，做梦都想不到能看到这么多媒体资源。"*
 
-* *"I love FMHY's wiki, to the point I can't use the internet without it."*
+* *"我爱 FMHY 的维基，到了没有它我就无法上网的地步。"*
 
-* *"In this age of the internet, search engines are getting worse to find stuff we searching for. This site has helped me not only the when I can't find something on search engines, but also to find new stuff I didn't know existed. I go here first before I consult google. Thank you and everyone for your hard work. Don't loose this site, no matter the cost."*
+* *"在这个互联网时代，搜索引擎越来越难找到我们想要的东西。这个网站不仅帮助我在搜索引擎上找不到东西的时候能找到，还让我发现了很多我不知道存在的新东西。我在咨询谷歌之前先来这里。感谢你们和每个人的辛勤工作。不要失去这个网站，不管付出什么代价。"*
 
-* *"Before finding this, I've been searching google myself and have experienced viruses, fake info, and just bad advice. But the amazing guides and links on FMHY really make it so much safer and simpler to find the things I need. I'm sort of the tech person in my family, so it saves me from so much testing and work."*
+* *"在发现这个之前，我一直自己在谷歌上搜索，遇到过病毒、虚假信息和糟糕的建议。但 FMHY 上那些惊人的指南和链接真的让寻找我需要的东西变得更加安全和简单。我算是家里的技术员，所以这为我省去了大量的测试和工作。"*
 
-* *"This wiki is one of the best out there, seriously. Keep up the great work!"*
+* *"这个维基是迄今为止最好的维基之一，说真的。保持这样出色的工作！"*
 
-* *"This is the best wiki EVER, and I hope that the admins/people maintaining this wiki keep on adding cool stuff like this!"*
+* *"这是有史以来最好的维基，我希望管理员/维护这个维基的人继续添加像这样很酷的东西！"*
 
-* *"I love having an extreme amount of privacy. And it's not just for piracy, so this is REALLY useful. Thanks!"*
+* *"我喜欢拥有极致的隐私。而且这不仅仅是为了盗版，所以这真的很有用。谢谢！"*
 
-* *"Every person I share this sub with is always completely grateful, and it's no wonder why."*
+* *"我分享这个子版块给每个人都总是充满感激，这并不奇怪。"*
 
-* *"Finding out about FMHY's wiki is the best thing that has happened to me, it has helped me so much in every way imaginable, i'm very grateful, keep it up!"*
+* *"发现 FMHY 的维基是我身上发生过的最好的事情，它在各个方面都帮了我很多，我非常感激，继续保持！"*

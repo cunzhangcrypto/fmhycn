@@ -8,7 +8,7 @@
 
 ## ▷ Stream Aggregators
 
-* **Note** - Sites that check and play streams within their own custom player exclusively. Sources vary site-to-site depending on which sites feel are worth using. Make sure to install an [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (full version of uBlock Origin), and keep in mind some sites allow you to turn off ads in settings. Check the [grading page](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading) / [2](https://fmhy-grading.pages.dev/) to see each site's respective pros & cons.
+* **注意** - 这些网站使用自有的自定义播放器来检测和播放流媒体。各网站的来源不同，取决于哪些网站被认为值得使用。请确保安装[广告拦截器](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking)（uBlock Origin 完整版），并注意部分网站允许你在设置中关闭广告。查看[评分页面](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading) / [2](https://fmhy-grading.pages.dev/)了解各网站的优缺点。
 
 ***
 
@@ -68,7 +68,7 @@
 
 ## ▷ P-Stream Forks
 
-* **Note** - Sites that fork the original P-Stream / movie-web projects. You can add **extra sources** to these by using this **[extension](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/movie-web-sources.md)**. Default sources vary site-to-site depending on which sites feel are worth using. Make sure to install an [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (full version of uBlock Origin), and keep in mind some sites allow you to turn off ads in settings.
+* **注意** - 这些网站分叉自原始 P-Stream / movie-web 项目。你可以使用这个**[扩展](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/movie-web-sources.md)**为这些网站添加**额外来源**。各网站的默认来源不同，取决于哪些网站被认为值得使用。请确保安装[广告拦截器](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking)（uBlock Origin 完整版），并注意部分网站允许你在设置中关闭广告。
 
 ***
 
@@ -84,7 +84,7 @@
 
 ## ▷ Dedicated-Server
 
-* **Note** - Sites with a focus on a single player / server. These are generally good in terms of speed, consistency, and having less mislabeled content. Many also remove and/or fix broken links manually. Make sure to install an [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (full version of uBlock Origin), and keep in mind some sites allow you to turn off ads in settings. Check the [grading page](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading) / [2](https://fmhy-grading.pages.dev/) to see each site's respective pros & cons.
+* **注意** - 这些网站专注于单一播放器/服务器。在速度、稳定性和内容标注准确性方面通常表现较好。许多网站还会手动删除和/或修复失效链接。请确保安装[广告拦截器](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking)（uBlock Origin 完整版），并注意部分网站允许你在设置中关闭广告。查看[评分页面](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading) / [2](https://fmhy-grading.pages.dev/)了解各网站的优缺点。
 
 ***
 
@@ -119,7 +119,7 @@
 
 ## ▷ Multi-Server
 
-* **Note** - Sites that allow users to choose between multiple different players from a list. Sources vary site-to-site depending on which sites feel are worth using. Make sure to install an [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (full version of uBlock Origin), and keep in mind some sites allow you to turn off ads in settings. Check the [grading page](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading) / [2](https://fmhy-grading.pages.dev/) to see each site's respective pros & cons.
+* **注意** - 这些网站允许用户从列表中选择多个不同的播放器。片源因站而异，取决于各站认为哪些源值得使用。请确保安装 [广告拦截器](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking)（uBlock Origin 完整版），并注意部分网站允许在设置中关闭广告。查看 [评分页面](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading) / [2](https://fmhy-grading.pages.dev/) 了解各站的具体优缺点。
 
 ***
 
@@ -158,7 +158,7 @@
 
 ## ▷ Multi-Server (Backups)
 
-* **Note** - More sites that allow users to choose between multiple different players from a list. Sources vary site-to-site depending on which sites feel are worth using. Make sure to install an [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (full version of uBlock Origin), and keep in mind some sites allow you to turn off ads in settings. Check the [grading page](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading) / [2](https://fmhy-grading.pages.dev/) to see each site's respective pros & cons.
+* **注意** - 更多允许用户从列表中选择多个不同播放器的网站。片源因站而异，取决于各站认为哪些源值得使用。请确保安装 [广告拦截器](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking)（uBlock Origin 完整版），并注意部分网站允许在设置中关闭广告。查看 [评分页面](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading) / [2](https://fmhy-grading.pages.dev/) 了解各站的具体优缺点。
 
 ***
 
@@ -223,7 +223,7 @@
 
 ## ▷ Video Streaming
 
-* **Note** - These are good for finding classic, obscure, and short films.
+* **注意** - 这些网站适合查找经典电影、冷门电影和短片。
 
 ***
 
@@ -357,7 +357,7 @@
 
 ## ▷ TV Streaming
 
-* **Note** - Keep in mind sites listed in the main streaming sections also have TV shows. The sites below offer exclusively TV content.
+* **注意** - 请注意，主要流媒体分区中列出的网站也包含电视节目。以下网站则专门提供电视内容。
 
 ***
 
@@ -462,7 +462,7 @@
 
 # ► Live TV / Sports
 
-* **Note** - Make sure to install an [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (we recommend the full version of uBlock Origin) before using live sites. Try a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) if sites are blocked, and remember to use [throwaway](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_temp_mail) or [alias](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_email_aliasing) emails when signing up for sites.
+* **注意** - 在使用直播网站之前，请确保安装 [广告拦截器](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking)（推荐 uBlock Origin 完整版）。如果网站被屏蔽，可以尝试使用 [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn)，注册网站时请记得使用 [一次性邮箱](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_temp_mail) 或 [邮箱别名](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_email_aliasing)。
 
 ***
 
@@ -523,7 +523,7 @@
 
 ## ▷ Live Sports
 
-* **Note** - Make sure to install an [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (we recommend the full version of uBlock Origin) before using live sites. Try a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) if sites are blocked, and remember to use [throwaway](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_temp_mail) or [alias](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_email_aliasing) emails when signing up for sites.
+* **注意** - 在使用直播网站之前，请确保安装 [广告拦截器](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking)（推荐 uBlock Origin 完整版）。如果网站被屏蔽，可以尝试使用 [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn)，注册网站时请记得使用 [一次性邮箱](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_temp_mail) 或 [邮箱别名](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_email_aliasing)。
 
 ***
 
@@ -681,7 +681,7 @@
 
 ## ▷ Android TV / Firestick
 
-* **Note** - Note that the Firestick Select cannot run any Android Apps.
+* **注意** - 请注意，Firestick Select 无法运行任何 Android 应用。
 
 ***
 
@@ -727,7 +727,7 @@
 
 # ► Download Sites
 
-* **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** to skip link shorteners.
+* **注意** - 使用 **[重定向绕过工具](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** 来跳过短链接。
 
 ***
 
@@ -827,7 +827,7 @@
 
 ## ▷ Anime Downloading
 
-* **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** to skip link shorteners.
+* **注意** - 使用 **[重定向绕过工具](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** 来跳过短链接。
 
 ***
 
@@ -862,7 +862,7 @@
 
 # ► Torrent Apps
 
-* **Note** - Remember to use a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) before torrenting and [bind](https://wispydocs.pages.dev/torrenting/) it to your [client](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients) if it allows.
+* **注意** - 下载种子前请记得使用 [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)，并在客户端允许的情况下将其 [绑定](https://wispydocs.pages.dev/torrenting/) 到你的 [客户端](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients)。
 
 ***
 
@@ -911,7 +911,7 @@
 
 # ► Torrent Sites
 
-* **Note** - Keep in mind that [torrent aggregators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25B7_aggregators), or setups like Nuvio/Stremio & Torrentio, are sometimes better when it comes to finding content.
+* **注意** - 请记住，[种子聚合器](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25B7_aggregators) 或 Nuvio/Stremio 和 Torrentio 等工具，在查找内容方面有时效果更好。
 
 ***
 

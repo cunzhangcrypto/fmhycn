@@ -4,7 +4,7 @@
 ***
 ***
 
-* **Warning** - It's generally best to avoid torrent sites (including aggregators) for software and games, with the exception of highly trusted uploaders, such as m0nkrus / FitGirl. Instead, you can use our sections for [Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download/#wiki_.25BA_software_sites) and [Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games/#wiki_.25BA_download_games).
+* **警告** - 通常最好避免使用种子网站（包括聚合器）来下载软件和游戏，除非是来自高度可信的上传者，例如 m0nkrus / FitGirl。相反，你可以使用我们的 [软件](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download/#wiki_.25BA_software_sites) 和 [游戏](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games/#wiki_.25BA_download_games) 分区。
 
 ***
 
@@ -73,7 +73,7 @@
 
 # ► Torrent Clients
 
-* **Warning** - Remember to [bind](https://wispydocs.pages.dev/torrenting/) your [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) to your client to avoid ISP letters.
+* **警告** - 记得将你的 [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) [绑定](https://wispydocs.pages.dev/torrenting/) 到你的客户端，以避免收到 ISP 警告信。
 
 ***
 
