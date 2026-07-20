@@ -6,6 +6,8 @@ import Announcement from './components/Announcement.vue'
 import Base64Dialog from './components/Base64Dialog.vue'
 import Sidebar from './components/SidebarCard.vue'
 import { useTheme } from './themes/themeHandler'
+import AdBanner from './components/AdBanner.vue'
+import NativeBanner from './components/NativeBanner.vue'
 
 const { isDark } = useData()
 const { setMode } = useTheme()
@@ -145,6 +147,12 @@ onUnmounted(() => {
         浏览更多资源
         <span class="inline-block i-twemoji:sparkles" />
       </p>
+    </template>
+    <template #home-features-after>
+      <AdBanner />
+    </template>
+    <template #doc-bottom>
+      <NativeBanner />
     </template>
     <Content />
   </Layout>
